@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - давайте</title>
+ <link>https://vse.la/teg/davayte</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Давайте петь</title>
+ <link>https://vse.la/demo/davayte-pet</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я иду, а звёзды катятся.&lt;br /&gt;
+Сколько дней из жизни тратится,&lt;br /&gt;
+Чтобы делать то, что не нравится,&lt;br /&gt;
+Даже не представить!&lt;/p&gt;
+
+&lt;p&gt;Я живу, а мне всё кажется,&lt;br /&gt;
+Что-то жизнь никак не ладится,&lt;br /&gt;
+И не хочет, чтоб по-моему всё было&lt;br /&gt;
+Всё как в сказке.&lt;/p&gt;
+
+&lt;p&gt;Припев:&lt;br /&gt;
+Давайте петь, давайте жить!&lt;br /&gt;
+Давайте жизнь свою любить&lt;br /&gt;
+И каждый день встречать рассвет,&lt;br /&gt;
+Как будто вам семнадцать лет!&lt;br /&gt;
+Поменьше есть, поменьше спать,&lt;br /&gt;
+Советы в книжках не искать.&lt;br /&gt;
+Ты только сам найдёшь ответ,&lt;br /&gt;
+Как он прекрасен, белый свет!&lt;/p&gt;
+
+&lt;p&gt;Жизнь летит, земля всё крутится,&lt;br /&gt;
+И мечта твоя не сбудется,&lt;br /&gt;
+Если будешь дома ты париться&lt;br /&gt;
+И всё ждать и плакать.&lt;/p&gt;
+
+&lt;p&gt;Вытри слёзы, всё получится.&lt;br /&gt;
+На ошибках люди учатся,&lt;br /&gt;
+И без них тебе не справиться&lt;br /&gt;
+Со своей бедою.&lt;/p&gt;
+
+&lt;p&gt;(Припев) х2&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/demo&quot;&gt;Демо&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/2001&quot;&gt;2001&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/sladkaya-zhizn&quot;&gt;Сладкая жизнь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-s-toboy&quot;&gt;Я с тобой&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/pet&quot;&gt;петь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/davayte&quot;&gt;давайте&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vdohnovenie&quot;&gt;Вдохновение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/druzhba&quot;&gt;Дружба&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/pokoy&quot;&gt;Покой&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Oct 2016 21:22:52 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">3854 at https://vse.la</guid>
+ <comments>https://vse.la/demo/davayte-pet#comments</comments>
+</item>
+</channel>
+</rss>
