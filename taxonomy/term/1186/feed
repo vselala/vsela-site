@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - музыка подруга</title>
+ <link>https://vse.la/teg/muzyka-podruga</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Музыка нас связала</title>
+ <link>https://vse.la/mirazh/muzyka-nas-svyazala</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Позабудь об этом дне,&lt;br /&gt;
+Спор не нужен никому.&lt;br /&gt;
+Не читай нотаций мне,&lt;br /&gt;
+Мама, это ни к чему.&lt;/p&gt;
+
+&lt;p&gt;Снова к друзьям я своим убегаю.&lt;br /&gt;
+Что меня тянет сюда, я не знаю.&lt;br /&gt;
+Без музыки мне оставаться надолго нельзя.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Припев:&lt;/strong&gt;&lt;br /&gt;
+Музыка нас связала,&lt;br /&gt;
+Тайною нашей стала.&lt;br /&gt;
+Всем уговорам твержу я в ответ:&lt;br /&gt;
+Нас не разлучат, нет!&lt;/p&gt;
+
+&lt;p&gt;​Музыка нас связала,&lt;br /&gt;
+Тайною нашей стала.&lt;br /&gt;
+Всем уговорам твержу я в ответ:&lt;br /&gt;
+Нас не разлучат, нет!&lt;/p&gt;
+
+&lt;p&gt;Я забыла все, чему&lt;br /&gt;
+Нас учили столько лет&lt;br /&gt;
+Неужели я сама&lt;br /&gt;
+Не найду на все ответ&lt;/p&gt;
+
+&lt;p&gt;Снова к друзьям я своим убегаю&lt;br /&gt;
+Что меня тянет сюда я не знаю&lt;br /&gt;
+Без музыки мне оставаться надолго нельзя&lt;/p&gt;
+
+&lt;p&gt;(Припев)&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mirazh&quot;&gt;Мираж&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/900&quot;&gt;900&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov-k-muzyke&quot;&gt;Любовь к музыке&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/muzyka-podruga&quot;&gt;музыка подруга&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/muzyka&quot;&gt;музыка&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/druzhba&quot;&gt;Дружба&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/56384141@N03/49928362206/in/photostream/&quot; target=&quot;_blank&quot;&gt;kimberly °(ᵔᴥᵔ)° Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;4180&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 04 Nov 2015 00:39:45 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">2495 at https://vse.la</guid>
+ <comments>https://vse.la/mirazh/muzyka-nas-svyazala#comments</comments>
+</item>
+<item>
+ <title>Таинственная подруга</title>
+ <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B3%D0%B0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B3%D0%B0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/54d323731f395d8a5d8b458d.jpg&quot; width=&quot;180&quot; height=&quot;113&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;pre&gt;
+У меня есть подруга. Ее не знает никто.
+&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Ее не видно, и потрогать ее тоже нельзя.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Она не такая, она другая, она поможет всегда
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;И сейчас я знаю, она со мной навсегда.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Ее никто не увидит, не услышит никто.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Как спокойна она всегда и мила,
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Не поймет, как важна для души она
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Ну, это, конечно, исключая меня.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;В дороге, в машине, или просто сидя -
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Слушаю я и вливаюсь в тебя.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;В моей вселенной ты занимаешь огромную часть
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;А посещаешь мой дом почти каждый час.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Музыка! Ты помогаешь, поверь,
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Когда хорошо и когда уже плохо.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Падаем, катимся вниз по траве,
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Я буду любить до последнего вздоха.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Знаешь, я без тебя не могу!
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Без этого звона и прекрасных текстов.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Текстов, написанных для меня.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Музыка, я обожаю тебя!
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Нет, не подумайте, сами текста -
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Вообще не мои и не для меня.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Но чувство себя в какой-то из них
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Принуждает меня перебороть протеста.
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;В конце хотелось бы это сказать:
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;У каждого свой вкус, выбор и хобби,
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Но это никому не мешает показать
+&lt;/span&gt;&lt;span style=&quot;font-family:sans-serif,arial,verdana,trebuchet ms; line-height:1.6&quot;&gt;Свою любовь в таинственной подруге.&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prochie-temy&quot;&gt;Прочие темы&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/rodnye-druzya&quot;&gt;Родные, друзья&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/sobytiya&quot;&gt;События&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 16 Jun 2015 16:13:42 +0000</pubDate>
+ <dc:creator>Денис Акура</dc:creator>
+ <guid isPermaLink="false">1713 at https://vse.la</guid>
+ <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B4%D1%80%D1%83%D0%B3%D0%B0#comments</comments>
+</item>
+</channel>
+</rss>

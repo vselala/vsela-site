@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - программы диджея</title>
+ <link>https://vse.la/teg/programmy-didzheya</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Sound Forge. Обзор возможностей программы</title>
+ <link>https://vse.la/blog/sound-forge-obzor-vozmozhnostey-programmy</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/sound-forge-16.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/sound-forge-16.jpg&quot; width=&quot;330&quot; height=&quot;239&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Sound Forge – удобный и функциональный звуковой реактор от компании Sony Creative Software, в состав которого включен набор профессиональных утилит, которые предназначены для эффективной работы с аудиоданными. С помощью данного приложения можно качественно обрабатывать аудиокомпозиции, накладывая на них множество спецэффектов, проводить быструю и точную запись, а также редактирвоаните сэмплов, декодировать данные, конвертировать файлы с разные форматы и так далее.&lt;/p&gt;
+
+&lt;p&gt; Бюджетные версии данной утилиты предоставляют аудиоредактор начального уровня, который, впрочем, имеет неплохой функционал. Сюда можно отнести SF Audio Studio, который раньше носил другое название - Sonic Foundrys Sound Forge LE.&lt;/p&gt;
+
+&lt;p&gt; Еще в 2003-м году Sonic Foundry, которая является материнской компанией, главной Sound Forge, потерпела огромные убытки и непосредственно столкнулась с внушительной конкуренцией со стороны остальных крупных игроков в данном сегменте. В последствии она соглашается продать свои наработки фирме Sony Pictures Digital.&lt;br /&gt;
+ Изначально утилита поддерживала редакцию Windows 3.x, однако после выхода третьей версии отказалась от этой поддержки. А поддержка 95-й Windows была прекращена с выходом пятой версии продукта Sound Forge&lt;/p&gt;
+
+&lt;p&gt; Программа позволяет редактировать и создавать звуковые файлы с достоверной точностью и скоростью, при этом из сырого и недостаточно обработанного звука можно создать привлекательную мастер-копию. Кроме того же, с помощью этого ПО можно редактировать аудио и анализировать его (вырезать части, обрезать, накладывать спецэффекты и фильтры и многое прочее), создавать так называемые звуковые петли, проводить ремастеринг цифрового аудио, проводить реконструкцию старых материалов, моделировать всяческие акустические образы, создавать мастер-диски, потоковые медиафайлы и так далее. Интерфейс Sound Forge можно тонко настроить «под себя». Почти все инструменты и элементы интерфейса (волновые формы, в том числе маркеры, также высота окон) также могут быть настроены индивидуально под каждого пользователя по отдельности.&lt;/p&gt;
+
+&lt;p&gt; Продвинутая версия приложения поддерживает также многие видеоформаты, среди которых - MPEG-1 и MPEG-2, WMV, AVI. Также она работает с шаблонами типа MPEG-2 для компиляции HDV-совместимых медиафайлов с высоким разрешением. Кроме того, были включены шаблоны для работы с WMV также высокой разрешительной способности.&lt;br /&gt;
+ К настоящему моменту софт поддерживает практически все основные форматы медиаданных.&lt;/p&gt;
+
+&lt;p&gt; Системные требования данного ПО довольно посредственны. Это процессор с частотой 900 МГц, оперативная память 256 Мб, 150 Мб свободного пространства непосредственно на жестком диске, среда Microsoft Windows ХР или выше, движок DirectX 9.0c, Microsoft .NET Framework 2.0, а также наличие Internet Explorer 5.1. В 2012-м вышла также версия аудиоредактора и для платформы Mac OS X. В качестве дополнения к основной программе выпускается утилита Sonic Foundry MIDI Router, которая представляет собой виртуальный маршрутизатор системы MIDI.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/programmy-didzheya&quot;&gt;программы диджея&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 19 Nov 2015 08:14:39 +0000</pubDate>
+ <dc:creator>blogrepo</dc:creator>
+ <guid isPermaLink="false">2629 at https://vse.la</guid>
+ <comments>https://vse.la/blog/sound-forge-obzor-vozmozhnostey-programmy#comments</comments>
+</item>
+<item>
+ <title>Десять лучших программ для диджеев</title>
+ <link>https://vse.la/blog/desyat-luchshih-programm-dlya-didzheev</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/robot_rock_by_kon.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/robot_rock_by_kon.jpg&quot; width=&quot;330&quot; height=&quot;191&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Хотя рынок современного диджейского оборудования захватили несколько крупнейших компаний — Ableton, Serato и Native Instruments, они, все же, не так хорошо представлены в программных продуктах для персональных компьютеров. Напротив, в этой сфере конкурирует ряд чуть менее известных программных продуктов. У каждого из них есть свой набор интересных инструментов, преимущества и недостатки.&lt;/p&gt;
+
+&lt;h1&gt; 1. PCDJ Dex&lt;/h1&gt;
+
+&lt;p&gt;Пакет имеет полный набор стандартных функций. Среди них — микшер, эквалайзер и спецэффекты. Кроме того, есть и эксклюзивные функции, которые позволяют использовать видеомикшер и караоке. Программа предлагает 4 деки с синхронизацией ритма и тональности. Устройство поддерживает множество различных миди-контроллеров и может работать с цифровым винилом. В свободном доступе в сети находится триал-версия приложения.&lt;/p&gt;
+
+&lt;h1&gt; 2. Magix Digital DJ&lt;/h1&gt;
+
+&lt;p&gt; Обладает далеко не максимальным и удобным функционалом. Однако, при относительно недорогой цене, программа предлагает базовые инструменты для диджея. По своей сути, это урезанная версия Deckadance. Здесь предлагается двухдековое микширование, пэды эффектов, поддержка миди-контроллеров и лупов. Все функции имеют достаточно красивую и удобную визуализацию.&lt;/p&gt;
+
+&lt;h1&gt; 3. Mixvibes Cross&lt;/h1&gt;
+
+&lt;p&gt;Кросс от французских разработчиков в последнее время сильно модернизировался и укомплектовался многими полезными функциями. Интерфейс софта полностью настраиваемый и содержит 4 теки, сэмплер с 8-ю слотами. Есть библиотека эффектов, ряд контроллеров и виниловых цифровых систем. Имеется даже примочка для удаленного управления при помощи iPhone. Она реализована в качестве дополнительного экрана для просмотра треков.&lt;/p&gt;
+
+&lt;h1&gt; 4. Algoriddims Djay&lt;/h1&gt;
+
+&lt;p&gt; Пожалуй, лучшая диджейская программа для продукции Apple. Приложение хорошо интегрировано в iTunes и направлено, прежде всего, на новичков и любителей. Несмотря на это, она содержит множество гибких настроек.&lt;/p&gt;
+
+&lt;h1&gt; 5. Mixxx&lt;/h1&gt;
+
+&lt;p&gt; Главные преимущества продукта — открытый исходный код и бесплатность. Приложение доукомплектовывается армией пользователей и постоянно обновляется. В этом приложении имеется все необходимое для современного диджея.&lt;/p&gt;
+
+&lt;h1&gt; 6. Image-Line Deckadance 2&lt;/h1&gt;
+
+&lt;p&gt; Редактирование, привязка к ритм-сетке, гибкий интерфейс и полезная функция макроконтроля Smart Knob. Здесь всё — 4 деки для микшеров, 16-разъемный сэмплер, функция подключения внешних плагинов. Впрочем, по количеству встроенных контроллеров приложение отстает от своих конкурентов.&lt;/p&gt;
+
+&lt;h1&gt; 7. Atomix VirtualDJ Pro&lt;/h1&gt;
+
+&lt;p&gt; Весьма дорогостоящая программа. С этим и связан её очень мощный и гибкий функционал. Например, приложение может работать сразу с 99 виртуальными деками. Софт совместим с ReWire (может работать одновременно с разными виртуальными студиями). В программе представлено множество маппингов практически для всех моделей диджейских контроллеров.&lt;/p&gt;
+
+&lt;h1&gt; 8. Serato DJ&lt;/h1&gt;
+
+&lt;p&gt; Это один из лидеров цифрового винилового диджеинга. Поддерживает огромное количество контроллеров и систем эмуляции.&lt;/p&gt;
+
+&lt;h1&gt; 9. Ableton Live&lt;/h1&gt;
+
+&lt;p&gt; Не совсем диджейская программа. Скорее, это приложение для продюсинга. Тем не менее, многие диджеи выбирают именно его. Причина такой популярности — режим Session View. Он предназначен для запуска синхронизированных сэмплов, треков и клипов. Он помогает на интуитивном уровне «подгонять» материал по сетке времени. В качестве бонуса — огромный пакет заготовленных сэмплов и эффектов.&lt;/p&gt;
+
+&lt;h1&gt; 10. Native Instruments Traktor Pro&lt;/h1&gt;
+
+&lt;p&gt; Многие называют это приложение золотым стандартом цифрового диджеинга. По надежности и гибкости больше нет программ, подобных этой. Здесь есть все, что необходимо современному диджею.&lt;/p&gt;
+
+&lt;p&gt; Среди всего разнообразия рассмотренных программ сложно выделить одну, которая подошла бы сразу для всех диджеев. При выборе того или иного продукта необходимо исходить из бюджета, целей и задач в каждом конкретном случае.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/programmy-didzheya&quot;&gt;программы диджея&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 19 Nov 2015 07:58:45 +0000</pubDate>
+ <dc:creator>blogrepo</dc:creator>
+ <guid isPermaLink="false">2626 at https://vse.la</guid>
+ <comments>https://vse.la/blog/desyat-luchshih-programm-dlya-didzheev#comments</comments>
+</item>
+</channel>
+</rss>
