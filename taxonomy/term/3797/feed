@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Аида Ведищева</title>
- <link>https://vse.la/aida-vedishcheva</link>
+ <link>http://vse.la/aida-vedishcheva</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Песня про медведей / Где-то на белом свете (из к/ф &quot;Кавказская пленница&quot;)</title>
- <link>https://vse.la/pesni-iz-kino/pesnya-pro-medvedey-gde-na-belom-svete-iz-kf</link>
+ <link>http://vse.la/pesni-iz-kino/pesnya-pro-medvedey-gde-na-belom-svete-iz-kf</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Где-то на белом свете, там, где всегда мороз,&lt;br /&gt;
@@ -58,8 +58,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/pesni-iz-kino&quot;&gt;Песни из кино&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/zemlya&quot;&gt;Земля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/medvedi&quot;&gt;медведи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/vlyublyonnye&quot;&gt;влюблённые&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/god-0&quot;&gt;год&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/vremya&quot;&gt;время&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/glavnye-slova&quot;&gt;главные слова&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/na-svete&quot;&gt;на свете&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vdohnovenie&quot;&gt;Вдохновение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/volya&quot;&gt;Воля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vostorg&quot;&gt;Восторг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/interes&quot;&gt;Интерес&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/neterpenie&quot;&gt;Нетерпение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/svoboda&quot;&gt;Свобода&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/sozercanie&quot;&gt;Созерцание&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/rowan__ashlar/6700176087/&quot; target=&quot;_blank&quot;&gt;Poison Girl Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 19 Jan 2022 18:33:49 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4609 at https://vse.la</guid>
- <comments>https://vse.la/pesni-iz-kino/pesnya-pro-medvedey-gde-na-belom-svete-iz-kf#comments</comments>
+ <guid isPermaLink="false">4609 at http://vse.la</guid>
+ <comments>http://vse.la/pesni-iz-kino/pesnya-pro-medvedey-gde-na-belom-svete-iz-kf#comments</comments>
 </item>
 </channel>
 </rss>

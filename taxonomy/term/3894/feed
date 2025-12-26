@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - ягоды</title>
- <link>https://vse.la/teg/yagody</link>
+ <link>http://vse.la/teg/yagody</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Грибы-грибочки</title>
- <link>https://vse.la/lyudmila-zykina/griby-gribochki</link>
+ <link>http://vse.la/lyudmila-zykina/griby-gribochki</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Как в лесу, лесу зелёном, где растут дубы&lt;br /&gt;
@@ -52,8 +52,8 @@
 Автор слов: П.Черняев&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/priyatnaya-vstrecha&quot;&gt;Приятная встреча&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/priroda&quot;&gt;Природа&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/griby&quot;&gt;грибы&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/les&quot;&gt;лес&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/priroda&quot;&gt;природа&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/yagody&quot;&gt;ягоды&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vesele&quot;&gt;Веселье&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/volya&quot;&gt;Воля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/vostorg&quot;&gt;Восторг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/dezhavyu&quot;&gt;Дежавю&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/svoboda&quot;&gt;Свобода&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/130256363@N06/16326097971/&quot; target=&quot;_blank&quot;&gt;Honey_Dolly Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 21 May 2022 14:36:53 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4656 at https://vse.la</guid>
- <comments>https://vse.la/lyudmila-zykina/griby-gribochki#comments</comments>
+ <guid isPermaLink="false">4656 at http://vse.la</guid>
+ <comments>http://vse.la/lyudmila-zykina/griby-gribochki#comments</comments>
 </item>
 </channel>
 </rss>

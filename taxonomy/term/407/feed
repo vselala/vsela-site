@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Повести</title>
- <link>https://vse.la/proza/povesti</link>
+ <link>http://vse.la/proza/povesti</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>&quot;Поход на &quot;Медведе&quot;. Начало повести</title>
- <link>https://vse.la/proza/pohod-na-medvede-nachalo-povesti</link>
+ <link>http://vse.la/proza/pohod-na-medvede-nachalo-povesti</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;На капитанском мостике, внимательно глядя перед собой, стоял высокий сухощавый человек. Большие мозолистые ладони его лежали на ограждении площадки, длинные узловатые пальцы постукивали по крепкому дереву. Мужчина не был напряжен, но ясно было, что он ни на секунду не ослабляет своего внимания – слишком большая на нем лежала ответственность, чтобы чувствовать себя расслабленно.&lt;br /&gt;
 Его звали Эрих Лумборг, а в более узких кругах он был известен как Свинцовый Эрих. Ему было тридцать шесть лет от роду, и он успел завоевать себе определенную славу и специфическую известность – состоявший в чине капитана первого ранга Лумборг был угрюм, нелюдим до дикости. Не то, чтобы он уж очень отравлял жизнь команде – нет, Эрих был справедлив и честен – но, кажется, никто не слышал от него ни единого доброго слова. Зато весь корабль с легкостью определял на слух его крепкую витиеватую ругань.&lt;br /&gt;
 Каждый в команде знал также, что есть особый список вещей, которых делать не следует. Не то, чтобы это было как-то оговорено, но всякому новоприбывшему матросу скоро становилось ясно, что Лумборга не стоит отвлекать от чтения книг, не следует без необходимости будить по утрам, да еще нежелательно говорить при нем о женщинах. Эрих отчего-то на дух не переносил их.&lt;br /&gt;
@@ -51,8 +51,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tema field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/proza/povesti&quot;&gt;Повести&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 13 Sep 2015 09:19:11 +0000</pubDate>
  <dc:creator>Анатолий Власов</dc:creator>
- <guid isPermaLink="false">1912 at https://vse.la</guid>
- <comments>https://vse.la/proza/pohod-na-medvede-nachalo-povesti#comments</comments>
+ <guid isPermaLink="false">1912 at http://vse.la</guid>
+ <comments>http://vse.la/proza/pohod-na-medvede-nachalo-povesti#comments</comments>
 </item>
 </channel>
 </rss>

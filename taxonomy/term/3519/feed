@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - путешествия</title>
- <link>https://vse.la/teg/puteshestviya</link>
+ <link>http://vse.la/teg/puteshestviya</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Лето в лагере &quot;Артек&quot; (сочинение ученика 5 класса)</title>
- <link>https://vse.la/sochinenia/leto-v-lagere-artek-sochinenie-uchenika-5-klassa</link>
+ <link>http://vse.la/sochinenia/leto-v-lagere-artek-sochinenie-uchenika-5-klassa</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;(Другие сочинения о лагере &quot;Артек&quot; доступны по тегу &lt;a href=&quot;/teg/artek&quot;&gt;Артек&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;Две недели назад я вернулся из лагеря «Артек». Впечатления от поездки — самые яркие и приятные.&lt;/p&gt;
@@ -30,8 +30,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-r-soch field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Темы сочинения:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sochinenia/temy/kak-ya-provyol-leto&quot;&gt;Как я провёл лето&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/artek&quot;&gt;Артек&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/leto&quot;&gt;лето&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kak-ya-provyol-leto&quot;&gt;как я провёл лето&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/lager&quot;&gt;лагерь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/letniy-otdyh&quot;&gt;летний отдых&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/puteshestviya&quot;&gt;путешествия&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 17 Jun 2017 14:52:20 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4281 at https://vse.la</guid>
- <comments>https://vse.la/sochinenia/leto-v-lagere-artek-sochinenie-uchenika-5-klassa#comments</comments>
+ <guid isPermaLink="false">4281 at http://vse.la</guid>
+ <comments>http://vse.la/sochinenia/leto-v-lagere-artek-sochinenie-uchenika-5-klassa#comments</comments>
 </item>
 </channel>
 </rss>

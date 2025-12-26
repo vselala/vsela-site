@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Адыгейский</title>
- <link>https://vse.la/yazyk/adygeyskiy</link>
+ <link>http://vse.la/yazyk/adygeyskiy</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Ойра Ойра орира</title>
- <link>https://vse.la/adygeyskie-narodnye-pesni/oyra-oyra-orira</link>
+ <link>http://vse.la/adygeyskie-narodnye-pesni/oyra-oyra-orira</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Орайра орирайда орайдарида ма орайда&lt;br /&gt;
@@ -54,12 +54,12 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/adygeyskie-narodnye-pesni&quot;&gt;Адыгейские народные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/adygeyskiy&quot;&gt;Адыгейский&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/narodnaya-pesnya&quot;&gt;Народная песня&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 04 Dec 2015 17:34:46 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2717 at https://vse.la</guid>
- <comments>https://vse.la/adygeyskie-narodnye-pesni/oyra-oyra-orira#comments</comments>
+ <guid isPermaLink="false">2717 at http://vse.la</guid>
+ <comments>http://vse.la/adygeyskie-narodnye-pesni/oyra-oyra-orira#comments</comments>
 </item>
 <item>
  <title>Уэрэ сэрэ</title>
- <link>https://vse.la/adygeyskie-narodnye-pesni/uere-sere</link>
+ <link>http://vse.la/adygeyskie-narodnye-pesni/uere-sere</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Мы уэрэдыр хэкIуэтауэ пхуэзусами&lt;br /&gt;
@@ -82,12 +82,12 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/adygeyskie-narodnye-pesni&quot;&gt;Адыгейские народные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/adygeyskiy&quot;&gt;Адыгейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/narodnaya-pesnya&quot;&gt;Народная песня&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 29 Nov 2015 18:15:48 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2703 at https://vse.la</guid>
- <comments>https://vse.la/adygeyskie-narodnye-pesni/uere-sere#comments</comments>
+ <guid isPermaLink="false">2703 at http://vse.la</guid>
+ <comments>http://vse.la/adygeyskie-narodnye-pesni/uere-sere#comments</comments>
 </item>
 <item>
  <title>Адыгэ нысэ унэ идошэ</title>
- <link>https://vse.la/adygeyskie-narodnye-pesni/adyge-nyse-une-idoshe</link>
+ <link>http://vse.la/adygeyskie-narodnye-pesni/adyge-nyse-une-idoshe</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Адыгэ пшынэм щlыгур къыпэджэмэ, уоирэ, уорирэ, уойра,&lt;br /&gt;
@@ -140,12 +140,12 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/adygeyskie-narodnye-pesni&quot;&gt;Адыгейские народные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/adygeyskiy&quot;&gt;Адыгейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/narodnaya-pesnya&quot;&gt;Народная песня&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/volya&quot;&gt;Воля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/svoboda&quot;&gt;Свобода&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;940&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 29 Nov 2015 18:12:29 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2702 at https://vse.la</guid>
- <comments>https://vse.la/adygeyskie-narodnye-pesni/adyge-nyse-une-idoshe#comments</comments>
+ <guid isPermaLink="false">2702 at http://vse.la</guid>
+ <comments>http://vse.la/adygeyskie-narodnye-pesni/adyge-nyse-une-idoshe#comments</comments>
 </item>
 <item>
  <title>Адиюх</title>
- <link>https://vse.la/adygeyskie-narodnye-pesni/adiyuh</link>
+ <link>http://vse.la/adygeyskie-narodnye-pesni/adiyuh</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Дызэрц1ык1урэ дызэпылъти, ой си Адиюх, &lt;br /&gt;
@@ -171,12 +171,12 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/adygeyskie-narodnye-pesni&quot;&gt;Адыгейские народные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/adygeyskiy&quot;&gt;Адыгейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/narodnaya-pesnya&quot;&gt;Народная песня&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/adiyuh&quot;&gt;адиюх&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/katakana33/26590494222/&quot; target=&quot;_blank&quot;&gt;Krystaldoll Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 29 Nov 2015 18:07:39 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2701 at https://vse.la</guid>
- <comments>https://vse.la/adygeyskie-narodnye-pesni/adiyuh#comments</comments>
+ <guid isPermaLink="false">2701 at http://vse.la</guid>
+ <comments>http://vse.la/adygeyskie-narodnye-pesni/adiyuh#comments</comments>
 </item>
 <item>
  <title>Сызэхэх</title>
- <link>https://vse.la/adygeyskie-narodnye-pesni/syzeheh</link>
+ <link>http://vse.la/adygeyskie-narodnye-pesni/syzeheh</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Ущызмылъагъук1эрэ сэ&lt;br /&gt;
@@ -206,12 +206,12 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/adygeyskie-narodnye-pesni&quot;&gt;Адыгейские народные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/adygeyskiy&quot;&gt;Адыгейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/narodnaya-pesnya&quot;&gt;Народная песня&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/narodnye&quot;&gt;Народные&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 29 Nov 2015 18:05:52 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2700 at https://vse.la</guid>
- <comments>https://vse.la/adygeyskie-narodnye-pesni/syzeheh#comments</comments>
+ <guid isPermaLink="false">2700 at http://vse.la</guid>
+ <comments>http://vse.la/adygeyskie-narodnye-pesni/syzeheh#comments</comments>
 </item>
 <item>
  <title>Мазэгъуэ жэщ</title>
- <link>https://vse.la/adygeyskie-narodnye-pesni/mazegue-zheshch</link>
+ <link>http://vse.la/adygeyskie-narodnye-pesni/mazegue-zheshch</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;-1- &lt;br /&gt;
@@ -257,8 +257,8 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/adygeyskie-narodnye-pesni&quot;&gt;Адыгейские народные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/adygeyskiy&quot;&gt;Адыгейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-istochnik field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vk.com/topic-891149_938534&quot;&gt;Тексты песен Вконтакте&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 29 Nov 2015 18:02:25 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2699 at https://vse.la</guid>
- <comments>https://vse.la/adygeyskie-narodnye-pesni/mazegue-zheshch#comments</comments>
+ <guid isPermaLink="false">2699 at http://vse.la</guid>
+ <comments>http://vse.la/adygeyskie-narodnye-pesni/mazegue-zheshch#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Трагедия</title>
- <link>https://vse.la/tematika/lirika/tragediya</link>
+ <link>http://vse.la/tematika/lirika/tragediya</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Бренный мир</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80</link>
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О, Бренный мир!&lt;/p&gt;
 
 &lt;p&gt;Зачем ты приютил меня в своей обитель?&lt;/p&gt;
@@ -48,13 +48,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/tragediya&quot;&gt;Трагедия&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prochie-temy&quot;&gt;Прочие темы&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 13 Jul 2015 15:43:08 +0000</pubDate>
  <dc:creator>Анастасия Дель</dc:creator>
- <guid isPermaLink="false">1762 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80#comments</comments>
+ <guid isPermaLink="false">1762 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D1%80#comments</comments>
 </item>
 <item>
  <title>Невозвратное (4-е стихотворение)</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5-4-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5-4-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/img478.jpg&quot; width=&quot;139&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rteindent2&quot;&gt;&lt;strong&gt;              НЕВОЗВРАТНОЕ&lt;/strong&gt;&lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5-4-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5-4-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/img478.jpg&quot; width=&quot;139&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rteindent2&quot;&gt;&lt;strong&gt;              НЕВОЗВРАТНОЕ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rteindent2&quot;&gt; &lt;/p&gt;
 
@@ -94,13 +94,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/tragediya&quot;&gt;Трагедия&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 09 Jul 2014 21:50:53 +0000</pubDate>
  <dc:creator>Виктория Любимова</dc:creator>
- <guid isPermaLink="false">281 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5-4-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5#comments</comments>
+ <guid isPermaLink="false">281 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B5%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82%D0%BD%D0%BE%D0%B5-4-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5#comments</comments>
 </item>
 <item>
  <title>Прощание навсегда  (3-е стихотворение)</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-3-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-3-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/img477.jpg&quot; width=&quot;142&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rteindent2&quot;&gt;&lt;strong&gt;           ПРОЩАНИЕ НАВСЕГДА&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot; title=&quot;&quot; id=&quot;_ftnref1&quot;&gt;&lt;strong&gt;[1]&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-3-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-3-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/img477.jpg&quot; width=&quot;142&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rteindent2&quot;&gt;&lt;strong&gt;           ПРОЩАНИЕ НАВСЕГДА&lt;a href=&quot;#_ftn1&quot; name=&quot;_ftnref1&quot; title=&quot;&quot; id=&quot;_ftnref1&quot;&gt;&lt;strong&gt;[1]&lt;/strong&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rteindent2&quot;&gt;С юных лет живёт во мне моя любовь.&lt;/p&gt;
 
@@ -165,8 +165,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/tragediya&quot;&gt;Трагедия&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 09 Jul 2014 21:48:11 +0000</pubDate>
  <dc:creator>Виктория Любимова</dc:creator>
- <guid isPermaLink="false">280 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-3-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5#comments</comments>
+ <guid isPermaLink="false">280 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0-3-%D0%B5-%D1%81%D1%82%D0%B8%D1%85%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%B8%D0%B5#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Ферджи</title>
- <link>https://vse.la/ferdzhi</link>
+ <link>http://vse.la/ferdzhi</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Одна не буду плакать и страдать</title>
- <link>https://vse.la/%D1%84%D0%B5%D1%80%D0%B4%D0%B6%D0%B8/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BD%D0%B5-%D0%B1%D1%83%D0%B4%D1%83-%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D1%8C-%D0%B8-%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D1%82%D1%8C</link>
+ <link>http://vse.la/%D1%84%D0%B5%D1%80%D0%B4%D0%B6%D0%B8/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BD%D0%B5-%D0%B1%D1%83%D0%B4%D1%83-%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D1%8C-%D0%B8-%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D1%82%D1%8C</link>
  <description>&lt;div class=&quot;field field-name-field-lyrics-original field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Оригинал:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/fergie/big-girls-dont-cry&quot;&gt;Big Girls Don’t Cry&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Твоё тепло ещё со мной и запах.&lt;br /&gt;
 Возможно ты летишь сейчас Воронеж.&lt;br /&gt;
 И я хочу встречать тебя у трапа.&lt;br /&gt;
@@ -51,8 +51,8 @@
 &lt;p&gt;[Припев]&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/ferdzhi&quot;&gt;Ферджи&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 12 Oct 2015 19:23:04 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2041 at https://vse.la</guid>
- <comments>https://vse.la/%D1%84%D0%B5%D1%80%D0%B4%D0%B6%D0%B8/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BD%D0%B5-%D0%B1%D1%83%D0%B4%D1%83-%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D1%8C-%D0%B8-%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D1%82%D1%8C#comments</comments>
+ <guid isPermaLink="false">2041 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%84%D0%B5%D1%80%D0%B4%D0%B6%D0%B8/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BD%D0%B5-%D0%B1%D1%83%D0%B4%D1%83-%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D1%8C-%D0%B8-%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B0%D1%82%D1%8C#comments</comments>
 </item>
 </channel>
 </rss>

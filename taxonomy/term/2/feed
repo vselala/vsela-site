@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Профессии</title>
- <link>https://vse.la/tematika/professii</link>
+ <link>http://vse.la/tematika/professii</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Стихи майнеру</title>
- <link>https://vse.la/stih/stihi-mayneru</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stihi-mayneru&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/stih_maineru.png&quot; width=&quot;180&quot; height=&quot;101&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда тучи застилают небеса,&lt;br /&gt;
+ <link>http://vse.la/stih/stihi-mayneru</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stihi-mayneru&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/stih_maineru.png&quot; width=&quot;180&quot; height=&quot;101&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда тучи застилают небеса,&lt;br /&gt;
 Когда ветер, и гремит гроза.&lt;br /&gt;
 Когда тени набегают и вопят,&lt;br /&gt;
 Только доблестные майнеры не спят!&lt;br /&gt;
@@ -32,13 +32,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/mayner&quot;&gt;Майнер&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 15 Jan 2022 09:58:05 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4595 at https://vse.la</guid>
- <comments>https://vse.la/stih/stihi-mayneru#comments</comments>
+ <guid isPermaLink="false">4595 at http://vse.la</guid>
+ <comments>http://vse.la/stih/stihi-mayneru#comments</comments>
 </item>
 <item>
  <title>Лирическое поздравление любимому строителю. С Днём строителя мужу</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%BC%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8E-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%BC%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8E-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/749.jpg&quot; width=&quot;180&quot; height=&quot;101&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Сегодня – для тебя цветы!&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%BC%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8E-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%BC%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8E-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/749.jpg&quot; width=&quot;180&quot; height=&quot;101&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Сегодня – для тебя цветы!&lt;br /&gt;
 Пусть с каждым годом мы и старше,&lt;br /&gt;
 Неважно! Смог построить ты,&lt;br /&gt;
 Как дивный замок, счастье наше.&lt;br /&gt;
@@ -57,13 +57,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prazdniki/den-stroitelya&quot;&gt;День строителя&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/stroitel&quot;&gt;Строитель&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 05 Feb 2017 15:21:48 +0000</pubDate>
  <dc:creator>Дарья Владимировна Майорова</dc:creator>
- <guid isPermaLink="false">4162 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%BC%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8E-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC#comments</comments>
+ <guid isPermaLink="false">4162 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D0%B8%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%BC%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8E-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC#comments</comments>
 </item>
 <item>
  <title>Радиоэфир</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D1%84%D0%B8%D1%80</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D1%84%D0%B8%D1%80&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/dostavka_1650x724.jpg&quot; width=&quot;180&quot; height=&quot;79&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Мы – чемпионы в своем деле,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D1%84%D0%B8%D1%80</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D1%84%D0%B8%D1%80&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/dostavka_1650x724.jpg&quot; width=&quot;180&quot; height=&quot;79&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Мы – чемпионы в своем деле,&lt;br /&gt;
 «We Are the Champions», друзья!&lt;br /&gt;
 В эфире вас сейчас сумею&lt;br /&gt;
 Настроить позитивно я:&lt;br /&gt;
@@ -86,13 +86,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/yumor&quot;&gt;Юмор&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 01 Feb 2017 03:50:43 +0000</pubDate>
  <dc:creator>Викторова Виктория Макаровна</dc:creator>
- <guid isPermaLink="false">4156 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D1%84%D0%B8%D1%80#comments</comments>
+ <guid isPermaLink="false">4156 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D1%84%D0%B8%D1%80#comments</comments>
 </item>
 <item>
  <title>Экономическая гармония</title>
- <link>https://vse.la/stih/ekonomicheskaya-garmoniya</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/ekonomicheskaya-garmoniya&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/aa0d44f966c9a1e00b75269574e6c1dc-d3am7kh.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Как море, стелется желтеющее поле,&lt;br /&gt;
+ <link>http://vse.la/stih/ekonomicheskaya-garmoniya</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/ekonomicheskaya-garmoniya&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/aa0d44f966c9a1e00b75269574e6c1dc-d3am7kh.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Как море, стелется желтеющее поле,&lt;br /&gt;
 Крестьянин бодро собирает урожай.&lt;br /&gt;
 С новым комбайном подошла пора раздолья,&lt;br /&gt;
 Процентов за микрокредит ему ничуть не жаль.&lt;/p&gt;
@@ -119,13 +119,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/filosofskie-temy&quot;&gt;Философские темы&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/ekonomist&quot;&gt;Экономист&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 30 Dec 2016 09:22:02 +0000</pubDate>
  <dc:creator>Лелюк Дарья Петровна</dc:creator>
- <guid isPermaLink="false">4104 at https://vse.la</guid>
- <comments>https://vse.la/stih/ekonomicheskaya-garmoniya#comments</comments>
+ <guid isPermaLink="false">4104 at http://vse.la</guid>
+ <comments>http://vse.la/stih/ekonomicheskaya-garmoniya#comments</comments>
 </item>
 <item>
  <title>Стих-поздравление с Новым годом коллективу учителей</title>
- <link>https://vse.la/stih/stih-pozdravlenie-s-novym-godom-kollektivu-uchiteley</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stih-pozdravlenie-s-novym-godom-kollektivu-uchiteley&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/the_year_of_the_snake_by_leafsmile-d5pz5hp.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пожелаем педагогам позитивных изменений: &lt;br /&gt;
+ <link>http://vse.la/stih/stih-pozdravlenie-s-novym-godom-kollektivu-uchiteley</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stih-pozdravlenie-s-novym-godom-kollektivu-uchiteley&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/the_year_of_the_snake_by_leafsmile-d5pz5hp.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пожелаем педагогам позитивных изменений: &lt;br /&gt;
 Аттестации успешной всем - без всяких исключений!&lt;br /&gt;
 Пусть все планы воплотятся в полной мере - на &quot;отлично&quot;,&lt;br /&gt;
 Пятидневка в каждой школе станет пусть совсем привычной.&lt;/p&gt;
@@ -142,13 +142,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prazdniki/novyy-god&quot;&gt;Новый год&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/uchitel&quot;&gt;Учитель&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 23 Dec 2016 18:14:08 +0000</pubDate>
  <dc:creator>Татьяна Растяпина</dc:creator>
- <guid isPermaLink="false">4085 at https://vse.la</guid>
- <comments>https://vse.la/stih/stih-pozdravlenie-s-novym-godom-kollektivu-uchiteley#comments</comments>
+ <guid isPermaLink="false">4085 at http://vse.la</guid>
+ <comments>http://vse.la/stih/stih-pozdravlenie-s-novym-godom-kollektivu-uchiteley#comments</comments>
 </item>
 <item>
  <title>Поздравление с Новым годом журналистам</title>
- <link>https://vse.la/stih/pozdravlenie-s-novym-godom-zhurnalistam</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/pozdravlenie-s-novym-godom-zhurnalistam&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/3936031295_479465cd01_h_sm.jpg&quot; width=&quot;180&quot; height=&quot;104&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пусть Новый Год, как чистый лист,&lt;br /&gt;
+ <link>http://vse.la/stih/pozdravlenie-s-novym-godom-zhurnalistam</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/pozdravlenie-s-novym-godom-zhurnalistam&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/3936031295_479465cd01_h_sm.jpg&quot; width=&quot;180&quot; height=&quot;104&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пусть Новый Год, как чистый лист,&lt;br /&gt;
 Заполнит почерк ваш со смыслом!&lt;br /&gt;
 Сегодня каждый журналист&lt;br /&gt;
 Потоком позитивных мыслей&lt;br /&gt;
@@ -167,13 +167,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prazdniki/novyy-god&quot;&gt;Новый год&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/zhurnalist&quot;&gt;Журналист&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 21 Dec 2016 12:15:28 +0000</pubDate>
  <dc:creator>Викторова Виктория Макаровна</dc:creator>
- <guid isPermaLink="false">4067 at https://vse.la</guid>
- <comments>https://vse.la/stih/pozdravlenie-s-novym-godom-zhurnalistam#comments</comments>
+ <guid isPermaLink="false">4067 at http://vse.la</guid>
+ <comments>http://vse.la/stih/pozdravlenie-s-novym-godom-zhurnalistam#comments</comments>
 </item>
 <item>
  <title>Стихи жене полицейского</title>
- <link>https://vse.la/stih/stihi-zhene-policeyskogo</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stihi-zhene-policeyskogo&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/4375441075_1471f70c7e_c_sm.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пушкин периода ранне-лицейского&lt;br /&gt;
+ <link>http://vse.la/stih/stihi-zhene-policeyskogo</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stihi-zhene-policeyskogo&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/4375441075_1471f70c7e_c_sm.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пушкин периода ранне-лицейского&lt;br /&gt;
 Мог бы воспеть, если б был современником,&lt;br /&gt;
 Это призванье – жены полицейского,&lt;br /&gt;
 Жизнь без истерик по поводам меленьким;&lt;/p&gt;
@@ -224,13 +224,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/policeyskiy&quot;&gt;Полицейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 19 Dec 2016 18:42:03 +0000</pubDate>
  <dc:creator>Владимир Алексеевич Алексеев</dc:creator>
- <guid isPermaLink="false">4058 at https://vse.la</guid>
- <comments>https://vse.la/stih/stihi-zhene-policeyskogo#comments</comments>
+ <guid isPermaLink="false">4058 at http://vse.la</guid>
+ <comments>http://vse.la/stih/stihi-zhene-policeyskogo#comments</comments>
 </item>
 <item>
  <title>Поздравление с Днём полиции от начальства</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8-%D0%BE%D1%82-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8-%D0%BE%D1%82-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/image.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Неясно, как там римские патриции,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8-%D0%BE%D1%82-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8-%D0%BE%D1%82-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/image.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Неясно, как там римские патриции,&lt;br /&gt;
 Сто мудростей храня в державном жезле,&lt;br /&gt;
 Когда-то обходились без полиции.&lt;br /&gt;
 Вот так они, должно быть, и исчезли!&lt;/p&gt;
@@ -267,13 +267,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/policeyskiy&quot;&gt;Полицейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 19 Dec 2016 18:33:53 +0000</pubDate>
  <dc:creator>Владимир Алексеевич Алексеев</dc:creator>
- <guid isPermaLink="false">4057 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8-%D0%BE%D1%82-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0#comments</comments>
+ <guid isPermaLink="false">4057 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B8-%D0%BE%D1%82-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0#comments</comments>
 </item>
 <item>
  <title>Лирическое поздравление для полицейских. С Новым годом, полиция!</title>
- <link>https://vse.la/stih/liricheskoe-pozdravlenie-dlya-policeyskih-s-novym-godom</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/liricheskoe-pozdravlenie-dlya-policeyskih-s-novym-godom&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/elka-1.jpg&quot; width=&quot;180&quot; height=&quot;68&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Заметает метель новогодняя&lt;br /&gt;
+ <link>http://vse.la/stih/liricheskoe-pozdravlenie-dlya-policeyskih-s-novym-godom</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/liricheskoe-pozdravlenie-dlya-policeyskih-s-novym-godom&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/elka-1.jpg&quot; width=&quot;180&quot; height=&quot;68&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Заметает метель новогодняя&lt;br /&gt;
 Всех проблем прошлогодних следы.&lt;br /&gt;
 От души поздравляю сегодня я&lt;br /&gt;
 Тех, кто мир бережет от беды.&lt;/p&gt;
@@ -290,13 +290,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prazdniki/novyy-god&quot;&gt;Новый год&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/policeyskiy&quot;&gt;Полицейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 19 Dec 2016 18:02:07 +0000</pubDate>
  <dc:creator>Татьяна Анатольевна Нестерова</dc:creator>
- <guid isPermaLink="false">4056 at https://vse.la</guid>
- <comments>https://vse.la/stih/liricheskoe-pozdravlenie-dlya-policeyskih-s-novym-godom#comments</comments>
+ <guid isPermaLink="false">4056 at http://vse.la</guid>
+ <comments>http://vse.la/stih/liricheskoe-pozdravlenie-dlya-policeyskih-s-novym-godom#comments</comments>
 </item>
 <item>
  <title>Поздравление украинским полицейским от начальства</title>
- <link>https://vse.la/stih/pozdravlenie-ukrainskim-policeyskim-ot-nachalstva</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/pozdravlenie-ukrainskim-policeyskim-ot-nachalstva&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/ukrainskaya-policia.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Наша полиция смелая, бравая.&lt;br /&gt;
+ <link>http://vse.la/stih/pozdravlenie-ukrainskim-policeyskim-ot-nachalstva</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/pozdravlenie-ukrainskim-policeyskim-ot-nachalstva&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/ukrainskaya-policia.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Наша полиция смелая, бравая.&lt;br /&gt;
 Она неподкупная и величавая. &lt;br /&gt;
 Стойко следит за порядком в стране.&lt;br /&gt;
 Вам поздравленья, ребята, вдвойне. &lt;/p&gt;
@@ -313,8 +313,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/policeyskiy&quot;&gt;Полицейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 10 Dec 2016 11:01:02 +0000</pubDate>
  <dc:creator>Алла Новодворская</dc:creator>
- <guid isPermaLink="false">4011 at https://vse.la</guid>
- <comments>https://vse.la/stih/pozdravlenie-ukrainskim-policeyskim-ot-nachalstva#comments</comments>
+ <guid isPermaLink="false">4011 at http://vse.la</guid>
+ <comments>http://vse.la/stih/pozdravlenie-ukrainskim-policeyskim-ot-nachalstva#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Ода</title>
- <link>https://vse.la/literaturnyy-zhanr/oda</link>
+ <link>http://vse.la/literaturnyy-zhanr/oda</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Иерусалим</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/ierusalim-foto.jpg&quot; width=&quot;180&quot; height=&quot;119&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; В горах, как в Господних ладонях,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/ierusalim-foto.jpg&quot; width=&quot;180&quot; height=&quot;119&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; В горах, как в Господних ладонях,&lt;br /&gt;
 Лежит дивный Ерушалаим.&lt;br /&gt;
 Давай по нему мы сегодня&lt;br /&gt;
 Немного вдвоём погуляем.&lt;/p&gt;
@@ -73,13 +73,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 09 Oct 2017 10:17:47 +0000</pubDate>
  <dc:creator>Виктория Аверина</dc:creator>
- <guid isPermaLink="false">4317 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC#comments</comments>
+ <guid isPermaLink="false">4317 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC#comments</comments>
 </item>
 <item>
  <title>Стихи жене полицейского</title>
- <link>https://vse.la/stih/stihi-zhene-policeyskogo</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stihi-zhene-policeyskogo&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/4375441075_1471f70c7e_c_sm.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пушкин периода ранне-лицейского&lt;br /&gt;
+ <link>http://vse.la/stih/stihi-zhene-policeyskogo</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stihi-zhene-policeyskogo&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/4375441075_1471f70c7e_c_sm.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пушкин периода ранне-лицейского&lt;br /&gt;
 Мог бы воспеть, если б был современником,&lt;br /&gt;
 Это призванье – жены полицейского,&lt;br /&gt;
 Жизнь без истерик по поводам меленьким;&lt;/p&gt;
@@ -130,13 +130,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/policeyskiy&quot;&gt;Полицейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 19 Dec 2016 18:42:03 +0000</pubDate>
  <dc:creator>Владимир Алексеевич Алексеев</dc:creator>
- <guid isPermaLink="false">4058 at https://vse.la</guid>
- <comments>https://vse.la/stih/stihi-zhene-policeyskogo#comments</comments>
+ <guid isPermaLink="false">4058 at http://vse.la</guid>
+ <comments>http://vse.la/stih/stihi-zhene-policeyskogo#comments</comments>
 </item>
 <item>
  <title>Наследие Корнея Чуковского</title>
- <link>https://vse.la/stih/nasledie-korneya-chukovskogo</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/nasledie-korneya-chukovskogo&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/sunny_boy_by_so_fiii-d3d0o9b.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Район чудесный Одинцовский,&lt;br /&gt;
+ <link>http://vse.la/stih/nasledie-korneya-chukovskogo</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/nasledie-korneya-chukovskogo&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/sunny_boy_by_so_fiii-d3d0o9b.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Район чудесный Одинцовский,&lt;br /&gt;
 где творил Корней Чуковский,&lt;br /&gt;
 хранит уже немало лет&lt;br /&gt;
 загадочный поэта след.&lt;/p&gt;
@@ -213,13 +213,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam&quot;&gt;Известным людям&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam/istoricheskie-lichnosti&quot;&gt;Исторические личности&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 20 Nov 2016 06:02:39 +0000</pubDate>
  <dc:creator>Татьяна Владимировна Чижикова</dc:creator>
- <guid isPermaLink="false">3978 at https://vse.la</guid>
- <comments>https://vse.la/stih/nasledie-korneya-chukovskogo#comments</comments>
+ <guid isPermaLink="false">3978 at http://vse.la</guid>
+ <comments>http://vse.la/stih/nasledie-korneya-chukovskogo#comments</comments>
 </item>
 <item>
  <title>С Днём города, Москва!</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/pokrovka.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Москва — российская столица,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/pokrovka.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Москва — российская столица,&lt;br /&gt;
 Родной истории земля,&lt;br /&gt;
 Стоит высоток вереница&lt;br /&gt;
 От Подмосковья до Кремля.&lt;/p&gt;
@@ -246,13 +246,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 16 Sep 2016 11:05:55 +0000</pubDate>
  <dc:creator>Екатерина</dc:creator>
- <guid isPermaLink="false">3791 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0#comments</comments>
+ <guid isPermaLink="false">3791 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0#comments</comments>
 </item>
 <item>
  <title>Прогулки по Туапсе</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B8-%D0%BF%D0%BE-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B8-%D0%BF%D0%BE-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/tuapse_beach.jpg&quot; width=&quot;180&quot; height=&quot;108&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Средь предгорий Кавказа Большого,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B8-%D0%BF%D0%BE-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B8-%D0%BF%D0%BE-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/tuapse_beach.jpg&quot; width=&quot;180&quot; height=&quot;108&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Средь предгорий Кавказа Большого,&lt;br /&gt;
 У прекрасных морских берегов,&lt;br /&gt;
 Есть видение рая земного,&lt;br /&gt;
 Это город, как будто из снов.&lt;/p&gt;
@@ -274,13 +274,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 13 Sep 2016 11:05:04 +0000</pubDate>
  <dc:creator>Евгения Сазонова</dc:creator>
- <guid isPermaLink="false">3786 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B8-%D0%BF%D0%BE-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5#comments</comments>
+ <guid isPermaLink="false">3786 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B8-%D0%BF%D0%BE-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5#comments</comments>
 </item>
 <item>
  <title>Таисия Повалий</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D1%81%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D0%B9</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D1%81%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D0%B9&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/taisia-povalii-na-scene-obraz.jpg&quot; width=&quot;180&quot; height=&quot;139&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Певучий голос раздаётся.&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D1%81%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D0%B9</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D1%81%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D0%B9&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/taisia-povalii-na-scene-obraz.jpg&quot; width=&quot;180&quot; height=&quot;139&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Певучий голос раздаётся.&lt;br /&gt;
 Зал аплодирует. Стихает. &lt;br /&gt;
 Вокал от сердца – в сердце льётся.&lt;br /&gt;
 На сцене выступает Тая.&lt;br /&gt;
@@ -303,13 +303,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam&quot;&gt;Известным людям&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam/pevice&quot;&gt;Певице&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 30 Aug 2016 08:19:26 +0000</pubDate>
  <dc:creator>Ника Русанова</dc:creator>
- <guid isPermaLink="false">3734 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D1%81%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D0%B9#comments</comments>
+ <guid isPermaLink="false">3734 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%B8%D1%81%D0%B8%D1%8F-%D0%BF%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D0%B9#comments</comments>
 </item>
 <item>
  <title>Одна поездка в Питер</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B2-%D0%BF%D0%B8%D1%82%D0%B5%D1%80</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B2-%D0%BF%D0%B8%D1%82%D0%B5%D1%80&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/piter-isaakievski-dojd.jpg&quot; width=&quot;180&quot; height=&quot;110&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда слова лишь россыпь скучных литер, &lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B2-%D0%BF%D0%B8%D1%82%D0%B5%D1%80</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B2-%D0%BF%D0%B8%D1%82%D0%B5%D1%80&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/piter-isaakievski-dojd.jpg&quot; width=&quot;180&quot; height=&quot;110&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда слова лишь россыпь скучных литер, &lt;br /&gt;
 Нет сил, и выход к музе не найден,&lt;br /&gt;
 Достаточно одной поездки в Питер – &lt;br /&gt;
 Для вдохновенья людям он рожден!&lt;br /&gt;
@@ -344,13 +344,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 25 Aug 2016 09:53:36 +0000</pubDate>
  <dc:creator>Жогаль Светлана Николаевна</dc:creator>
- <guid isPermaLink="false">3730 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B2-%D0%BF%D0%B8%D1%82%D0%B5%D1%80#comments</comments>
+ <guid isPermaLink="false">3730 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B2-%D0%BF%D0%B8%D1%82%D0%B5%D1%80#comments</comments>
 </item>
 <item>
  <title>Философия Державина</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/derjavin-kolokol.jpg&quot; width=&quot;156&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;«Жизнь есть небес мгновенный дар», – &lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/derjavin-kolokol.jpg&quot; width=&quot;156&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;«Жизнь есть небес мгновенный дар», – &lt;br /&gt;
 Так нам Державин завещал.&lt;br /&gt;
 Он был поэтом при дворе и оды сочинял царице. &lt;br /&gt;
 Екатерине преподнес хвалебный стих, назвав Фелицей. &lt;br /&gt;
@@ -369,13 +369,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam&quot;&gt;Известным людям&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 01 Aug 2016 22:58:47 +0000</pubDate>
  <dc:creator>Жогаль Светлана Николаевна</dc:creator>
- <guid isPermaLink="false">3632 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0#comments</comments>
+ <guid isPermaLink="false">3632 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0#comments</comments>
 </item>
 <item>
  <title>С Днём города Москвы</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/moskva-gorod.jpg&quot; width=&quot;180&quot; height=&quot;118&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О, Москва, ты - жемчужина светлой великой страны&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/moskva-gorod.jpg&quot; width=&quot;180&quot; height=&quot;118&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О, Москва, ты - жемчужина светлой великой страны&lt;br /&gt;
 И в тебя, уж поверь, невозможно никак не влюбиться.&lt;br /&gt;
 Все широты твои, как сокровища рая, ясны,&lt;br /&gt;
 Заставляют сердца в темпе вальса уверенно биться.&lt;br /&gt;
@@ -394,13 +394,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 27 Jul 2016 14:22:13 +0000</pubDate>
  <dc:creator>Котова Юлия</dc:creator>
- <guid isPermaLink="false">3595 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B#comments</comments>
+ <guid isPermaLink="false">3595 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B#comments</comments>
 </item>
 <item>
  <title>Любовь Орлова</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%B0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/lubov-orlova.jpg&quot; width=&quot;97&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Светлоликая жрица искусства дворянских кровей,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%B0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/lubov-orlova.jpg&quot; width=&quot;97&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Светлоликая жрица искусства дворянских кровей,&lt;br /&gt;
 Чей сияющий образ и в толще времён не померкнет.&lt;br /&gt;
 Сколько сложено песен на добрую память о ней,&lt;br /&gt;
 Сколько веры и счастья вселяла она в человека!&lt;/p&gt;
@@ -432,8 +432,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam&quot;&gt;Известным людям&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam/artistam&quot;&gt;Артистам&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 31 May 2016 04:21:11 +0000</pubDate>
  <dc:creator>Софья Яновская</dc:creator>
- <guid isPermaLink="false">3240 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%B0#comments</comments>
+ <guid isPermaLink="false">3240 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%BE%D1%80%D0%BB%D0%BE%D0%B2%D0%B0#comments</comments>
 </item>
 </channel>
 </rss>

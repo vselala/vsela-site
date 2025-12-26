@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Полина</title>
- <link>https://vse.la/imya/polina</link>
+ <link>http://vse.la/imya/polina</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Поздравление с днём рождения Полине, 6 лет</title>
- <link>https://vse.la/stih/pozdravlenie-s-dnyom-rozhdeniya-poline-6-let</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/pozdravlenie-s-dnyom-rozhdeniya-poline-6-let&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/polina.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Наша  доченька  Полина -&lt;br /&gt;
+ <link>http://vse.la/stih/pozdravlenie-s-dnyom-rozhdeniya-poline-6-let</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/pozdravlenie-s-dnyom-rozhdeniya-poline-6-let&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/polina.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Наша  доченька  Полина -&lt;br /&gt;
 Украшение  семьи!&lt;br /&gt;
 О  тебе  писать  картины,&lt;br /&gt;
 Сочинять  стихи  должны!&lt;/p&gt;
@@ -35,8 +35,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/den-rozhdeniya&quot;&gt;День рождения&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/den-rozhdeniya/dochke&quot;&gt;Дочке&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 29 Jun 2016 09:09:26 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">3382 at https://vse.la</guid>
- <comments>https://vse.la/stih/pozdravlenie-s-dnyom-rozhdeniya-poline-6-let#comments</comments>
+ <guid isPermaLink="false">3382 at http://vse.la</guid>
+ <comments>http://vse.la/stih/pozdravlenie-s-dnyom-rozhdeniya-poline-6-let#comments</comments>
 </item>
 </channel>
 </rss>

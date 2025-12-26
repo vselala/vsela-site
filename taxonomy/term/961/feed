@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - реклама</title>
- <link>https://vse.la/teg/reklama</link>
+ <link>http://vse.la/teg/reklama</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Реклама окон в стихах.  О как блистательно комфортно смотреть из глубины квартиры...</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%85%D0%B2%D0%B0%D0%BB%D0%B0-%D0%BE%D0%BA%D0%BD%D0%B0%D0%BC</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%85%D0%B2%D0%B0%D0%BB%D0%B0-%D0%BE%D0%BA%D0%BD%D0%B0%D0%BC&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/plastic-windows-are-reduced-in-price.jpg&quot; width=&quot;180&quot; height=&quot;127&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; О как блистательно комфортно&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%85%D0%B2%D0%B0%D0%BB%D0%B0-%D0%BE%D0%BA%D0%BD%D0%B0%D0%BC</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%85%D0%B2%D0%B0%D0%BB%D0%B0-%D0%BE%D0%BA%D0%BD%D0%B0%D0%BC&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/plastic-windows-are-reduced-in-price.jpg&quot; width=&quot;180&quot; height=&quot;127&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; О как блистательно комфортно&lt;br /&gt;
  Смотреть из глубины квартиры&lt;br /&gt;
  Сквозь призму стёкол ЭКО ОКНА!&lt;br /&gt;
  Вам улыбнется целый мир.&lt;br /&gt;
@@ -68,12 +68,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prochie-temy&quot;&gt;Прочие темы&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prochie-temy/vypolnennye-raboty&quot;&gt;Выполненные работы&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/reklamnye&quot;&gt;Рекламные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/reklamnye/ob-uslugah&quot;&gt;Об услугах&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 17 Sep 2015 17:31:07 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">1930 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%85%D0%B2%D0%B0%D0%BB%D0%B0-%D0%BE%D0%BA%D0%BD%D0%B0%D0%BC#comments</comments>
+ <guid isPermaLink="false">1930 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%85%D0%B2%D0%B0%D0%BB%D0%B0-%D0%BE%D0%BA%D0%BD%D0%B0%D0%BC#comments</comments>
 </item>
 <item>
  <title>Гель для массажа</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B3%D0%B5%D0%BB%D1%8C-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B0</link>
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B3%D0%B5%D0%BB%D1%8C-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B0</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Гель для массажа&lt;/strong&gt;,&lt;br /&gt;
 Фирма не наша,&lt;br /&gt;
 Аромат со стажем,&lt;br /&gt;
@@ -81,8 +81,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/reklamnye&quot;&gt;Рекламные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/reklamnye/o-tovarah&quot;&gt;О товарах&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 07 Oct 2014 11:54:46 +0000</pubDate>
  <dc:creator>Алена Сула</dc:creator>
- <guid isPermaLink="false">894 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B3%D0%B5%D0%BB%D1%8C-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B0#comments</comments>
+ <guid isPermaLink="false">894 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B3%D0%B5%D0%BB%D1%8C-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B0%D1%81%D1%81%D0%B0%D0%B6%D0%B0#comments</comments>
 </item>
 </channel>
 </rss>

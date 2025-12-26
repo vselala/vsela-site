@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Ludovico Einaudi</title>
- <link>https://vse.la/teg/ludovico-einaudi</link>
+ <link>http://vse.la/teg/ludovico-einaudi</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Eternal Dialog With Ludovico Einaudi</title>
- <link>https://vse.la/blog/eternal-dialog-ludovico-einaudi</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/leon_in_the_beach_by_popysp.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/leon_in_the_beach_by_popysp.jpg&quot; width=&quot;330&quot; height=&quot;247&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Italian composer Ludovico Einaudi is trying to describe his feelings. Composition &quot;Fly&quot; has sad melody.&lt;/p&gt;
+ <link>http://vse.la/blog/eternal-dialog-ludovico-einaudi</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/leon_in_the_beach_by_popysp.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/leon_in_the_beach_by_popysp.jpg&quot; width=&quot;330&quot; height=&quot;247&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Italian composer Ludovico Einaudi is trying to describe his feelings. Composition &quot;Fly&quot; has sad melody.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ludovico&#039;s Einaudi &quot;Fly&quot;&lt;/strong&gt; is written in minor. It has no long story. It contains one dramatic plot that remains hidden in the author&#039;s soul. Perhaps this makes the author&#039;s sad.&lt;/p&gt;
 
@@ -40,8 +40,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/akkompanement&quot;&gt;Аккомпанемент&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/ludovico-einaudi&quot;&gt;Ludovico Einaudi&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/klassicheskaya-muzyka&quot;&gt;классическая музыка&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/analiz-klassicheskoy-muzyki&quot;&gt;анализ классической музыки&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/angliyskiy&quot;&gt;Английский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 04 Feb 2017 18:35:11 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4160 at https://vse.la</guid>
- <comments>https://vse.la/blog/eternal-dialog-ludovico-einaudi#comments</comments>
+ <guid isPermaLink="false">4160 at http://vse.la</guid>
+ <comments>http://vse.la/blog/eternal-dialog-ludovico-einaudi#comments</comments>
 </item>
 </channel>
 </rss>

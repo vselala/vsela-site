@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - письма</title>
- <link>https://vse.la/teg/pisma</link>
+ <link>http://vse.la/teg/pisma</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Разожги костёр</title>
- <link>https://vse.la/stih/razozhgi-kostyor</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/razozhgi-kostyor&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/6997681.jpg&quot; width=&quot;180&quot; height=&quot;133&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:26px&quot;&gt;Если строки писем не пишу,&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+ <link>http://vse.la/stih/razozhgi-kostyor</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/razozhgi-kostyor&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/6997681.jpg&quot; width=&quot;180&quot; height=&quot;133&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:26px&quot;&gt;Если строки писем не пишу,&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:26px&quot;&gt;Ночь пронзительно стреляет,&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -58,8 +58,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 27 Jun 2014 10:09:35 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">168 at https://vse.la</guid>
- <comments>https://vse.la/stih/razozhgi-kostyor#comments</comments>
+ <guid isPermaLink="false">168 at http://vse.la</guid>
+ <comments>http://vse.la/stih/razozhgi-kostyor#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - стихи Бахаревой Маргариты</title>
- <link>https://vse.la/teg/stihi-baharevoy-margarity</link>
+ <link>http://vse.la/teg/stihi-baharevoy-margarity</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>тебе</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B5%D0%B1%D0%B5-0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B5%D0%B1%D0%B5-0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/54df56b6d2ef8505ff8a8a3ec46b7ae5.jpg&quot; width=&quot;103&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Но с души не стирается метка&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B5%D0%B1%D0%B5-0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B5%D0%B1%D0%B5-0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/54df56b6d2ef8505ff8a8a3ec46b7ae5.jpg&quot; width=&quot;103&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Но с души не стирается метка&lt;br /&gt;
 Незначительной встречи с тобой.&lt;br /&gt;
 ................................................Aхматова&lt;/p&gt;
 &lt;p&gt;А не было времени думать о счастье-&lt;br /&gt;
@@ -42,12 +42,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 29 Jun 2016 19:53:10 +0000</pubDate>
  <dc:creator>Маргарита Бахарева</dc:creator>
- <guid isPermaLink="false">3387 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B5%D0%B1%D0%B5-0#comments</comments>
+ <guid isPermaLink="false">3387 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B5%D0%B1%D0%B5-0#comments</comments>
 </item>
 <item>
  <title>Не обещаю волшебства</title>
- <link>https://vse.la/stih/ne-obeshchayu-volshebstva</link>
+ <link>http://vse.la/stih/ne-obeshchayu-volshebstva</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Не обещаю волшебства в туманной мороси предзимья&lt;br /&gt;
 и не зову за облака - клин журавлиный упустил я.&lt;/p&gt;
 &lt;p&gt;Среди продрогшей суеты, борьбы за смысл междометий&lt;br /&gt;
@@ -65,8 +65,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/zhenshchine&quot;&gt;Женщине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/priznaniya-v-lyubvi&quot;&gt;Признания в любви&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 15 Dec 2015 21:09:37 +0000</pubDate>
  <dc:creator>Маргарита Бахарева</dc:creator>
- <guid isPermaLink="false">2755 at https://vse.la</guid>
- <comments>https://vse.la/stih/ne-obeshchayu-volshebstva#comments</comments>
+ <guid isPermaLink="false">2755 at http://vse.la</guid>
+ <comments>http://vse.la/stih/ne-obeshchayu-volshebstva#comments</comments>
 </item>
 </channel>
 </rss>

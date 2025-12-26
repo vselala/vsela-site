@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - группа Daft Punk</title>
- <link>https://vse.la/teg/gruppa-daft-punk</link>
+ <link>http://vse.la/teg/gruppa-daft-punk</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>История группы Daft Punk</title>
- <link>https://vse.la/blog/istoriya-gruppy-daft-punk</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/daft-punk-630.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/daft-punk-630.jpg&quot; width=&quot;330&quot; height=&quot;198&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Daft Punk&lt;/strong&gt; — знаменитый французский дуэт, который играет музыку в стиле хаус. В него входят Омем Кристо, Томас Бангальте и Ги-Мануэль (Гай-Мэн).&lt;/p&gt;
+ <link>http://vse.la/blog/istoriya-gruppy-daft-punk</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/daft-punk-630.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/daft-punk-630.jpg&quot; width=&quot;330&quot; height=&quot;198&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Daft Punk&lt;/strong&gt; — знаменитый французский дуэт, который играет музыку в стиле хаус. В него входят Омем Кристо, Томас Бангальте и Ги-Мануэль (Гай-Мэн).&lt;/p&gt;
 
 &lt;p&gt; Томас вместе с Гай-Мэном основали свой первый коллектив, когда им было всего по 17 лет. Тогда проект назывался Darlin, однако он не получил позитивных откликов у музыкальных критиков.&lt;/p&gt;
 
@@ -57,8 +57,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/gruppa-daft-punk&quot;&gt;группа Daft Punk&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/istorii-ispolniteley&quot;&gt;истории исполнителей&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/ob-ispolnitelyah&quot;&gt;об исполнителях&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 19 Nov 2015 08:12:02 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2628 at https://vse.la</guid>
- <comments>https://vse.la/blog/istoriya-gruppy-daft-punk#comments</comments>
+ <guid isPermaLink="false">2628 at http://vse.la</guid>
+ <comments>http://vse.la/blog/istoriya-gruppy-daft-punk#comments</comments>
 </item>
 </channel>
 </rss>

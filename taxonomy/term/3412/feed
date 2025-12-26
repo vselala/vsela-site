@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Classic music</title>
- <link>https://vse.la/teg/classic-music</link>
+ <link>http://vse.la/teg/classic-music</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Hello!</title>
- <link>https://vse.la/blog/hello</link>
+ <link>http://vse.la/blog/hello</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The big family came together to have a rest. Granny and grandpa visited their home today.&lt;/p&gt;
 
 &lt;p&gt;Margit has going to play. Without knowing her fate she sat at the piano. Here she rushed away sobbing.&lt;/p&gt;
@@ -42,13 +42,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/akkompanement&quot;&gt;Аккомпанемент&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/jan-paderewski&quot;&gt;Jan Paderewski&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/classic-music&quot;&gt;Classic music&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/angliyskiy&quot;&gt;Английский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 14 Jan 2017 14:51:31 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4127 at https://vse.la</guid>
- <comments>https://vse.la/blog/hello#comments</comments>
+ <guid isPermaLink="false">4127 at http://vse.la</guid>
+ <comments>http://vse.la/blog/hello#comments</comments>
 </item>
 <item>
  <title>Ideological Foundations of &quot;Passacaglia&quot; by Dietrich Buxtehude</title>
- <link>https://vse.la/blog/ideological-foundations-passacaglia-dietrich-buxtehude</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/i_wish_i_could_swim_by_bluelilyoffire3.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/i_wish_i_could_swim_by_bluelilyoffire3.jpg&quot; width=&quot;286&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Philharmonic and music schools go classical.&lt;/p&gt;
+ <link>http://vse.la/blog/ideological-foundations-passacaglia-dietrich-buxtehude</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/i_wish_i_could_swim_by_bluelilyoffire3.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/i_wish_i_could_swim_by_bluelilyoffire3.jpg&quot; width=&quot;286&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Philharmonic and music schools go classical.&lt;/p&gt;
 
 &lt;p&gt;The constellation of Danish composers represents a great musician &lt;strong&gt;Dietrich Buxtehude&lt;/strong&gt;. He was an organist and composer of the Baroque period, lived in Germany, &lt;a href=&quot;https://en.wikipedia.org/wiki/Dieterich_Buxtehude&quot; target=&quot;_blank&quot;&gt;Wiki&lt;/a&gt; says.&lt;/p&gt;
 
@@ -56,7 +56,7 @@
 
 &lt;h2&gt;Forms&lt;/h2&gt;
 
-&lt;p&gt;First of all this composition gives strict &lt;a href=&quot;https://www.dolmetsch.com/musictheory41.htm&quot; target=&quot;_blank&quot;&gt;musical forms&lt;/a&gt;, and they are complex.&lt;/p&gt;
+&lt;p&gt;First of all this composition gives strict &lt;a href=&quot;http://www.dolmetsch.com/musictheory41.htm&quot; target=&quot;_blank&quot;&gt;musical forms&lt;/a&gt;, and they are complex.&lt;/p&gt;
 
 &lt;p&gt;The second you can see, it will be so hard to get the rhythm with this creation.&lt;/p&gt;
 
@@ -106,12 +106,12 @@
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;Photo: &lt;a href=&quot;https://bluelilyoffire3.deviantart.com/art/I-Wish-I-Could-Swim-131983677&quot;&gt;https://bluelilyoffire3.deviantart.com/art/I-Wish-I-Could-Swim-131983677&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Photo: &lt;a href=&quot;http://bluelilyoffire3.deviantart.com/art/I-Wish-I-Could-Swim-131983677&quot;&gt;http://bluelilyoffire3.deviantart.com/art/I-Wish-I-Could-Swim-131983677&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/akkompanement&quot;&gt;Аккомпанемент&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/danish-music&quot;&gt;Danish music&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/classic-music&quot;&gt;Classic music&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/angliyskiy&quot;&gt;Английский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 07 Jan 2017 19:13:44 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4118 at https://vse.la</guid>
- <comments>https://vse.la/blog/ideological-foundations-passacaglia-dietrich-buxtehude#comments</comments>
+ <guid isPermaLink="false">4118 at http://vse.la</guid>
+ <comments>http://vse.la/blog/ideological-foundations-passacaglia-dietrich-buxtehude#comments</comments>
 </item>
 </channel>
 </rss>

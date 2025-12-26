@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Тосты</title>
- <link>https://vse.la/tematika/tosty</link>
+ <link>http://vse.la/tematika/tosty</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Песня на Свадьбу</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%83</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%83&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/svadba_dvorec.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;&lt;span style=&quot;font-family:inherit&quot;&gt;Давайте поднимем бокалы скорей&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%83</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%83&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/svadba_dvorec.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;&lt;span style=&quot;font-family:inherit&quot;&gt;Давайте поднимем бокалы скорей&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;font-size:12px&quot;&gt;&lt;span style=&quot;font-family:inherit&quot;&gt;За молодоженов, Наталью и Илью,&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -50,13 +50,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/svadba&quot;&gt;Свадьба&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/svadba/molodozhyonam&quot;&gt;Молодожёнам&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/tosty&quot;&gt;Тосты&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 03 Mar 2015 06:22:13 +0000</pubDate>
  <dc:creator>Владимир Певцов</dc:creator>
- <guid isPermaLink="false">1461 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%83#comments</comments>
+ <guid isPermaLink="false">1461 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BD%D0%B0-%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%83#comments</comments>
 </item>
 <item>
  <title>Тосты имениннику </title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82%D1%8B-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D1%83</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82%D1%8B-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D1%83&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/tosty_svetskie.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Что-то гости загрустили -&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82%D1%8B-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D1%83</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82%D1%8B-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D1%83&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/tosty_svetskie.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Что-то гости загрустили -&lt;br /&gt;
 Нужно рюмки заполнять.&lt;br /&gt;
 Имениннику отныне&lt;br /&gt;
 Будем тосты посвящать.&lt;br /&gt;
@@ -119,13 +119,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/tosty&quot;&gt;Тосты&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 16 Sep 2014 21:04:45 +0000</pubDate>
  <dc:creator>Эскандера</dc:creator>
- <guid isPermaLink="false">802 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82%D1%8B-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D1%83#comments</comments>
+ <guid isPermaLink="false">802 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82%D1%8B-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D1%83#comments</comments>
 </item>
 <item>
  <title>Тост Горько, тост в стихах</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE-%D1%82%D0%BE%D1%81%D1%82-%D0%B2-%D1%81%D1%82%D0%B8%D1%85%D0%B0%D1%85</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE-%D1%82%D0%BE%D1%81%D1%82-%D0%B2-%D1%81%D1%82%D0%B8%D1%85%D0%B0%D1%85&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/okal.jpg&quot; width=&quot;105&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rteindent2&quot;&gt; &lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE-%D1%82%D0%BE%D1%81%D1%82-%D0%B2-%D1%81%D1%82%D0%B8%D1%85%D0%B0%D1%85</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE-%D1%82%D0%BE%D1%81%D1%82-%D0%B2-%D1%81%D1%82%D0%B8%D1%85%D0%B0%D1%85&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/okal.jpg&quot; width=&quot;105&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rteindent2&quot;&gt; &lt;/p&gt;
 
 &lt;p class=&quot;rteindent2&quot;&gt;&lt;span style=&quot;font-size:18px&quot;&gt;&lt;em&gt;&lt;strong&gt;Как же много угощений&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -139,13 +139,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/svadba&quot;&gt;Свадьба&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/tosty&quot;&gt;Тосты&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 02 Aug 2014 11:58:06 +0000</pubDate>
  <dc:creator>Эскандера</dc:creator>
- <guid isPermaLink="false">567 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE-%D1%82%D0%BE%D1%81%D1%82-%D0%B2-%D1%81%D1%82%D0%B8%D1%85%D0%B0%D1%85#comments</comments>
+ <guid isPermaLink="false">567 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE-%D1%82%D0%BE%D1%81%D1%82-%D0%B2-%D1%81%D1%82%D0%B8%D1%85%D0%B0%D1%85#comments</comments>
 </item>
 <item>
  <title>Тост и поздравление маме /с Днём рожденья  / в День семьи и верности /</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D0%BC%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C%D1%8F-%D0%B2-%D0%B4%D0%B5%D0%BD%D1%8C-%D1%81%D0%B5%D0%BC%D1%8C%D0%B8-%D0%B8</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D0%BC%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C%D1%8F-%D0%B2-%D0%B4%D0%B5%D0%BD%D1%8C-%D1%81%D0%B5%D0%BC%D1%8C%D0%B8-%D0%B8&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/10_d.jpg&quot; width=&quot;156&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда настал мой первый миг -&lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D0%BC%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C%D1%8F-%D0%B2-%D0%B4%D0%B5%D0%BD%D1%8C-%D1%81%D0%B5%D0%BC%D1%8C%D0%B8-%D0%B8</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D0%BC%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C%D1%8F-%D0%B2-%D0%B4%D0%B5%D0%BD%D1%8C-%D1%81%D0%B5%D0%BC%D1%8C%D0%B8-%D0%B8&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/10_d.jpg&quot; width=&quot;156&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда настал мой первый миг -&lt;/p&gt;
 
 &lt;p&gt;Увидел мамы я улыбку.&lt;/p&gt;
 
@@ -163,13 +163,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/den-rozhdeniya&quot;&gt;День рождения&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/den-rozhdeniya/mame&quot;&gt;Маме&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/tosty&quot;&gt;Тосты&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 02 Jul 2014 22:36:33 +0000</pubDate>
  <dc:creator>Эскандера</dc:creator>
- <guid isPermaLink="false">199 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D0%BC%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C%D1%8F-%D0%B2-%D0%B4%D0%B5%D0%BD%D1%8C-%D1%81%D0%B5%D0%BC%D1%8C%D0%B8-%D0%B8#comments</comments>
+ <guid isPermaLink="false">199 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%BE%D1%81%D1%82-%D0%B8-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D0%BC%D0%B5-%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C%D1%8F-%D0%B2-%D0%B4%D0%B5%D0%BD%D1%8C-%D1%81%D0%B5%D0%BC%D1%8C%D0%B8-%D0%B8#comments</comments>
 </item>
 <item>
  <title>За любовь</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B7%D0%B0-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B7%D0%B0-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/1234.jpg&quot; width=&quot;159&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color:#800080&quot;&gt;&lt;em&gt;Давайте выпьем за любовь!&lt;/em&gt;&lt;/span&gt;&lt;/h3&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B7%D0%B0-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B7%D0%B0-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/1234.jpg&quot; width=&quot;159&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color:#800080&quot;&gt;&lt;em&gt;Давайте выпьем за любовь!&lt;/em&gt;&lt;/span&gt;&lt;/h3&gt;
 
 &lt;h3&gt;&lt;span style=&quot;color:#800080&quot;&gt;&lt;em&gt;Её немеркнущую силу! -&lt;/em&gt;&lt;/span&gt;&lt;/h3&gt;
 
@@ -179,8 +179,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/tosty&quot;&gt;Тосты&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 10 Jun 2014 21:37:43 +0000</pubDate>
  <dc:creator>Эскандера</dc:creator>
- <guid isPermaLink="false">107 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B7%D0%B0-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C#comments</comments>
+ <guid isPermaLink="false">107 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B7%D0%B0-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - стул</title>
- <link>https://vse.la/teg/stul</link>
+ <link>http://vse.la/teg/stul</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Чтобы стул не шумел при передвижении и не драл полы</title>
- <link>https://vse.la/blog/chtoby-stul-ne-shumel-pri-peredvizhenii-i-ne-dral-poly</link>
+ <link>http://vse.la/blog/chtoby-stul-ne-shumel-pri-peredvizhenii-i-ne-dral-poly</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Шум от стула при движении крайне раздражающий, неприятный. Если вы хотите двигать стул без лишнего шума, воспользуйтесь следующим советом. Купите накладки протекторы с фетром на вайлбериз, или даже Чехлы подкладки под мебельные ножки силиконовые &lt;a href=&quot;https://www.wildberries.ru/catalog/250279359/detail.aspx&quot;&gt;https://www.wildberries.ru/catalog/250279359/detail.aspx&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1&gt;Наклейте что-нибудь мягкое на ножки стула&lt;/h1&gt;
@@ -30,8 +30,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/pedagogika&quot;&gt;Педагогика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/podelki&quot;&gt;поделки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stul&quot;&gt;стул&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/tishina&quot;&gt;тишина&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/besshumnyy-stul&quot;&gt;бесшумный стул&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 03 Feb 2023 18:11:54 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4733 at https://vse.la</guid>
- <comments>https://vse.la/blog/chtoby-stul-ne-shumel-pri-peredvizhenii-i-ne-dral-poly#comments</comments>
+ <guid isPermaLink="false">4733 at http://vse.la</guid>
+ <comments>http://vse.la/blog/chtoby-stul-ne-shumel-pri-peredvizhenii-i-ne-dral-poly#comments</comments>
 </item>
 </channel>
 </rss>

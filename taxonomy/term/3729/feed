@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - биткоин</title>
- <link>https://vse.la/teg/bitkoin</link>
+ <link>http://vse.la/teg/bitkoin</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Пишем поздравления майнерам в стихах</title>
- <link>https://vse.la/blog/pishem-pozdravleniya-mayneram-v-stihah</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/8390558057_a0e6f9056f_c_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/8390558057_a0e6f9056f_c_sm.jpg&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Как писать стихи майнерам?&lt;/strong&gt; - Точность, лаконичность, строгость рифм и ритма.&lt;/p&gt;
+ <link>http://vse.la/blog/pishem-pozdravleniya-mayneram-v-stihah</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/8390558057_a0e6f9056f_c_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/8390558057_a0e6f9056f_c_sm.jpg&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Как писать стихи майнерам?&lt;/strong&gt; - Точность, лаконичность, строгость рифм и ритма.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;В чём особенность стихов для майнеров?&lt;/strong&gt; - Сфера новая, передовая, свободная, поэтому стихи тоже должны быть свободными, должен быть простор, абстракции, отсутствие конкретики, а также большая история-эпопея.&lt;/p&gt;
 
@@ -83,8 +83,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kak-pisat-stihi&quot;&gt;как писать стихи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stihi-bitkoin&quot;&gt;стихи биткоин&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/stihi-mayneru&quot;&gt;стихи майнеру&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stihi-o-maynerah&quot;&gt;стихи о майнерах&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/mayner&quot;&gt;майнер&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/blokcheyn&quot;&gt;блокчейн&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/bitkoin&quot;&gt;биткоин&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/kriptovalyuty&quot;&gt;криптовалюты&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;330&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 01 Jan 2022 17:17:25 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4586 at https://vse.la</guid>
- <comments>https://vse.la/blog/pishem-pozdravleniya-mayneram-v-stihah#comments</comments>
+ <guid isPermaLink="false">4586 at http://vse.la</guid>
+ <comments>http://vse.la/blog/pishem-pozdravleniya-mayneram-v-stihah#comments</comments>
 </item>
 </channel>
 </rss>

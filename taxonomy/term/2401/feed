@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - София Ротару</title>
- <link>https://vse.la/teg/sofiya-rotaru</link>
+ <link>http://vse.la/teg/sofiya-rotaru</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>О творчестве Софии Ротару</title>
- <link>https://vse.la/blog/o-tvorchestve-sofii-rotaru</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/sofiarotaru.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/sofiarotaru.jpg&quot; width=&quot;205&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Личная книга рекордов&lt;/h2&gt;
+ <link>http://vse.la/blog/o-tvorchestve-sofii-rotaru</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/sofiarotaru.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/sofiarotaru.jpg&quot; width=&quot;205&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Личная книга рекордов&lt;/h2&gt;
 
 &lt;p&gt;Ее голос звучит почти полвека, не одно поколение выросло на ее песнях, которые нравятся и молодым и пожилым, ее имя знакомо всем – София Ротару. Феномен советской эстрады, она во многом была первая, накопив собственных рекордов на личную книгу Гиннеса. Она признана в разных странах, и этот успех - результат труда и желания делиться эмоциями.&lt;/p&gt;
 
@@ -92,8 +92,8 @@ XXI век&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/sofiya-rotaru&quot;&gt;София Ротару&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 18 Jan 2016 15:22:33 +0000</pubDate>
  <dc:creator>Виктория Прокофьева</dc:creator>
- <guid isPermaLink="false">2829 at https://vse.la</guid>
- <comments>https://vse.la/blog/o-tvorchestve-sofii-rotaru#comments</comments>
+ <guid isPermaLink="false">2829 at http://vse.la</guid>
+ <comments>http://vse.la/blog/o-tvorchestve-sofii-rotaru#comments</comments>
 </item>
 </channel>
 </rss>

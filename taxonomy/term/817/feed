@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Обзоры стихов</title>
- <link>https://vse.la/blog/obzory-stihov</link>
+ <link>http://vse.la/blog/obzory-stihov</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Стихи про Россию</title>
- <link>https://vse.la/blog/stihi-pro-rossiyu</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/14119183192_a017460130_k_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/14119183192_a017460130_k_sm.jpg&quot; width=&quot;302&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О России сложено много стихов. Поэты писали о красоте природы, о крестьянах, об особенностях русского менталитета, о роли Росси в истории мира, о величии страны, о народах, населяющих большую страну.&lt;/p&gt;
+ <link>http://vse.la/blog/stihi-pro-rossiyu</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/14119183192_a017460130_k_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/14119183192_a017460130_k_sm.jpg&quot; width=&quot;302&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О России сложено много стихов. Поэты писали о красоте природы, о крестьянах, об особенностях русского менталитета, о роли Росси в истории мира, о величии страны, о народах, населяющих большую страну.&lt;/p&gt;
 
 &lt;p&gt;Посетите нашу страницу с 11 стихами о России Пушкина, Тютчева, Блока, Лермонтова, Симонова, Есенина, Рождественского, Лебедева-Кумач, Бокова, Матуссовского.&lt;/p&gt;
 
@@ -459,12 +459,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/stihi-o-rossii&quot;&gt;стихи о России&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stihi-o-rodine&quot;&gt;стихи о Родине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/rossiya&quot;&gt;Россия&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/pro-rossiyu&quot;&gt;про Россию&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/den-rosii&quot;&gt;день Росии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/patrioticheskie-stihi&quot;&gt;патриотические стихи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/grazhdanskaya-lirika&quot;&gt;гражданская лирика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 07 Feb 2023 09:37:16 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4735 at https://vse.la</guid>
- <comments>https://vse.la/blog/stihi-pro-rossiyu#comments</comments>
+ <guid isPermaLink="false">4735 at http://vse.la</guid>
+ <comments>http://vse.la/blog/stihi-pro-rossiyu#comments</comments>
 </item>
 <item>
  <title>Обзор стихов на День России</title>
- <link>https://vse.la/blog/obzor-stihov-na-den-rossii</link>
+ <link>http://vse.la/blog/obzor-stihov-na-den-rossii</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;/p&gt;
 
 &lt;p&gt;Великий праздник, день могучей&lt;br /&gt;
@@ -472,7 +472,7 @@
 Хозяйки рек, лесов дремучих,&lt;br /&gt;
 Гор величавых и тайги.&lt;br /&gt;
 &lt;br /&gt;
-&lt;a href=&quot;https://pozdravok.ru/pozdravleniya/prazdniki/den-rossii/2.htm&quot;&gt;https://pozdravok.ru/pozdravleniya/prazdniki/den-rossii/2.htm&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;http://pozdravok.ru/pozdravleniya/prazdniki/den-rossii/2.htm&quot;&gt;http://pozdravok.ru/pozdravleniya/prazdniki/den-rossii/2.htm&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;***&lt;/p&gt;
 
@@ -490,19 +490,19 @@
 Синеокая держава,&lt;br /&gt;
 Ты живи и процветай&lt;br /&gt;
 Всем на радость и на славу.&lt;br /&gt;
-©&lt;a href=&quot;https://pozdravok.ru/pozdravleniya/prazdniki/den-rossii/3.htm&quot;&gt;https://pozdravok.ru/pozdravleniya/prazdniki/den-rossii/3.htm&lt;/a&gt;&lt;/p&gt;
+©&lt;a href=&quot;http://pozdravok.ru/pozdravleniya/prazdniki/den-rossii/3.htm&quot;&gt;http://pozdravok.ru/pozdravleniya/prazdniki/den-rossii/3.htm&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/den-rossii&quot;&gt;день России&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 12 Sep 2016 22:28:30 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">3782 at https://vse.la</guid>
- <comments>https://vse.la/blog/obzor-stihov-na-den-rossii#comments</comments>
+ <guid isPermaLink="false">3782 at http://vse.la</guid>
+ <comments>http://vse.la/blog/obzor-stihov-na-den-rossii#comments</comments>
 </item>
 <item>
  <title>Обзор стихов ко Дню космонавтики</title>
- <link>https://vse.la/blog/obzor-stihov-ko-dnyu-kosmonavtiki</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/luna-siyaet.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/luna-siyaet.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Юрий Гагарин&lt;/h2&gt;
+ <link>http://vse.la/blog/obzor-stihov-ko-dnyu-kosmonavtiki</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/luna-siyaet.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/luna-siyaet.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Юрий Гагарин&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;Автор: В. Степанов&lt;/em&gt;&lt;/p&gt;
 
@@ -949,18 +949,18 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/den-kosmonavtiki&quot;&gt;День космонавтики&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/gagarin&quot;&gt;Гагарин&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kosmos&quot;&gt;космос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/raketa&quot;&gt;ракета&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/12-aprelya&quot;&gt;12 апреля&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 06 Mar 2016 07:03:39 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2996 at https://vse.la</guid>
- <comments>https://vse.la/blog/obzor-stihov-ko-dnyu-kosmonavtiki#comments</comments>
+ <guid isPermaLink="false">2996 at http://vse.la</guid>
+ <comments>http://vse.la/blog/obzor-stihov-ko-dnyu-kosmonavtiki#comments</comments>
 </item>
 <item>
  <title>Ποιηματάκια με μια καλή ομοιοκαταληξία</title>
- <link>https://vse.la/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1</link>
+ <link>http://vse.la/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1</link>
  <description>&lt;div class=&quot;field field-name-field-vid field-type-video-embed-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Видео:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
 &lt;div class=&quot;embedded-video&quot;&gt;
   &lt;div class=&quot;player&quot;&gt;
     &lt;iframe class=&quot;&quot; width=&quot;&quot; height=&quot;&quot; src=&quot;//www.youtube.com/embed/RXJ15VSXKg4?width%3D%26amp%3Bheight%3D%26amp%3Btheme%3Ddark%26amp%3Bautoplay%3D0%26amp%3Bvq%3Dlarge%26amp%3Brel%3D0%26amp%3Bshowinfo%3D1%26amp%3Bmodestbranding%3D0%26amp%3Biv_load_policy%3D1%26amp%3Bcontrols%3D1%26amp%3Bautohide%3D2%26amp%3Bwmode%3Dopaque&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;  &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/video_images/mishka-chitaet-skazki-dlya-detei3.jpg&quot; width=&quot;330&quot; height=&quot;228&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;ol&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/video_images/mishka-chitaet-skazki-dlya-detei3.jpg&quot; width=&quot;330&quot; height=&quot;228&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;ol&gt;
 	&lt;li&gt;Η Γιαγιά&lt;/li&gt;
 	&lt;li&gt;Φεγγαράκι μου λαμπρό&lt;/li&gt;
 	&lt;li&gt;Γύρω γύρω όλοι (χιόνια στο περβόλι)&lt;/li&gt;
@@ -1012,7 +1012,7 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 
 &lt;h1&gt;&lt;strong&gt;Γύρω γύρω όλοι&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;strong&gt;Στίχοι:  &lt;a href=&quot;https://www.stixoi.info/stixoi.php?info=Lyrics&amp;amp;act=index&amp;amp;sort=alpha&amp;amp;lyricist_id=3393&quot;&gt;Ρένα Καρθαίου&lt;/a&gt;  Μουσική:  &lt;a href=&quot;https://www.stixoi.info/stixoi.php?info=Lyrics&amp;amp;act=index&amp;amp;sort=alpha&amp;amp;composer_id=364&quot;&gt;Χρήστος Λεοντής&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Στίχοι:  &lt;a href=&quot;http://www.stixoi.info/stixoi.php?info=Lyrics&amp;amp;act=index&amp;amp;sort=alpha&amp;amp;lyricist_id=3393&quot;&gt;Ρένα Καρθαίου&lt;/a&gt;  Μουσική:  &lt;a href=&quot;http://www.stixoi.info/stixoi.php?info=Lyrics&amp;amp;act=index&amp;amp;sort=alpha&amp;amp;composer_id=364&quot;&gt;Χρήστος Λεοντής&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Γύρω γύρω όλοι &lt;br /&gt;
 χιόνια στο περβόλι&lt;br /&gt;
@@ -1051,13 +1051,13 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/video&quot;&gt;Видео&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 28 Nov 2015 15:23:49 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2694 at https://vse.la</guid>
- <comments>https://vse.la/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1#comments</comments>
+ <guid isPermaLink="false">2694 at http://vse.la</guid>
+ <comments>http://vse.la/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1#comments</comments>
 </item>
 <item>
  <title>Красивые стихи о Москве</title>
- <link>https://vse.la/blog/krasivye-stihi-o-moskve</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/moskva-s-kreml-cerkov.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/moskva-s-kreml-cerkov.jpg&quot; width=&quot;330&quot; height=&quot;206&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Александр Блок &quot;Утро в Москве&quot;, 1909г.&lt;/h2&gt;
+ <link>http://vse.la/blog/krasivye-stihi-o-moskve</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/moskva-s-kreml-cerkov.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/moskva-s-kreml-cerkov.jpg&quot; width=&quot;330&quot; height=&quot;206&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Александр Блок &quot;Утро в Москве&quot;, 1909г.&lt;/h2&gt;
 
 &lt;p&gt;Упоительно встать в ранний час,&lt;br /&gt;
 Легкий след на песке увидать.&lt;br /&gt;
@@ -1220,8 +1220,8 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/moskva&quot;&gt;москва&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/klassika&quot;&gt;классика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 25 Nov 2015 16:17:16 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2683 at https://vse.la</guid>
- <comments>https://vse.la/blog/krasivye-stihi-o-moskve#comments</comments>
+ <guid isPermaLink="false">2683 at http://vse.la</guid>
+ <comments>http://vse.la/blog/krasivye-stihi-o-moskve#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - современные поэты</title>
- <link>https://vse.la/teg/sovremennye-poety</link>
+ <link>http://vse.la/teg/sovremennye-poety</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Сочинение-анализ стихотворения &quot;Осень пришла&quot; современного поэта (2014 год)</title>
- <link>https://vse.la/sochinenia/sochinenie-analiz-stihotvoreniya-osen-prishla</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/sochinenia/2119749_2.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/large/public/sochinenia/2119749_2.jpg&quot; width=&quot;480&quot; height=&quot;322&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Современная поэзия нам дарит мысли и переживания наших современников.&lt;/p&gt;
+ <link>http://vse.la/sochinenia/sochinenie-analiz-stihotvoreniya-osen-prishla</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/sochinenia/2119749_2.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/large/public/sochinenia/2119749_2.jpg&quot; width=&quot;480&quot; height=&quot;322&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Современная поэзия нам дарит мысли и переживания наших современников.&lt;/p&gt;
 
 &lt;p&gt;Творчество поэта, у которого многогранный внутренний мир, своеобразна и нова. Свои поэтические произведения он размещает в Интернете с 2014 года. Представляю стихотворение &quot;Осень пришла&quot;.&lt;/p&gt;
 
@@ -61,8 +61,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-r-soch field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Темы сочинения:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sochinenia/temy/sovremennye-poety&quot;&gt;Современные поэты&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/sochineniya-o-stihah&quot;&gt;сочинения о стихах&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/analiz-stihov&quot;&gt;анализ стихов&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/sovremennye-poety&quot;&gt;современные поэты&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/shkolnyy-analiz-stihov&quot;&gt;школьный анализ стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 16 Dec 2016 08:42:15 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4027 at https://vse.la</guid>
- <comments>https://vse.la/sochinenia/sochinenie-analiz-stihotvoreniya-osen-prishla#comments</comments>
+ <guid isPermaLink="false">4027 at http://vse.la</guid>
+ <comments>http://vse.la/sochinenia/sochinenie-analiz-stihotvoreniya-osen-prishla#comments</comments>
 </item>
 </channel>
 </rss>

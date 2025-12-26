@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - свадебные стихи</title>
- <link>https://vse.la/teg/svadebnye-stihi</link>
+ <link>http://vse.la/teg/svadebnye-stihi</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Искрящаяся поэзия свадьбы</title>
- <link>https://vse.la/blog/iskryashchayasya-poeziya-svadby</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/svadba_balalaika_kolca.jpeg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/svadba_balalaika_kolca.jpeg&quot; width=&quot;313&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Свадьба&lt;/strong&gt; – это специальный обряд, символизирующий заключение брака. Это важнейшее торжество в жизни мужчины и женщины, с которым связано невероятное множество различных обычаев и церемоний, разнящихся в разных местах и регионах. Но, в независимости от места жительства пары, от ее благосостояния, возраста, количества родни, свадьбу испокон веков сопровождало поэтическое литературное творчество. Да и вся история поздравительной поэзии с тех давних времен тесно связана со свадебными обрядами. &lt;/p&gt;
+ <link>http://vse.la/blog/iskryashchayasya-poeziya-svadby</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/svadba_balalaika_kolca.jpeg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/svadba_balalaika_kolca.jpeg&quot; width=&quot;313&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Свадьба&lt;/strong&gt; – это специальный обряд, символизирующий заключение брака. Это важнейшее торжество в жизни мужчины и женщины, с которым связано невероятное множество различных обычаев и церемоний, разнящихся в разных местах и регионах. Но, в независимости от места жительства пары, от ее благосостояния, возраста, количества родни, свадьбу испокон веков сопровождало поэтическое литературное творчество. Да и вся история поздравительной поэзии с тех давних времен тесно связана со свадебными обрядами. &lt;/p&gt;
 
 &lt;p&gt;Рифмованные прибаутки, запевки, зазывки начинались еще на этапе сватовства и сговора, были неотъемлемой частью девичника. А уж что говорить о свадьбе! И тогда и сейчас зажигательные стихи-поздравления, задорные частушки подчеркивают традиции и создают свадьбе залихватски широкую, разудалую, незабываемую атмосферу! Атмосферу настоящего свадебного пира!&lt;/p&gt;
 
 &lt;h2&gt;Виды поэтического свадебного творчества&lt;/h2&gt;
 
-&lt;p&gt;Для того, чтобы торжественное событие искрило счастьем, сверкало разноцветьем радуги, используются разные виды свадебного литературного творчества. Все эти виды свадебной поэзии можно найти и заказать на сайте &lt;a href=&quot;https://с-т-и-х-и.рф/заказать-стих&quot;&gt;с-т-и-х-и.рф&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Для того, чтобы торжественное событие искрило счастьем, сверкало разноцветьем радуги, используются разные виды свадебного литературного творчества. Все эти виды свадебной поэзии можно найти и заказать на сайте &lt;a href=&quot;http://с-т-и-х-и.рф/заказать-стих&quot;&gt;с-т-и-х-и.рф&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;zakazatstih&quot; href=&quot;https://с-т-и-х-и.рф/заказать-стих&quot;&gt;Заказать стих на свадьбу&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;zakazatstih&quot; href=&quot;http://с-т-и-х-и.рф/заказать-стих&quot;&gt;Заказать стих на свадьбу&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;Поздравительные стихотворения&lt;/h3&gt;
 
@@ -54,8 +54,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/svadebnye-stihi&quot;&gt;свадебные стихи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stihi-na-svadbu&quot;&gt;стихи на свадьбу&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/svadba&quot;&gt;свадьба&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 03 Jun 2014 10:00:30 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">83 at https://vse.la</guid>
- <comments>https://vse.la/blog/iskryashchayasya-poeziya-svadby#comments</comments>
+ <guid isPermaLink="false">83 at http://vse.la</guid>
+ <comments>http://vse.la/blog/iskryashchayasya-poeziya-svadby#comments</comments>
 </item>
 </channel>
 </rss>

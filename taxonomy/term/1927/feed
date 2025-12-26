@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - водитель шофёр автомобилист</title>
- <link>https://vse.la/teg/voditel-shofyor-avtomobilist</link>
+ <link>http://vse.la/teg/voditel-shofyor-avtomobilist</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>День работников автомобильного транспорта (День автомобилиста).</title>
- <link>https://vse.la/stih/den-rabotnikov-avtomobilnogo-transporta-den</link>
+ <link>http://vse.la/stih/den-rabotnikov-avtomobilnogo-transporta-den</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Все сезоны напролёт,&lt;br /&gt;
 Руль из рук не выпуская,&lt;br /&gt;
 В солнцепёк и гололед,&lt;br /&gt;
@@ -30,8 +30,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/devushke&quot;&gt;Девушке&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/zhenshchine&quot;&gt;Женщине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/parnyu&quot;&gt;Парню&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/pozdravleniya&quot;&gt;Поздравления&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/voditel&quot;&gt;Водитель&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 25 Oct 2015 10:03:55 +0000</pubDate>
  <dc:creator>Андрей Боровой</dc:creator>
- <guid isPermaLink="false">2395 at https://vse.la</guid>
- <comments>https://vse.la/stih/den-rabotnikov-avtomobilnogo-transporta-den#comments</comments>
+ <guid isPermaLink="false">2395 at http://vse.la</guid>
+ <comments>http://vse.la/stih/den-rabotnikov-avtomobilnogo-transporta-den#comments</comments>
 </item>
 </channel>
 </rss>

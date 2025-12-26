@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - уроки музыки</title>
- <link>https://vse.la/teg/uroki-muzyki</link>
+ <link>http://vse.la/teg/uroki-muzyki</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Как создавать красивые песни, альбомы. Как заниматься искусством</title>
- <link>https://vse.la/blog/kak-sozdavat-krasivye-pesni-albomy-kak-zanimatsya</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/51095254670_31839a2b31_k_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/51095254670_31839a2b31_k_sm.jpg&quot; width=&quot;330&quot; height=&quot;173&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Песни сопровождают людей на протяжении всей жизни. Песни хранят память о событиях, периоде жизни, напоминают встречи, разговоры, переживания, за что слушатели благодарны своим любимым исполнителям.&lt;/p&gt;
+ <link>http://vse.la/blog/kak-sozdavat-krasivye-pesni-albomy-kak-zanimatsya</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/51095254670_31839a2b31_k_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/51095254670_31839a2b31_k_sm.jpg&quot; width=&quot;330&quot; height=&quot;173&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Песни сопровождают людей на протяжении всей жизни. Песни хранят память о событиях, периоде жизни, напоминают встречи, разговоры, переживания, за что слушатели благодарны своим любимым исполнителям.&lt;/p&gt;
 
 &lt;p&gt;В творчестве некоторых исполнителей можно увидеть сюжетную линию, которая соединяет разные песни и альбомы в определённое послание, изображают жизнь исполнителя, жизнь героя его эпохи. Этому стоит поучиться у рок-музыкантов, у народных артистов, у &lt;a href=&quot;/taisiya-povaliy&quot;&gt;Таисии Повалий&lt;/a&gt;, &lt;a href=&quot;/sofiya-rotaru&quot;&gt;Софии Ротару&lt;/a&gt;. Когда творчество создаёт привлекательный образ, оно ценится и очень помогает.&lt;/p&gt;
 
@@ -68,8 +68,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kak-pisat-pesni&quot;&gt;как писать песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/kak-sochinyat-pesni&quot;&gt;как сочинять песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/uroki-muzyki&quot;&gt;уроки музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/analiz-populyarnyh-pesen&quot;&gt;анализ популярных песен&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;5&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 21 Dec 2021 16:24:25 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4545 at https://vse.la</guid>
- <comments>https://vse.la/blog/kak-sozdavat-krasivye-pesni-albomy-kak-zanimatsya#comments</comments>
+ <guid isPermaLink="false">4545 at http://vse.la</guid>
+ <comments>http://vse.la/blog/kak-sozdavat-krasivye-pesni-albomy-kak-zanimatsya#comments</comments>
 </item>
 </channel>
 </rss>

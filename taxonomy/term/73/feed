@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - девушке</title>
- <link>https://vse.la/teg/devushke</link>
+ <link>http://vse.la/teg/devushke</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>М*</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BC</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BC&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/tlfxfgsbrvu.jpg&quot; width=&quot;116&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Видно, боги уняли свой гнев надо мной,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BC</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BC&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/tlfxfgsbrvu.jpg&quot; width=&quot;116&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Видно, боги уняли свой гнев надо мной,&lt;br /&gt;
 Как еще объяснить нашу встречу с тобой!?&lt;br /&gt;
 Я как-будто вернулся из мира чудес,&lt;br /&gt;
 И сжигает ладони звезда из небес.&lt;/p&gt;
@@ -33,8 +33,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/devushke&quot;&gt;Девушке&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/devushke/prekrasnoy&quot;&gt;Прекрасной&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 27 Mar 2015 07:40:16 +0000</pubDate>
  <dc:creator>Сергей Багров</dc:creator>
- <guid isPermaLink="false">1504 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BC#comments</comments>
+ <guid isPermaLink="false">1504 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BC#comments</comments>
 </item>
 </channel>
 </rss>

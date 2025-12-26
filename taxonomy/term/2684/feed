@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Ηλίας Βρεττός</title>
- <link>https://vse.la/ilias-vrettos</link>
+ <link>http://vse.la/ilias-vrettos</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Μια Ιστορία</title>
- <link>https://vse.la/%CE%B7%CE%BB%CE%AF%CE%B1%CF%82-%CE%B2%CF%81%CE%B5%CF%84%CF%84%CF%8C%CF%82/%CE%BC%CE%B9%CE%B1-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1</link>
+ <link>http://vse.la/%CE%B7%CE%BB%CE%AF%CE%B1%CF%82-%CE%B2%CF%81%CE%B5%CF%84%CF%84%CF%8C%CF%82/%CE%BC%CE%B9%CE%B1-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Θα σου πω μια ιστορία&lt;br /&gt;
@@ -73,8 +73,8 @@
 Στίχοι: Λάμπρος Κωνσταντάρας, Νίκος Σουλιώτης&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/obrashchenie-k-lyubimoy&quot;&gt;Обращение к любимой&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/schaste-vdvoyom&quot;&gt;Счастье вдвоём&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/blazhenstvo&quot;&gt;Блаженство&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/blizost&quot;&gt;Близость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/naslazhdenie&quot;&gt;Наслаждение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/sozercanie&quot;&gt;Созерцание&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 28 Jun 2016 10:16:05 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">3364 at https://vse.la</guid>
- <comments>https://vse.la/%CE%B7%CE%BB%CE%AF%CE%B1%CF%82-%CE%B2%CF%81%CE%B5%CF%84%CF%84%CF%8C%CF%82/%CE%BC%CE%B9%CE%B1-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1#comments</comments>
+ <guid isPermaLink="false">3364 at http://vse.la</guid>
+ <comments>http://vse.la/%CE%B7%CE%BB%CE%AF%CE%B1%CF%82-%CE%B2%CF%81%CE%B5%CF%84%CF%84%CF%8C%CF%82/%CE%BC%CE%B9%CE%B1-%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - красивый голос</title>
- <link>https://vse.la/teg/krasivyy-golos</link>
+ <link>http://vse.la/teg/krasivyy-golos</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Трактат про бархатный голос</title>
- <link>https://vse.la/blog/traktat-pro-barhatnyy-golos</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Бархатный голос звучит мягко, полнозвучно, без напряжения. Чарующее звучание бархатного голоса всем безусловно приятно, привлекает внимание.&lt;/p&gt;
+ <link>http://vse.la/blog/traktat-pro-barhatnyy-golos</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Бархатный голос звучит мягко, полнозвучно, без напряжения. Чарующее звучание бархатного голоса всем безусловно приятно, привлекает внимание.&lt;/p&gt;
 
 &lt;p&gt;В настоящее время звучание бархатного голоса освящено не в полной мере как на интернет-сайтах, так и на ресурсах &lt;em&gt;вищого розуму&lt;/em&gt;. Поэтому мы, vse.la, будем создавать наше мнение с нуля. Также мы раскроем отличия бархатного голоса от бархатистого голоса.&lt;/p&gt;
 
@@ -22,7 +22,7 @@
 
 &lt;p&gt;Бархатный голос используется в музыке, поэтому наш трактат может быть интересен музыкантам.&lt;/p&gt;
 
-&lt;p&gt;Данный трактат служит отправной точкой для изучения голоса и его восприятия, касается вопросов взаимопонимания для поддержания удобных коммуникаций. Бархатный голос необходим, когда рассказывают реальную историю, которуюнужно передать в деталях.&lt;/p&gt;
+&lt;p&gt;Данный трактат служит отправной точкой для изучения голоса и его восприятия, касается вопросов взаимопонимания для поддержания удобных коммуникаций. Бархатный голос необходим, когда рассказывают реальную историю, которую нужно передать в деталях.&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -318,13 +318,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-yazyke&quot;&gt;О языке&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/golos&quot;&gt;голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/rech&quot;&gt;речь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/krasivyy-golos&quot;&gt;красивый голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/vokal&quot;&gt;вокал&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/tehniki-vokala&quot;&gt;техники вокала&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 15 Feb 2025 18:36:52 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4845 at https://vse.la</guid>
- <comments>https://vse.la/blog/traktat-pro-barhatnyy-golos#comments</comments>
+ <guid isPermaLink="false">4845 at http://vse.la</guid>
+ <comments>http://vse.la/blog/traktat-pro-barhatnyy-golos#comments</comments>
 </item>
 <item>
  <title>Трактат про субтон</title>
- <link>https://vse.la/blog/traktat-pro-subton</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/6505320795_33529cb969_c_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/6505320795_33529cb969_c_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Субтон&lt;/strong&gt; - это мягкий голос, которым пользуются исполнители и исполнительницы песен, чтобы передать чувства нежности, тепла, заботы.&lt;/p&gt;
+ <link>http://vse.la/blog/traktat-pro-subton</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/6505320795_33529cb969_c_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/6505320795_33529cb969_c_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Субтон&lt;/strong&gt; - это мягкий голос, которым пользуются исполнители и исполнительницы песен, чтобы передать чувства нежности, тепла, заботы.&lt;/p&gt;
 
 &lt;p&gt;Субтон вряд ли интересен всем профессиональным певцам и певицам, потому что чаще всего поют открытым ясным голосом со множеством оттенков и вариаций. Субтон - это шёпот, который создаёт уютную атмосферу, сжимая пространство, и мы расскажем о его значении и особенностях, а также расскажем о королеве субтона.&lt;/p&gt;
 
@@ -445,7 +445,7 @@
 
 &lt;p&gt;&lt;a href=&quot;/strelki/vlyublennyy-muzhchina&quot;&gt;Текст песни и клип&lt;/a&gt;. Песни группы Стрелки всегда очень красиво сочетают нежный мягкий голос и звонкий, ясный, проницательный голос. В песне &quot;Влюблённый мужчина&quot; субтон звучит в некоторых куплетах. Такие куплеты раскрывают тайны женских переживаний. Что чувствуют женщины при встрече с влюблённым мужчиной?&lt;/p&gt;
 
-&lt;p&gt;(субтон) Но не спрятаться в нём, не закрыться в себе. &lt;br /&gt;
+&lt;p&gt;(субтон) Им не спрятаться днём, не закрыться в себе. &lt;br /&gt;
 (субтон) Они очень легко различимы в толпе. &lt;br /&gt;
 (не субтон) Никогда не смотри им подолгу в глаза -&lt;br /&gt;
 (не субтон) Не вернешься назад!&lt;/p&gt;
@@ -596,8 +596,8 @@ Aah aah ooh&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/subton&quot;&gt;субтон&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/golos&quot;&gt;голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/krasivyy-golos&quot;&gt;красивый голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/tehniki-vokala&quot;&gt;техники вокала&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/vokal&quot;&gt;вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 21 Jan 2025 15:02:25 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4839 at https://vse.la</guid>
- <comments>https://vse.la/blog/traktat-pro-subton#comments</comments>
+ <guid isPermaLink="false">4839 at http://vse.la</guid>
+ <comments>http://vse.la/blog/traktat-pro-subton#comments</comments>
 </item>
 </channel>
 </rss>

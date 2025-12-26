@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Pascal Obispo</title>
- <link>https://vse.la/pascal-obispo</link>
+ <link>http://vse.la/pascal-obispo</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Солнце, песок</title>
- <link>https://vse.la/pascal-obispo/%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5-%D0%BF%D0%B5%D1%81%D0%BE%D0%BA</link>
+ <link>http://vse.la/pascal-obispo/%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5-%D0%BF%D0%B5%D1%81%D0%BE%D0%BA</link>
  <description>&lt;div class=&quot;field field-name-field-lyrics-original field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Оригинал:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/pascal-obispo/sous-le-soleil&quot;&gt;Sous le soleil&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Припев:&lt;br /&gt;
 Солнце, песок&lt;br /&gt;
 И небеса&lt;br /&gt;
@@ -38,12 +38,12 @@
 &lt;p&gt;Припев.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/pascal-obispo&quot;&gt;Pascal Obispo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 12 Oct 2015 19:24:49 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2043 at https://vse.la</guid>
- <comments>https://vse.la/pascal-obispo/%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5-%D0%BF%D0%B5%D1%81%D0%BE%D0%BA#comments</comments>
+ <guid isPermaLink="false">2043 at http://vse.la</guid>
+ <comments>http://vse.la/pascal-obispo/%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5-%D0%BF%D0%B5%D1%81%D0%BE%D0%BA#comments</comments>
 </item>
 <item>
  <title>Sous le soleil</title>
- <link>https://vse.la/pascal-obispo/sous-le-soleil</link>
+ <link>http://vse.la/pascal-obispo/sous-le-soleil</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Sous le soleil&lt;br /&gt;
@@ -101,8 +101,8 @@ Ou sous le soleil&lt;/p&gt;
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/pascal-obispo&quot;&gt;Pascal Obispo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/francuzskiy&quot;&gt;Французский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/leto&quot;&gt;Лето&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/more&quot;&gt;Море&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/na-ostrovah&quot;&gt;На островах&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-imena field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Имена:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/imya/leto&quot;&gt;лето&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 12 Oct 2015 19:24:21 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2042 at https://vse.la</guid>
- <comments>https://vse.la/pascal-obispo/sous-le-soleil#comments</comments>
+ <guid isPermaLink="false">2042 at http://vse.la</guid>
+ <comments>http://vse.la/pascal-obispo/sous-le-soleil#comments</comments>
 </item>
 </channel>
 </rss>

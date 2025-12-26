@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - анализ песен Гости из будущего</title>
- <link>https://vse.la/teg/analiz-pesen-gosti-iz-budushchego</link>
+ <link>http://vse.la/teg/analiz-pesen-gosti-iz-budushchego</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Анализ песни группы Гости из будущего &quot;Осень-осень&quot;</title>
- <link>https://vse.la/blog/analiz-pesni-gruppy-gosti-iz-budushchego-osen-osen</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/osen-gory-devushka.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/osen-gory-devushka.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Группа Гости из будущего исполняла песни в стиле поп в начале 21 века. Текст песни &quot;Осень-осень&quot; - &lt;a href=&quot;/гости-из-будущего/осень-осень&quot;&gt;тут&lt;/a&gt;. Это удивительная лиричная композиция, внутри которой можно найти одну прекрасную сцену осени, глубокий смысл, красивые аккорды и добрые слова. Песня &quot;Осень-осень&quot; - о расставании, но она совершенно не скучная, этим она привлекает и завораживает.&lt;/p&gt;
+ <link>http://vse.la/blog/analiz-pesni-gruppy-gosti-iz-budushchego-osen-osen</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/osen-gory-devushka.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/osen-gory-devushka.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Группа Гости из будущего исполняла песни в стиле поп в начале 21 века. Текст песни &quot;Осень-осень&quot; - &lt;a href=&quot;/гости-из-будущего/осень-осень&quot;&gt;тут&lt;/a&gt;. Это удивительная лиричная композиция, внутри которой можно найти одну прекрасную сцену осени, глубокий смысл, красивые аккорды и добрые слова. Песня &quot;Осень-осень&quot; - о расставании, но она совершенно не скучная, этим она привлекает и завораживает.&lt;/p&gt;
 
 &lt;p&gt;Для песни главное - первые строки и нескучное начало. Но как это сделать, когда песня о расставании? Автор слов обращается к природным явлениям, рисует чувства, возбуждаемые осенью.&lt;/p&gt;
 
@@ -58,8 +58,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/analiz-pesen&quot;&gt;анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/gosti-iz-budushchego&quot;&gt;Гости из будущего&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/osen&quot;&gt;осень&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/pesni-pro-osen&quot;&gt;песни про осень&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/rasstavanie&quot;&gt;расставание&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/analiz-pesen-gosti-iz-budushchego&quot;&gt;анализ песен Гости из будущего&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 04 Jan 2016 08:40:21 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2791 at https://vse.la</guid>
- <comments>https://vse.la/blog/analiz-pesni-gruppy-gosti-iz-budushchego-osen-osen#comments</comments>
+ <guid isPermaLink="false">2791 at http://vse.la</guid>
+ <comments>http://vse.la/blog/analiz-pesni-gruppy-gosti-iz-budushchego-osen-osen#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - ديانا حداد</title>
- <link>https://vse.la/dyn-hdd</link>
+ <link>http://vse.la/dyn-hdd</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Feat Zâd - La Fiesta - ديانا حداد -</title>
- <link>https://vse.la/%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D8%AD%D8%AF%D8%A7%D8%AF/feat-z%C3%A2d-la-fiesta-%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D8%AD%D8%AF%D8%A7%D8%AF</link>
+ <link>http://vse.la/%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D8%AD%D8%AF%D8%A7%D8%AF/feat-z%C3%A2d-la-fiesta-%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D8%AD%D8%AF%D8%A7%D8%AF</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;leftside&quot;&gt;
@@ -177,8 +177,8 @@ Everybody Keep Connected &lt;/p&gt;
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/dyn-hdd&quot;&gt;ديانا حداد&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/arabskiy&quot;&gt;Арабский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/sladkaya-zhizn&quot;&gt;Сладкая жизнь&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 12 Oct 2015 18:08:56 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2016 at https://vse.la</guid>
- <comments>https://vse.la/%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D8%AD%D8%AF%D8%A7%D8%AF/feat-z%C3%A2d-la-fiesta-%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D8%AD%D8%AF%D8%A7%D8%AF#comments</comments>
+ <guid isPermaLink="false">2016 at http://vse.la</guid>
+ <comments>http://vse.la/%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D8%AD%D8%AF%D8%A7%D8%AF/feat-z%C3%A2d-la-fiesta-%D8%AF%D9%8A%D8%A7%D9%86%D8%A7-%D8%AD%D8%AF%D8%A7%D8%AF#comments</comments>
 </item>
 </channel>
 </rss>

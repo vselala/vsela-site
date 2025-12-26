@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - На ночь</title>
- <link>https://vse.la/teg/na-noch</link>
+ <link>http://vse.la/teg/na-noch</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>На ночь</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0-%D0%BD%D0%BE%D1%87%D1%8C</link>
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0-%D0%BD%D0%BE%D1%87%D1%8C</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;span style=&quot;color:rgb(0, 0, 0); font-family:tahoma,arial,verdana,sans-serif,lucida sans; font-size:11px&quot;&gt;Звездная стихия&lt;/span&gt;&lt;br /&gt;
 &lt;span style=&quot;color:rgb(0, 0, 0); font-family:tahoma,arial,verdana,sans-serif,lucida sans; font-size:11px&quot;&gt;В синей тишине.&lt;/span&gt;&lt;br /&gt;
 &lt;span style=&quot;color:rgb(0, 0, 0); font-family:tahoma,arial,verdana,sans-serif,lucida sans; font-size:11px&quot;&gt;Сказку дарит ночь&lt;/span&gt;&lt;br /&gt;
@@ -21,8 +21,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 05 Jun 2014 07:51:55 +0000</pubDate>
  <dc:creator>Елена Коваленко</dc:creator>
- <guid isPermaLink="false">89 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0-%D0%BD%D0%BE%D1%87%D1%8C#comments</comments>
+ <guid isPermaLink="false">89 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0-%D0%BD%D0%BE%D1%87%D1%8C#comments</comments>
 </item>
 </channel>
 </rss>

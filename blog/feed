@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la блоги</title>
- <link>https://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3</link>
+ <link>http://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Трактат про бархатный голос</title>
- <link>https://vse.la/blog/traktat-pro-barhatnyy-golos</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Бархатный голос звучит мягко, полнозвучно, без напряжения. Чарующее звучание бархатного голоса всем безусловно приятно, привлекает внимание.&lt;/p&gt;
+ <link>http://vse.la/blog/traktat-pro-barhatnyy-golos</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Бархатный голос звучит мягко, полнозвучно, без напряжения. Чарующее звучание бархатного голоса всем безусловно приятно, привлекает внимание.&lt;/p&gt;
 
 &lt;p&gt;В настоящее время звучание бархатного голоса освящено не в полной мере как на интернет-сайтах, так и на ресурсах &lt;em&gt;вищого розуму&lt;/em&gt;. Поэтому мы, vse.la, будем создавать наше мнение с нуля. Также мы раскроем отличия бархатного голоса от бархатистого голоса.&lt;/p&gt;
 
@@ -22,7 +22,7 @@
 
 &lt;p&gt;Бархатный голос используется в музыке, поэтому наш трактат может быть интересен музыкантам.&lt;/p&gt;
 
-&lt;p&gt;Данный трактат служит отправной точкой для изучения голоса и его восприятия, касается вопросов взаимопонимания для поддержания удобных коммуникаций. Бархатный голос необходим, когда рассказывают реальную историю, которуюнужно передать в деталях.&lt;/p&gt;
+&lt;p&gt;Данный трактат служит отправной точкой для изучения голоса и его восприятия, касается вопросов взаимопонимания для поддержания удобных коммуникаций. Бархатный голос необходим, когда рассказывают реальную историю, которую нужно передать в деталях.&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -318,13 +318,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-yazyke&quot;&gt;О языке&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/golos&quot;&gt;голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/rech&quot;&gt;речь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/krasivyy-golos&quot;&gt;красивый голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/vokal&quot;&gt;вокал&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/tehniki-vokala&quot;&gt;техники вокала&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 15 Feb 2025 18:36:52 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4845 at https://vse.la</guid>
- <comments>https://vse.la/blog/traktat-pro-barhatnyy-golos#comments</comments>
+ <guid isPermaLink="false">4845 at http://vse.la</guid>
+ <comments>http://vse.la/blog/traktat-pro-barhatnyy-golos#comments</comments>
 </item>
 <item>
  <title>Трактат про субтон</title>
- <link>https://vse.la/blog/traktat-pro-subton</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/6505320795_33529cb969_c_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/6505320795_33529cb969_c_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Субтон&lt;/strong&gt; - это мягкий голос, которым пользуются исполнители и исполнительницы песен, чтобы передать чувства нежности, тепла, заботы.&lt;/p&gt;
+ <link>http://vse.la/blog/traktat-pro-subton</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/6505320795_33529cb969_c_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/6505320795_33529cb969_c_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Субтон&lt;/strong&gt; - это мягкий голос, которым пользуются исполнители и исполнительницы песен, чтобы передать чувства нежности, тепла, заботы.&lt;/p&gt;
 
 &lt;p&gt;Субтон вряд ли интересен всем профессиональным певцам и певицам, потому что чаще всего поют открытым ясным голосом со множеством оттенков и вариаций. Субтон - это шёпот, который создаёт уютную атмосферу, сжимая пространство, и мы расскажем о его значении и особенностях, а также расскажем о королеве субтона.&lt;/p&gt;
 
@@ -445,7 +445,7 @@
 
 &lt;p&gt;&lt;a href=&quot;/strelki/vlyublennyy-muzhchina&quot;&gt;Текст песни и клип&lt;/a&gt;. Песни группы Стрелки всегда очень красиво сочетают нежный мягкий голос и звонкий, ясный, проницательный голос. В песне &quot;Влюблённый мужчина&quot; субтон звучит в некоторых куплетах. Такие куплеты раскрывают тайны женских переживаний. Что чувствуют женщины при встрече с влюблённым мужчиной?&lt;/p&gt;
 
-&lt;p&gt;(субтон) Но не спрятаться в нём, не закрыться в себе. &lt;br /&gt;
+&lt;p&gt;(субтон) Им не спрятаться днём, не закрыться в себе. &lt;br /&gt;
 (субтон) Они очень легко различимы в толпе. &lt;br /&gt;
 (не субтон) Никогда не смотри им подолгу в глаза -&lt;br /&gt;
 (не субтон) Не вернешься назад!&lt;/p&gt;
@@ -596,12 +596,12 @@ Aah aah ooh&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/subton&quot;&gt;субтон&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/golos&quot;&gt;голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/krasivyy-golos&quot;&gt;красивый голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/tehniki-vokala&quot;&gt;техники вокала&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/vokal&quot;&gt;вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 21 Jan 2025 15:02:25 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4839 at https://vse.la</guid>
- <comments>https://vse.la/blog/traktat-pro-subton#comments</comments>
+ <guid isPermaLink="false">4839 at http://vse.la</guid>
+ <comments>http://vse.la/blog/traktat-pro-subton#comments</comments>
 </item>
 <item>
  <title>Вольные фантазии о любви</title>
- <link>https://vse.la/blog/volnye-fantazii-o-lyubvi</link>
+ <link>http://vse.la/blog/volnye-fantazii-o-lyubvi</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Часто слушатели песен настолько влюбляются в своих кумиров, что готовы слушать песни своих любимых исполнителей бесконечно. Возможно, такая любовь к музыке побуждает создавать новые и новые песни на темы, которые никто и никогда не обсуждал. Это похоже на скоростной интернет: когда у вас скорость доступа в интернет 1 терабит в 2025 году, появляется чувство, которое можно описать так: &lt;/p&gt;
 
 &lt;p&gt;Весь мир на ладони моей,&lt;/p&gt;
@@ -616,12 +616,12 @@ Aah aah ooh&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/vintazh&quot;&gt;Винтаж&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 09 Jan 2025 04:49:24 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4833 at https://vse.la</guid>
- <comments>https://vse.la/blog/volnye-fantazii-o-lyubvi#comments</comments>
+ <guid isPermaLink="false">4833 at http://vse.la</guid>
+ <comments>http://vse.la/blog/volnye-fantazii-o-lyubvi#comments</comments>
 </item>
 <item>
  <title>Этюд про экологию и трафик для Кита 1</title>
- <link>https://vse.la/blog/etyud-pro-ekologiyu-i-trafik-dlya-kita-1</link>
+ <link>http://vse.la/blog/etyud-pro-ekologiyu-i-trafik-dlya-kita-1</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Данная запись имеет целью представить порядок, который стал известен жителю Океании - Киту 1. Опишем определения, установим порядок, постараемся изобразить в прозе, оставим профессионалам выражение в стихах.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Океания&lt;/strong&gt; - всё окружение, которое видит Кит 1 во время прогулок по океану или путешествий по океану и побережью, а также процессы взаимодействия: течения, коралловые рифы, подводные сооружения, скалистый берег, горные хребты, широкие долины, а также взаимодействие с другими пользователями или процессами Океании.&lt;/p&gt;
@@ -706,13 +706,13 @@ Aah aah ooh&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 02 Jan 2025 10:58:04 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4831 at https://vse.la</guid>
- <comments>https://vse.la/blog/etyud-pro-ekologiyu-i-trafik-dlya-kita-1#comments</comments>
+ <guid isPermaLink="false">4831 at http://vse.la</guid>
+ <comments>http://vse.la/blog/etyud-pro-ekologiyu-i-trafik-dlya-kita-1#comments</comments>
 </item>
 <item>
  <title>История кита 1</title>
- <link>https://vse.la/blog/istoriya-kita-1</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/27312007680_db397af302_h_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/27312007680_db397af302_h_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Готовим историю про кита в прозе.&lt;/p&gt;
+ <link>http://vse.la/blog/istoriya-kita-1</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/27312007680_db397af302_h_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/27312007680_db397af302_h_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Готовим историю про кита в прозе.&lt;/p&gt;
 
 &lt;p&gt;В данном случае кит - абстрактный образ, лирический герой, который имеет свои особенности, а его история - это результат творчества.&lt;/p&gt;
 
@@ -824,12 +824,12 @@ Aah aah ooh&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/istoriya-kita&quot;&gt;история кита&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 05 May 2023 08:53:12 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4761 at https://vse.la</guid>
- <comments>https://vse.la/blog/istoriya-kita-1#comments</comments>
+ <guid isPermaLink="false">4761 at http://vse.la</guid>
+ <comments>http://vse.la/blog/istoriya-kita-1#comments</comments>
 </item>
 <item>
  <title>Humour in Popular Songs for Kids</title>
- <link>https://vse.la/blog/humour-popular-songs-kids</link>
+ <link>http://vse.la/blog/humour-popular-songs-kids</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Pen pineapple apple pen&lt;/h2&gt;
 
 &lt;p&gt;This song was so popular when just issued. &lt;a href=&quot;/pikotaro/ppap-pen-pineapple-apple-pen&quot;&gt;Lyrics here&lt;/a&gt;. It makes you smile over a man that makes first steps in English language. Don&#039;t be confused with words that sound alike! Have a short hint and listen seriously:&lt;/p&gt;
@@ -877,13 +877,13 @@ I&#039;ll place a call around the world, operator get me Bejing-jing-jing-jing&l
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/humour&quot;&gt;humour&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/funny-songs&quot;&gt;funny songs&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/songs-jokes&quot;&gt;songs with jokes&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 09 Feb 2023 10:17:32 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4737 at https://vse.la</guid>
- <comments>https://vse.la/blog/humour-popular-songs-kids#comments</comments>
+ <guid isPermaLink="false">4737 at http://vse.la</guid>
+ <comments>http://vse.la/blog/humour-popular-songs-kids#comments</comments>
 </item>
 <item>
  <title>Стихи про Россию</title>
- <link>https://vse.la/blog/stihi-pro-rossiyu</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/14119183192_a017460130_k_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/14119183192_a017460130_k_sm.jpg&quot; width=&quot;302&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О России сложено много стихов. Поэты писали о красоте природы, о крестьянах, об особенностях русского менталитета, о роли Росси в истории мира, о величии страны, о народах, населяющих большую страну.&lt;/p&gt;
+ <link>http://vse.la/blog/stihi-pro-rossiyu</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/14119183192_a017460130_k_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/14119183192_a017460130_k_sm.jpg&quot; width=&quot;302&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О России сложено много стихов. Поэты писали о красоте природы, о крестьянах, об особенностях русского менталитета, о роли Росси в истории мира, о величии страны, о народах, населяющих большую страну.&lt;/p&gt;
 
 &lt;p&gt;Посетите нашу страницу с 11 стихами о России Пушкина, Тютчева, Блока, Лермонтова, Симонова, Есенина, Рождественского, Лебедева-Кумач, Бокова, Матуссовского.&lt;/p&gt;
 
@@ -1334,12 +1334,12 @@ I&#039;ll place a call around the world, operator get me Bejing-jing-jing-jing&l
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/stihi-o-rossii&quot;&gt;стихи о России&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stihi-o-rodine&quot;&gt;стихи о Родине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/rossiya&quot;&gt;Россия&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/pro-rossiyu&quot;&gt;про Россию&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/den-rosii&quot;&gt;день Росии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/patrioticheskie-stihi&quot;&gt;патриотические стихи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/grazhdanskaya-lirika&quot;&gt;гражданская лирика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 07 Feb 2023 09:37:16 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4735 at https://vse.la</guid>
- <comments>https://vse.la/blog/stihi-pro-rossiyu#comments</comments>
+ <guid isPermaLink="false">4735 at http://vse.la</guid>
+ <comments>http://vse.la/blog/stihi-pro-rossiyu#comments</comments>
 </item>
 <item>
  <title>Чтобы стул не шумел при передвижении и не драл полы</title>
- <link>https://vse.la/blog/chtoby-stul-ne-shumel-pri-peredvizhenii-i-ne-dral-poly</link>
+ <link>http://vse.la/blog/chtoby-stul-ne-shumel-pri-peredvizhenii-i-ne-dral-poly</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Шум от стула при движении крайне раздражающий, неприятный. Если вы хотите двигать стул без лишнего шума, воспользуйтесь следующим советом. Купите накладки протекторы с фетром на вайлбериз, или даже Чехлы подкладки под мебельные ножки силиконовые &lt;a href=&quot;https://www.wildberries.ru/catalog/250279359/detail.aspx&quot;&gt;https://www.wildberries.ru/catalog/250279359/detail.aspx&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1&gt;Наклейте что-нибудь мягкое на ножки стула&lt;/h1&gt;
@@ -1362,13 +1362,13 @@ I&#039;ll place a call around the world, operator get me Bejing-jing-jing-jing&l
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/pedagogika&quot;&gt;Педагогика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/podelki&quot;&gt;поделки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stul&quot;&gt;стул&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/tishina&quot;&gt;тишина&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/besshumnyy-stul&quot;&gt;бесшумный стул&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 03 Feb 2023 18:11:54 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4733 at https://vse.la</guid>
- <comments>https://vse.la/blog/chtoby-stul-ne-shumel-pri-peredvizhenii-i-ne-dral-poly#comments</comments>
+ <guid isPermaLink="false">4733 at http://vse.la</guid>
+ <comments>http://vse.la/blog/chtoby-stul-ne-shumel-pri-peredvizhenii-i-ne-dral-poly#comments</comments>
 </item>
 <item>
  <title>Зачем люди пишут стихи</title>
- <link>https://vse.la/blog/zachem-lyudi-pishut-stihi-0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/9633171579_f2a23d9c27_h_sm_0.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/9633171579_f2a23d9c27_h_sm_0.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Вслед за &lt;a href=&quot;/blog/zachem-lyudi-pishut-stihi&quot;&gt;статьёй Эскандеры на тему &quot;Зачем люди пишут стихи&quot;&lt;/a&gt; предлагаю ещё несколько мыслей, которые можно использовать в сочинении.&lt;/p&gt;
+ <link>http://vse.la/blog/zachem-lyudi-pishut-stihi-0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/9633171579_f2a23d9c27_h_sm_0.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/9633171579_f2a23d9c27_h_sm_0.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Вслед за &lt;a href=&quot;/blog/zachem-lyudi-pishut-stihi&quot;&gt;статьёй Эскандеры на тему &quot;Зачем люди пишут стихи&quot;&lt;/a&gt; предлагаю ещё несколько мыслей, которые можно использовать в сочинении.&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -1425,13 +1425,13 @@ I&#039;ll place a call around the world, operator get me Bejing-jing-jing-jing&l
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/zachem-lyudi-pishut-stihi&quot;&gt;зачем люди пишут стихи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/sochineniya-o-stihah&quot;&gt;сочинения о стихах&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/sochineniya-po-literature&quot;&gt;сочинения по литературе&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;1120&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 01 Feb 2023 07:26:23 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4730 at https://vse.la</guid>
- <comments>https://vse.la/blog/zachem-lyudi-pishut-stihi-0#comments</comments>
+ <guid isPermaLink="false">4730 at http://vse.la</guid>
+ <comments>http://vse.la/blog/zachem-lyudi-pishut-stihi-0#comments</comments>
 </item>
 <item>
  <title>Обзор и краткий анализ песен про маму</title>
- <link>https://vse.la/blog/obzor-i-kratkiy-analiz-pesen-pro-mamu</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/27745098143_bc75c59ba6_z_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/27745098143_bc75c59ba6_z_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Песни, посвящённые маме, звучат проницательно, очень рассудительны и спокойные. В них чаще присутствуют реальные события и воспоминания, они понятны взрослым и детям. Давайте изучим основные сюжеты, мотивы, особенности звучания песен про маму. На нашем сайте такие песни можно найти среди &lt;a href=&quot;/temy-pesen&quot;&gt;всех тем песен&lt;/a&gt; в категории &lt;a href=&quot;/tema-pesni/semya&quot;&gt;Семья&lt;/a&gt;, подкатегории &lt;a href=&quot;/tema-pesni/mama&quot;&gt;Мама&lt;/a&gt;.&lt;/p&gt;
+ <link>http://vse.la/blog/obzor-i-kratkiy-analiz-pesen-pro-mamu</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/27745098143_bc75c59ba6_z_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/27745098143_bc75c59ba6_z_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Песни, посвящённые маме, звучат проницательно, очень рассудительны и спокойные. В них чаще присутствуют реальные события и воспоминания, они понятны взрослым и детям. Давайте изучим основные сюжеты, мотивы, особенности звучания песен про маму. На нашем сайте такие песни можно найти среди &lt;a href=&quot;/temy-pesen&quot;&gt;всех тем песен&lt;/a&gt; в категории &lt;a href=&quot;/tema-pesni/semya&quot;&gt;Семья&lt;/a&gt;, подкатегории &lt;a href=&quot;/tema-pesni/mama&quot;&gt;Мама&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2&gt; &lt;/h2&gt;
 
@@ -1694,8 +1694,8 @@ I дитинство, й розлука, й твоя материнська лю
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/mama&quot;&gt;мама&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/o-mame&quot;&gt;о маме&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/pesni-o-mame&quot;&gt;песни о маме&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/pesni-pro-mamu&quot;&gt;песни про маму&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;1500&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 29 May 2022 14:15:26 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4689 at https://vse.la</guid>
- <comments>https://vse.la/blog/obzor-i-kratkiy-analiz-pesen-pro-mamu#comments</comments>
+ <guid isPermaLink="false">4689 at http://vse.la</guid>
+ <comments>http://vse.la/blog/obzor-i-kratkiy-analiz-pesen-pro-mamu#comments</comments>
 </item>
 </channel>
 </rss>

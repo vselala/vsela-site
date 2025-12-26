@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - программы диджея</title>
- <link>https://vse.la/teg/programmy-didzheya</link>
+ <link>http://vse.la/teg/programmy-didzheya</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Sound Forge. Обзор возможностей программы</title>
- <link>https://vse.la/blog/sound-forge-obzor-vozmozhnostey-programmy</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/sound-forge-16.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/sound-forge-16.jpg&quot; width=&quot;330&quot; height=&quot;239&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Sound Forge – удобный и функциональный звуковой реактор от компании Sony Creative Software, в состав которого включен набор профессиональных утилит, которые предназначены для эффективной работы с аудиоданными. С помощью данного приложения можно качественно обрабатывать аудиокомпозиции, накладывая на них множество спецэффектов, проводить быструю и точную запись, а также редактирвоаните сэмплов, декодировать данные, конвертировать файлы с разные форматы и так далее.&lt;/p&gt;
+ <link>http://vse.la/blog/sound-forge-obzor-vozmozhnostey-programmy</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/sound-forge-16.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/sound-forge-16.jpg&quot; width=&quot;330&quot; height=&quot;239&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Sound Forge – удобный и функциональный звуковой реактор от компании Sony Creative Software, в состав которого включен набор профессиональных утилит, которые предназначены для эффективной работы с аудиоданными. С помощью данного приложения можно качественно обрабатывать аудиокомпозиции, накладывая на них множество спецэффектов, проводить быструю и точную запись, а также редактирвоаните сэмплов, декодировать данные, конвертировать файлы с разные форматы и так далее.&lt;/p&gt;
 
 &lt;p&gt; Бюджетные версии данной утилиты предоставляют аудиоредактор начального уровня, который, впрочем, имеет неплохой функционал. Сюда можно отнести SF Audio Studio, который раньше носил другое название - Sonic Foundrys Sound Forge LE.&lt;/p&gt;
 
@@ -24,13 +24,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/programmy-didzheya&quot;&gt;программы диджея&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 19 Nov 2015 08:14:39 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2629 at https://vse.la</guid>
- <comments>https://vse.la/blog/sound-forge-obzor-vozmozhnostey-programmy#comments</comments>
+ <guid isPermaLink="false">2629 at http://vse.la</guid>
+ <comments>http://vse.la/blog/sound-forge-obzor-vozmozhnostey-programmy#comments</comments>
 </item>
 <item>
  <title>Десять лучших программ для диджеев</title>
- <link>https://vse.la/blog/desyat-luchshih-programm-dlya-didzheev</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/robot_rock_by_kon.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/robot_rock_by_kon.jpg&quot; width=&quot;330&quot; height=&quot;191&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Хотя рынок современного диджейского оборудования захватили несколько крупнейших компаний — Ableton, Serato и Native Instruments, они, все же, не так хорошо представлены в программных продуктах для персональных компьютеров. Напротив, в этой сфере конкурирует ряд чуть менее известных программных продуктов. У каждого из них есть свой набор интересных инструментов, преимущества и недостатки.&lt;/p&gt;
+ <link>http://vse.la/blog/desyat-luchshih-programm-dlya-didzheev</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/robot_rock_by_kon.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/robot_rock_by_kon.jpg&quot; width=&quot;330&quot; height=&quot;191&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Хотя рынок современного диджейского оборудования захватили несколько крупнейших компаний — Ableton, Serato и Native Instruments, они, все же, не так хорошо представлены в программных продуктах для персональных компьютеров. Напротив, в этой сфере конкурирует ряд чуть менее известных программных продуктов. У каждого из них есть свой набор интересных инструментов, преимущества и недостатки.&lt;/p&gt;
 
 &lt;h1&gt; 1. PCDJ Dex&lt;/h1&gt;
 
@@ -76,8 +76,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/programmy-didzheya&quot;&gt;программы диджея&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 19 Nov 2015 07:58:45 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2626 at https://vse.la</guid>
- <comments>https://vse.la/blog/desyat-luchshih-programm-dlya-didzheev#comments</comments>
+ <guid isPermaLink="false">2626 at http://vse.la</guid>
+ <comments>http://vse.la/blog/desyat-luchshih-programm-dlya-didzheev#comments</comments>
 </item>
 </channel>
 </rss>

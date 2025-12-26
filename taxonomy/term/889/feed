@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - одинокая волчица</title>
- <link>https://vse.la/teg/odinokaya-volchica</link>
+ <link>http://vse.la/teg/odinokaya-volchica</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Одинокая волчица</title>
- <link>https://vse.la/stih/odinokaya-volchica</link>
+ <link>http://vse.la/stih/odinokaya-volchica</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;&lt;em&gt;Приют одинокой волчицы,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;&lt;em&gt;Не даст никому приютиться,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -90,8 +90,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/priznaniya-v-lyubvi&quot;&gt;Признания в любви&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 07 Sep 2014 20:22:59 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">766 at https://vse.la</guid>
- <comments>https://vse.la/stih/odinokaya-volchica#comments</comments>
+ <guid isPermaLink="false">766 at http://vse.la</guid>
+ <comments>http://vse.la/stih/odinokaya-volchica#comments</comments>
 </item>
 </channel>
 </rss>

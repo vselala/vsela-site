@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - курорт</title>
- <link>https://vse.la/teg/kurort</link>
+ <link>http://vse.la/teg/kurort</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Ода Геленджику</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%B0-%D0%B3%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D1%83</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%B0-%D0%B3%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D1%83&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/gelendjik.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Как хорошо вдоль бухты Геленджикской&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%B0-%D0%B3%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D1%83</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%B0-%D0%B3%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D1%83&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/gelendjik.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Как хорошо вдоль бухты Геленджикской&lt;br /&gt;
 Пройтись по набережной вечерком,&lt;br /&gt;
 Увидеть маяка огонь неблизкий,&lt;br /&gt;
 Цикад услышать в сумраке ночном.&lt;/p&gt;
@@ -50,13 +50,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 01 Oct 2016 00:07:38 +0000</pubDate>
  <dc:creator>Владимирова Лидия Львовна</dc:creator>
- <guid isPermaLink="false">3840 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%B0-%D0%B3%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D1%83#comments</comments>
+ <guid isPermaLink="false">3840 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D0%B4%D0%B0-%D0%B3%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D1%83#comments</comments>
 </item>
 <item>
  <title>В Туапсе с Джонни Деппом</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5-%D1%81-%D0%B4%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8-%D0%B4%D0%B5%D0%BF%D0%BF%D0%BE%D0%BC</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5-%D1%81-%D0%B4%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8-%D0%B4%D0%B5%D0%BF%D0%BF%D0%BE%D0%BC&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/tuapse-zakat.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я тихо шла по Туапсе,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5-%D1%81-%D0%B4%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8-%D0%B4%D0%B5%D0%BF%D0%BF%D0%BE%D0%BC</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5-%D1%81-%D0%B4%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8-%D0%B4%D0%B5%D0%BF%D0%BF%D0%BE%D0%BC&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/tuapse-zakat.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я тихо шла по Туапсе,&lt;br /&gt;
 Держа за ремешки сандали.&lt;br /&gt;
 Качалась яхта на волне,&lt;br /&gt;
 И чайки над водой кричали.&lt;/p&gt;
@@ -98,13 +98,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 22 Sep 2016 13:15:19 +0000</pubDate>
  <dc:creator>Лилия</dc:creator>
- <guid isPermaLink="false">3816 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5-%D1%81-%D0%B4%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8-%D0%B4%D0%B5%D0%BF%D0%BF%D0%BE%D0%BC#comments</comments>
+ <guid isPermaLink="false">3816 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5-%D1%81-%D0%B4%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8-%D0%B4%D0%B5%D0%BF%D0%BF%D0%BE%D0%BC#comments</comments>
 </item>
 <item>
  <title>Таинственный город Туапсе</title>
- <link>https://vse.la/stih/tainstvennyy-gorod-tuapse</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/tainstvennyy-gorod-tuapse&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/tuapse-sverhu-port.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Там гор величественных склоны, &lt;br /&gt;
+ <link>http://vse.la/stih/tainstvennyy-gorod-tuapse</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/tainstvennyy-gorod-tuapse&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/tuapse-sverhu-port.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Там гор величественных склоны, &lt;br /&gt;
 деревьев необычных кроны&lt;br /&gt;
 и море шепчет нам эссе, &lt;br /&gt;
 лаская берег Туапсе.&lt;/p&gt;
@@ -136,13 +136,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 19 Sep 2016 20:44:28 +0000</pubDate>
  <dc:creator>Татьяна Владимировна Чижикова</dc:creator>
- <guid isPermaLink="false">3799 at https://vse.la</guid>
- <comments>https://vse.la/stih/tainstvennyy-gorod-tuapse#comments</comments>
+ <guid isPermaLink="false">3799 at http://vse.la</guid>
+ <comments>http://vse.la/stih/tainstvennyy-gorod-tuapse#comments</comments>
 </item>
 <item>
  <title>Это город Туапсе!</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/tuapse-plyaj.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В феврале цветут фиалки&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/tuapse-plyaj.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В феврале цветут фиалки&lt;br /&gt;
 В этом городе в горах.&lt;br /&gt;
 Здесь есть море для рыбалки&lt;br /&gt;
 И езды на глиссерах.&lt;/p&gt;
@@ -159,13 +159,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 16 Sep 2016 11:29:11 +0000</pubDate>
  <dc:creator>Чистоклетов Анатолий Николаевич</dc:creator>
- <guid isPermaLink="false">3793 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5#comments</comments>
+ <guid isPermaLink="false">3793 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5#comments</comments>
 </item>
 <item>
  <title>Встреча в Туапсе</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/tuapse-vecher.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Июльский вечер, воскресенье,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/tuapse-vecher.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Июльский вечер, воскресенье,&lt;br /&gt;
 По набережной полосе&lt;br /&gt;
 Иду во всей своей красе&lt;br /&gt;
 И в наилучшем настроении.&lt;/p&gt;
@@ -197,8 +197,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 16 Sep 2016 11:19:17 +0000</pubDate>
  <dc:creator>Планида Наталья Владимировна</dc:creator>
- <guid isPermaLink="false">3792 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5#comments</comments>
+ <guid isPermaLink="false">3792 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5#comments</comments>
 </item>
 </channel>
 </rss>

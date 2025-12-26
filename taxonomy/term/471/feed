@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Видео</title>
- <link>https://vse.la/blog/video</link>
+ <link>http://vse.la/blog/video</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Ποιηματάκια με μια καλή ομοιοκαταληξία</title>
- <link>https://vse.la/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1</link>
+ <link>http://vse.la/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1</link>
  <description>&lt;div class=&quot;field field-name-field-vid field-type-video-embed-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Видео:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
 &lt;div class=&quot;embedded-video&quot;&gt;
   &lt;div class=&quot;player&quot;&gt;
     &lt;iframe class=&quot;&quot; width=&quot;&quot; height=&quot;&quot; src=&quot;//www.youtube.com/embed/RXJ15VSXKg4?width%3D%26amp%3Bheight%3D%26amp%3Btheme%3Ddark%26amp%3Bautoplay%3D0%26amp%3Bvq%3Dlarge%26amp%3Brel%3D0%26amp%3Bshowinfo%3D1%26amp%3Bmodestbranding%3D0%26amp%3Biv_load_policy%3D1%26amp%3Bcontrols%3D1%26amp%3Bautohide%3D2%26amp%3Bwmode%3Dopaque&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;  &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/video_images/mishka-chitaet-skazki-dlya-detei3.jpg&quot; width=&quot;330&quot; height=&quot;228&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;ol&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/video_images/mishka-chitaet-skazki-dlya-detei3.jpg&quot; width=&quot;330&quot; height=&quot;228&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;ol&gt;
 	&lt;li&gt;Η Γιαγιά&lt;/li&gt;
 	&lt;li&gt;Φεγγαράκι μου λαμπρό&lt;/li&gt;
 	&lt;li&gt;Γύρω γύρω όλοι (χιόνια στο περβόλι)&lt;/li&gt;
@@ -65,7 +65,7 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 
 &lt;h1&gt;&lt;strong&gt;Γύρω γύρω όλοι&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;strong&gt;Στίχοι:  &lt;a href=&quot;https://www.stixoi.info/stixoi.php?info=Lyrics&amp;amp;act=index&amp;amp;sort=alpha&amp;amp;lyricist_id=3393&quot;&gt;Ρένα Καρθαίου&lt;/a&gt;  Μουσική:  &lt;a href=&quot;https://www.stixoi.info/stixoi.php?info=Lyrics&amp;amp;act=index&amp;amp;sort=alpha&amp;amp;composer_id=364&quot;&gt;Χρήστος Λεοντής&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Στίχοι:  &lt;a href=&quot;http://www.stixoi.info/stixoi.php?info=Lyrics&amp;amp;act=index&amp;amp;sort=alpha&amp;amp;lyricist_id=3393&quot;&gt;Ρένα Καρθαίου&lt;/a&gt;  Μουσική:  &lt;a href=&quot;http://www.stixoi.info/stixoi.php?info=Lyrics&amp;amp;act=index&amp;amp;sort=alpha&amp;amp;composer_id=364&quot;&gt;Χρήστος Λεοντής&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Γύρω γύρω όλοι &lt;br /&gt;
 χιόνια στο περβόλι&lt;br /&gt;
@@ -104,12 +104,12 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/video&quot;&gt;Видео&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 28 Nov 2015 15:23:49 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2694 at https://vse.la</guid>
- <comments>https://vse.la/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1#comments</comments>
+ <guid isPermaLink="false">2694 at http://vse.la</guid>
+ <comments>http://vse.la/%CF%80%CE%BF%CE%B9%CE%B7%CE%BC%CE%B1%CF%84%CE%AC%CE%BA%CE%B9%CE%B1-%CE%BC%CE%B5-%CE%BC%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%AE-%CE%BF%CE%BC%CE%BF%CE%B9%CE%BF%CE%BA%CE%B1%CF%84%CE%B1%CE%BB%CE%B7%CE%BE%CE%AF%CE%B1#comments</comments>
 </item>
 <item>
  <title>Когда с тобою рядом </title>
- <link>https://vse.la/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D1%8E-%D1%80%D1%8F%D0%B4%D0%BE%D0%BC</link>
+ <link>http://vse.la/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D1%8E-%D1%80%D1%8F%D0%B4%D0%BE%D0%BC</link>
  <description>&lt;div class=&quot;field field-name-field-vid field-type-video-embed-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Видео:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
 &lt;div class=&quot;embedded-video&quot;&gt;
   &lt;div class=&quot;player&quot;&gt;
@@ -180,12 +180,12 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/video&quot;&gt;Видео&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 25 Jan 2015 04:21:29 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">1273 at https://vse.la</guid>
- <comments>https://vse.la/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D1%8E-%D1%80%D1%8F%D0%B4%D0%BE%D0%BC#comments</comments>
+ <guid isPermaLink="false">1273 at http://vse.la</guid>
+ <comments>http://vse.la/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D1%8E-%D1%80%D1%8F%D0%B4%D0%BE%D0%BC#comments</comments>
 </item>
 <item>
  <title>Как нелегко мне без Тебя - / Елена Дубровская / </title>
- <link>https://vse.la/%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B5%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE-%D0%BC%D0%BD%D0%B5-%D0%B1%D0%B5%D0%B7-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B4%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F</link>
+ <link>http://vse.la/%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B5%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE-%D0%BC%D0%BD%D0%B5-%D0%B1%D0%B5%D0%B7-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B4%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F</link>
  <description>&lt;div class=&quot;field field-name-field-vid field-type-video-embed-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Видео:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
 &lt;div class=&quot;embedded-video&quot;&gt;
   &lt;div class=&quot;player&quot;&gt;
@@ -194,12 +194,12 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/video&quot;&gt;Видео&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 24 Jan 2015 17:50:27 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">1270 at https://vse.la</guid>
- <comments>https://vse.la/%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B5%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE-%D0%BC%D0%BD%D0%B5-%D0%B1%D0%B5%D0%B7-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B4%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F#comments</comments>
+ <guid isPermaLink="false">1270 at http://vse.la</guid>
+ <comments>http://vse.la/%D0%BA%D0%B0%D0%BA-%D0%BD%D0%B5%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE-%D0%BC%D0%BD%D0%B5-%D0%B1%D0%B5%D0%B7-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%B4%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F#comments</comments>
 </item>
 <item>
  <title>Танго Любви </title>
- <link>https://vse.la/%D1%82%D0%B0%D0%BD%D0%B3%D0%BE-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8</link>
+ <link>http://vse.la/%D1%82%D0%B0%D0%BD%D0%B3%D0%BE-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8</link>
  <description>&lt;div class=&quot;field field-name-field-vid field-type-video-embed-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Видео:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
 &lt;div class=&quot;embedded-video&quot;&gt;
   &lt;div class=&quot;player&quot;&gt;
@@ -208,18 +208,18 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/video&quot;&gt;Видео&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 24 Jan 2015 17:49:11 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">1269 at https://vse.la</guid>
- <comments>https://vse.la/%D1%82%D0%B0%D0%BD%D0%B3%D0%BE-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8#comments</comments>
+ <guid isPermaLink="false">1269 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%82%D0%B0%D0%BD%D0%B3%D0%BE-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8#comments</comments>
 </item>
 <item>
  <title>Желанный рулон или «прыжок в свободу». 1984 год.</title>
- <link>https://vse.la/%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%BB%D0%BE%D0%BD-%D0%B8%D0%BB%D0%B8-%C2%AB%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%C2%BB-1984-%D0%B3%D0%BE%D0%B4</link>
+ <link>http://vse.la/%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%BB%D0%BE%D0%BD-%D0%B8%D0%BB%D0%B8-%C2%AB%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%C2%BB-1984-%D0%B3%D0%BE%D0%B4</link>
  <description>&lt;div class=&quot;field field-name-field-vid field-type-video-embed-field field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Видео:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
 &lt;div class=&quot;embedded-video&quot;&gt;
   &lt;div class=&quot;player&quot;&gt;
     &lt;iframe class=&quot;&quot; width=&quot;&quot; height=&quot;&quot; src=&quot;//www.youtube.com/embed/JrvQGmQ3z5w?width%3D%26amp%3Bheight%3D%26amp%3Btheme%3Ddark%26amp%3Bautoplay%3D0%26amp%3Bvq%3Dlarge%26amp%3Brel%3D0%26amp%3Bshowinfo%3D1%26amp%3Bmodestbranding%3D0%26amp%3Biv_load_policy%3D1%26amp%3Bcontrols%3D1%26amp%3Bautohide%3D2%26amp%3Bwmode%3Dopaque&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;  &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%BB%D0%BE%D0%BD-%D0%B8%D0%BB%D0%B8-%C2%AB%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%C2%BB-1984-%D0%B3%D0%BE%D0%B4&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/video_images/moscow_on_the_hudson_1984_original_poster.png&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;span style=&quot;line-height:1.6&quot;&gt;Это вам не драматизм «Такси Блюз», не сюр Соловьевской «Черной Розы» - это «Москва не Гудзоне».( фильм режиссера Пола Мазурски 1984 г.) &lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%BB%D0%BE%D0%BD-%D0%B8%D0%BB%D0%B8-%C2%AB%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%C2%BB-1984-%D0%B3%D0%BE%D0%B4&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/video_images/moscow_on_the_hudson_1984_original_poster.png&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;span style=&quot;line-height:1.6&quot;&gt;Это вам не драматизм «Такси Блюз», не сюр Соловьевской «Черной Розы» - это «Москва не Гудзоне».( фильм режиссера Пола Мазурски 1984 г.) &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Сюжет таков: во время гастролей советского цирка по США, один из музыкантов, саксофонист Владимир Иванов, спасаясь от «тоталитаризма», который, по мнению режиссера, заключался в отсутствии туалетной бумаги, рулоны которой, постоянно мелькают перед глазами зрителя, с нуриевской легкостью перелетает в обильность демократического рая красивого шмотья и мягких подтирок.&lt;/p&gt;
 
@@ -255,8 +255,8 @@ Tους γονείς μου ν’ αγαπώ&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/video&quot;&gt;Видео&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 23 Aug 2014 15:48:37 +0000</pubDate>
  <dc:creator>Анатолий Власов</dc:creator>
- <guid isPermaLink="false">677 at https://vse.la</guid>
- <comments>https://vse.la/%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%BB%D0%BE%D0%BD-%D0%B8%D0%BB%D0%B8-%C2%AB%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%C2%BB-1984-%D0%B3%D0%BE%D0%B4#comments</comments>
+ <guid isPermaLink="false">677 at http://vse.la</guid>
+ <comments>http://vse.la/%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D1%80%D1%83%D0%BB%D0%BE%D0%BD-%D0%B8%D0%BB%D0%B8-%C2%AB%D0%BF%D1%80%D1%8B%D0%B6%D0%BE%D0%BA-%D0%B2-%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%C2%BB-1984-%D0%B3%D0%BE%D0%B4#comments</comments>
 </item>
 </channel>
 </rss>

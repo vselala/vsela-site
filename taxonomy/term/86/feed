@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - космос</title>
- <link>https://vse.la/teg/kosmos</link>
+ <link>http://vse.la/teg/kosmos</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Трава у дома</title>
- <link>https://vse.la/zemlyane/trava-u-doma</link>
+ <link>http://vse.la/zemlyane/trava-u-doma</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Земля в иллюминаторе, земля в иллюминаторе,&lt;/p&gt;
@@ -91,12 +91,12 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/zemlyane&quot;&gt;Земляне&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/1983&quot;&gt;1983&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/rok&quot;&gt;Рок&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-info field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Информация о песне:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Авторы: В. Мигуля, А. Поперечный&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/rodina&quot;&gt;Родина&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/zemlya&quot;&gt;Земля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/kosmos&quot;&gt;космос&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/gordost&quot;&gt;Гордость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/otkrovenie&quot;&gt;Откровение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/sozercanie&quot;&gt;Созерцание&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/frustraciya&quot;&gt;Фрустрация&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/121052924@N05/13998202748/in/photolist-njYrZf-y6acWu-EduoTx-2kHMh98-5tiCm9-UsQxb4-Eud7e9-ea2SkE-EeVQw-9PUXgc-rSBqcB-eeHoRQ-5sz1R2-8Aig13-a5cHr6-yB161W-iWxDWz-pYqaDb-28SQvaG-8dufyZ-atectx-coTw1m-dUQGZs-nbS2XS-HxG9QS-njg6g1-e1H723-8wuRQo-cpTBRU-rf2k6Y-6rXJd1-anWoqy-aKWTcP-nxitUS-9rTbWa-k73Ngu-eAVXmZ-2iUqEim-bzUBRP-romaTk-bpFGiy-224wT56-4DRbUo-fzSZRq-2gYrxW6-R5quYw-rQjNo3-naNxHr-4M6coT-8hsMjN&quot; target=&quot;_blank&quot;&gt;Nina&#039;s Doll Makeup Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;570&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 17 Dec 2021 22:12:54 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4528 at https://vse.la</guid>
- <comments>https://vse.la/zemlyane/trava-u-doma#comments</comments>
+ <guid isPermaLink="false">4528 at http://vse.la</guid>
+ <comments>http://vse.la/zemlyane/trava-u-doma#comments</comments>
 </item>
 <item>
  <title>Космос</title>
- <link>https://vse.la/%D0%B4%D0%B0%D0%BD%D1%8D%D0%BB%D0%B8%D1%8F-%D1%82%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81</link>
+ <link>http://vse.la/%D0%B4%D0%B0%D0%BD%D1%8D%D0%BB%D0%B8%D1%8F-%D1%82%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;А я поднимаюсь в облака,&lt;br /&gt;
@@ -153,13 +153,13 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/daneliya-tuleshova&quot;&gt;Данэлия Тулешова&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/2016&quot;&gt;2016&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/puteshestviya&quot;&gt;Путешествия&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/fantazii&quot;&gt;Фантазии&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kosmos&quot;&gt;космос&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/ambicii&quot;&gt;Амбиции&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/druzhba&quot;&gt;Дружба&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/radost&quot;&gt;Радость&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 24 Jul 2016 20:33:28 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">3571 at https://vse.la</guid>
- <comments>https://vse.la/%D0%B4%D0%B0%D0%BD%D1%8D%D0%BB%D0%B8%D1%8F-%D1%82%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81#comments</comments>
+ <guid isPermaLink="false">3571 at http://vse.la</guid>
+ <comments>http://vse.la/%D0%B4%D0%B0%D0%BD%D1%8D%D0%BB%D0%B8%D1%8F-%D1%82%D1%83%D0%BB%D0%B5%D1%88%D0%BE%D0%B2%D0%B0/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81#comments</comments>
 </item>
 <item>
  <title>Обзор стихов ко Дню космонавтики</title>
- <link>https://vse.la/blog/obzor-stihov-ko-dnyu-kosmonavtiki</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/luna-siyaet.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/luna-siyaet.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Юрий Гагарин&lt;/h2&gt;
+ <link>http://vse.la/blog/obzor-stihov-ko-dnyu-kosmonavtiki</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/luna-siyaet.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/luna-siyaet.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Юрий Гагарин&lt;/h2&gt;
 
 &lt;p&gt;&lt;em&gt;Автор: В. Степанов&lt;/em&gt;&lt;/p&gt;
 
@@ -606,12 +606,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/den-kosmonavtiki&quot;&gt;День космонавтики&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/gagarin&quot;&gt;Гагарин&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kosmos&quot;&gt;космос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/raketa&quot;&gt;ракета&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/12-aprelya&quot;&gt;12 апреля&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 06 Mar 2016 07:03:39 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2996 at https://vse.la</guid>
- <comments>https://vse.la/blog/obzor-stihov-ko-dnyu-kosmonavtiki#comments</comments>
+ <guid isPermaLink="false">2996 at http://vse.la</guid>
+ <comments>http://vse.la/blog/obzor-stihov-ko-dnyu-kosmonavtiki#comments</comments>
 </item>
 <item>
  <title>Полетели люди на Марс</title>
- <link>https://vse.la/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5-%D1%80%D0%B5%D0%B3%D0%B3%D0%B8/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B5%D0%BB%D0%B8-%D0%BB%D1%8E%D0%B4%D0%B8-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%80%D1%81</link>
+ <link>http://vse.la/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5-%D1%80%D0%B5%D0%B3%D0%B3%D0%B8/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B5%D0%BB%D0%B8-%D0%BB%D1%8E%D0%B4%D0%B8-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%80%D1%81</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Солнце встаёт,&lt;br /&gt;
@@ -682,12 +682,12 @@
 &lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/detskoe-reggi&quot;&gt;Детское Регги&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/reggi&quot;&gt;Регги&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/zhelaniya&quot;&gt;Желания&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-i-mir&quot;&gt;Я и мир&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kosmos&quot;&gt;космос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/mars&quot;&gt;Марс&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/ambicii&quot;&gt;Амбиции&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/ironiya&quot;&gt;Ирония&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 22 Oct 2015 14:05:18 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">2317 at https://vse.la</guid>
- <comments>https://vse.la/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5-%D1%80%D0%B5%D0%B3%D0%B3%D0%B8/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B5%D0%BB%D0%B8-%D0%BB%D1%8E%D0%B4%D0%B8-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%80%D1%81#comments</comments>
+ <guid isPermaLink="false">2317 at http://vse.la</guid>
+ <comments>http://vse.la/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5-%D1%80%D0%B5%D0%B3%D0%B3%D0%B8/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B5%D0%BB%D0%B8-%D0%BB%D1%8E%D0%B4%D0%B8-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%80%D1%81#comments</comments>
 </item>
 <item>
  <title>На лодке...в волнах...</title>
- <link>https://vse.la/stih/na-lodkev-volnah</link>
+ <link>http://vse.la/stih/na-lodkev-volnah</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#8B4513&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;&lt;em&gt;Где волной серебрится пространство,&lt;br /&gt;
 Разливая по ночи лазурь,&lt;br /&gt;
 Там искрится небесное царство,&lt;br /&gt;
@@ -724,13 +724,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/priznaniya-v-lyubvi&quot;&gt;Признания в любви&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 11 Sep 2014 15:02:20 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">782 at https://vse.la</guid>
- <comments>https://vse.la/stih/na-lodkev-volnah#comments</comments>
+ <guid isPermaLink="false">782 at http://vse.la</guid>
+ <comments>http://vse.la/stih/na-lodkev-volnah#comments</comments>
 </item>
 <item>
  <title>Две души прикоснулись на миг</title>
- <link>https://vse.la/stih/dve-dushi-prikosnulis-na-mig</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/dve-dushi-prikosnulis-na-mig&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/6.jpg&quot; width=&quot;180&quot; height=&quot;127&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;&lt;span style=&quot;color:rgb(0, 0, 255)&quot;&gt;&lt;em&gt;Даже, если устал и молчишь, &lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+ <link>http://vse.la/stih/dve-dushi-prikosnulis-na-mig</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/dve-dushi-prikosnulis-na-mig&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/6.jpg&quot; width=&quot;180&quot; height=&quot;127&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;&lt;span style=&quot;color:rgb(0, 0, 255)&quot;&gt;&lt;em&gt;Даже, если устал и молчишь, &lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;&lt;span style=&quot;color:rgb(0, 0, 255)&quot;&gt;&lt;em&gt;Ощущаешь незримую нить,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -802,12 +802,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/priznaniya-v-lyubvi&quot;&gt;Признания в любви&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 03 Sep 2014 18:29:34 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">748 at https://vse.la</guid>
- <comments>https://vse.la/stih/dve-dushi-prikosnulis-na-mig#comments</comments>
+ <guid isPermaLink="false">748 at http://vse.la</guid>
+ <comments>http://vse.la/stih/dve-dushi-prikosnulis-na-mig#comments</comments>
 </item>
 <item>
  <title>Богиня-Женщина!</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0</link>
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;font-size:20px&quot;&gt;&lt;em&gt;&lt;span style=&quot;color:#0000ff&quot;&gt;Испивший, благодать, творит основы,&lt;br /&gt;
 Плодоносящая земля  — исток,&lt;br /&gt;
 И путь миров солёный и медовый,&lt;br /&gt;
@@ -860,7 +860,7 @@
 &lt;span style=&quot;color:#0000ff&quot;&gt;***&lt;br /&gt;
 Стихотворение написано после просмотра картин живописи Кароль Бак (Karol Bak)&lt;/span&gt;&lt;/p&gt;
 
-&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000ff&quot;&gt;&lt;a href=&quot;https://art-assorty.ru/259-karol-bak-karol-bak.html&quot;&gt;https://art-assorty.ru/259-karol-bak-karol-bak.html&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000ff&quot;&gt;&lt;a href=&quot;http://art-assorty.ru/259-karol-bak-karol-bak.html&quot;&gt;http://art-assorty.ru/259-karol-bak-karol-bak.html&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000ff&quot;&gt;Героини картин Кароля Бака созданы под влиянием мифов и легенд, отчего пленительно красивы. Они окружены чудесным пространством, что делает их еще более мистическими. Понимание картин художника приходит не сразу, настолько захватывает зрителя женская красота.&lt;/span&gt;&lt;/p&gt;
 
@@ -868,13 +868,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/zhenshchine&quot;&gt;Женщине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 01 Sep 2014 22:29:44 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">738 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0#comments</comments>
+ <guid isPermaLink="false">738 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F-%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0#comments</comments>
 </item>
 <item>
  <title>Путешествие во времени..</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/galaxy_spacewarp_2-650x481.jpg&quot; width=&quot;180&quot; height=&quot;133&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:28px&quot;&gt;Из невидимых сплетений&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/galaxy_spacewarp_2-650x481.jpg&quot; width=&quot;180&quot; height=&quot;133&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:28px&quot;&gt;Из невидимых сплетений&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:28px&quot;&gt;Тайна вечности лежит,&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -980,13 +980,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika/tayny-mira&quot;&gt;Тайны мира&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 17 Jul 2014 19:47:37 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">423 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8#comments</comments>
+ <guid isPermaLink="false">423 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8#comments</comments>
 </item>
 <item>
  <title>Святое провиденье</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D1%8C%D0%B5</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D1%8C%D0%B5&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/733015930.jpg&quot; width=&quot;180&quot; height=&quot;112&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:28px&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif&quot;&gt;Стихи плывут вдруг неоткуда,&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D1%8C%D0%B5</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D1%8C%D0%B5&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/733015930.jpg&quot; width=&quot;180&quot; height=&quot;112&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:28px&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif&quot;&gt;Стихи плывут вдруг неоткуда,&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size:28px&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif&quot;&gt;Так близок восхожденья день,&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -1058,13 +1058,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika/filosofskie-temy&quot;&gt;Философские темы&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 07 Jul 2014 14:38:54 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">231 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D1%8C%D0%B5#comments</comments>
+ <guid isPermaLink="false">231 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D1%8C%D0%B5#comments</comments>
 </item>
 <item>
  <title>Я с тобой.. я с тобой..</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9-%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9-%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/e95c5aa465c2.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000CD&quot;&gt;&lt;span style=&quot;font-size:24px&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif&quot;&gt;&lt;em&gt;&lt;span style=&quot;background-color:rgb(255, 255, 255)&quot;&gt;Светит небо жемчужным парадом,&lt;/span&gt;&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9-%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9-%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/e95c5aa465c2.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000CD&quot;&gt;&lt;span style=&quot;font-size:24px&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif&quot;&gt;&lt;em&gt;&lt;span style=&quot;background-color:rgb(255, 255, 255)&quot;&gt;Светит небо жемчужным парадом,&lt;/span&gt;&lt;br /&gt;
 &lt;span style=&quot;background-color:rgb(255, 255, 255)&quot;&gt;Шепчет, будто, о чём-то своём,&lt;/span&gt;&lt;br /&gt;
 &lt;span style=&quot;background-color:rgb(255, 255, 255)&quot;&gt;И луна опустилась над градом,&lt;/span&gt;&lt;br /&gt;
 &lt;span style=&quot;background-color:rgb(255, 255, 255)&quot;&gt;Светлый луч озаряет мой дом.&lt;/span&gt;&lt;br /&gt;
@@ -1107,8 +1107,8 @@
 &lt;span style=&quot;background-color:rgb(255, 255, 255)&quot;&gt;Я с тобой..я с тобой... я с тобой..&lt;/span&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/z7tZpwCQx50?list=UU3dcnzJbxMPalh-QqguLKkA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika/lyubovnaya&quot;&gt;Любовная&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 27 May 2014 10:21:59 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">68 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9-%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9#comments</comments>
+ <guid isPermaLink="false">68 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9-%D1%8F-%D1%81-%D1%82%D0%BE%D0%B1%D0%BE%D0%B9#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - добрые стихи</title>
- <link>https://vse.la/teg/dobrye-stihi</link>
+ <link>http://vse.la/teg/dobrye-stihi</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Вязаное небо</title>
- <link>https://vse.la/stih/vyazanoe-nebo</link>
+ <link>http://vse.la/stih/vyazanoe-nebo</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда с обветренной землёй простится осень поцелуем&lt;br /&gt;
 и растянувшись, облака повеют - холод неминуем,&lt;br /&gt;
 я сяду в кресло у окна вязать для нас с тобою небо,&lt;br /&gt;
@@ -35,8 +35,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/parnyu&quot;&gt;Парню&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 12 Nov 2015 19:08:41 +0000</pubDate>
  <dc:creator>Маргарита Бахарева</dc:creator>
- <guid isPermaLink="false">2585 at https://vse.la</guid>
- <comments>https://vse.la/stih/vyazanoe-nebo#comments</comments>
+ <guid isPermaLink="false">2585 at http://vse.la</guid>
+ <comments>http://vse.la/stih/vyazanoe-nebo#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - День города Москвы</title>
- <link>https://vse.la/teg/den-goroda-moskvy</link>
+ <link>http://vse.la/teg/den-goroda-moskvy</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>С Днём города, Москва!</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/pokrovka.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Москва — российская столица,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/pokrovka.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Москва — российская столица,&lt;br /&gt;
 Родной истории земля,&lt;br /&gt;
 Стоит высоток вереница&lt;br /&gt;
 От Подмосковья до Кремля.&lt;/p&gt;
@@ -35,13 +35,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 16 Sep 2016 11:05:55 +0000</pubDate>
  <dc:creator>Екатерина</dc:creator>
- <guid isPermaLink="false">3791 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0#comments</comments>
+ <guid isPermaLink="false">3791 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0#comments</comments>
 </item>
 <item>
  <title>День города Москвы</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/hq-wallpapers_ru_city_29480_1280x1024.jpg&quot; width=&quot;175&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Москва — это сердце России,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/hq-wallpapers_ru_city_29480_1280x1024.jpg&quot; width=&quot;175&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Москва — это сердце России,&lt;br /&gt;
 Частица души москвичей,&lt;br /&gt;
 Здесь зданий немало красивых&lt;br /&gt;
 И море блестящих огней!&lt;/p&gt;
@@ -68,13 +68,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 12 Sep 2016 21:57:34 +0000</pubDate>
  <dc:creator>Евгения Сазонова</dc:creator>
- <guid isPermaLink="false">3781 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B#comments</comments>
+ <guid isPermaLink="false">3781 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B#comments</comments>
 </item>
 <item>
  <title>С Днём города Москвы</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/moskva-gorod.jpg&quot; width=&quot;180&quot; height=&quot;118&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О, Москва, ты - жемчужина светлой великой страны&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/moskva-gorod.jpg&quot; width=&quot;180&quot; height=&quot;118&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О, Москва, ты - жемчужина светлой великой страны&lt;br /&gt;
 И в тебя, уж поверь, невозможно никак не влюбиться.&lt;br /&gt;
 Все широты твои, как сокровища рая, ясны,&lt;br /&gt;
 Заставляют сердца в темпе вальса уверенно биться.&lt;br /&gt;
@@ -93,8 +93,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 27 Jul 2016 14:22:13 +0000</pubDate>
  <dc:creator>Котова Юлия</dc:creator>
- <guid isPermaLink="false">3595 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B#comments</comments>
+ <guid isPermaLink="false">3595 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81-%D0%B4%D0%BD%D1%91%D0%BC-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B#comments</comments>
 </item>
 </channel>
 </rss>

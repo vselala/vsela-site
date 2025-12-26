@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Тексты песен</title>
- <link>https://vse.la/tematika/muzykalnye/teksty-pesen</link>
+ <link>http://vse.la/tematika/muzykalnye/teksty-pesen</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Ты лучший</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D1%8B-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D1%8B-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/davayte_potancuem.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Мое прекрасное созданье! Мой ослепительный герой!&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D1%8B-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D1%8B-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/davayte_potancuem.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Мое прекрасное созданье! Мой ослепительный герой!&lt;br /&gt;
 Души моей очарованье! Мой ненаглядный, милый мой!&lt;br /&gt;
 Когда с тобою повстречались, еще не знала я тогда,&lt;br /&gt;
 Что ты моя любовь и счастье и будем вместе мы всегда.&lt;br /&gt;
@@ -27,13 +27,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye&quot;&gt;Музыкальные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye/teksty-pesen&quot;&gt;Тексты песен&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 07 Feb 2016 06:59:53 +0000</pubDate>
  <dc:creator>Елена Афанасова</dc:creator>
- <guid isPermaLink="false">2911 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D1%8B-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9#comments</comments>
+ <guid isPermaLink="false">2911 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D1%8B-%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9#comments</comments>
 </item>
 <item>
  <title>Українська народна - Ой там на горе</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BE%D0%B9-%D1%82%D0%B0%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%80%D0%B5</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BE%D0%B9-%D1%82%D0%B0%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%80%D0%B5&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/para_golubei_1.jpg&quot; width=&quot;134&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Ой там на горі ой там на крутій&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BE%D0%B9-%D1%82%D0%B0%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%80%D0%B5</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BE%D0%B9-%D1%82%D0%B0%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%80%D0%B5&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/para_golubei_1.jpg&quot; width=&quot;134&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Ой там на горі ой там на крутій&lt;br /&gt;
 Ой там сиділа пара голубів…&lt;br /&gt;
 Вони сиділи парувалися&lt;br /&gt;
 Сизими крильми обнімалися…&lt;br /&gt;
@@ -92,13 +92,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye&quot;&gt;Музыкальные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye/teksty-pesen&quot;&gt;Тексты песен&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 07 Dec 2014 20:00:42 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">1122 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BE%D0%B9-%D1%82%D0%B0%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%80%D0%B5#comments</comments>
+ <guid isPermaLink="false">1122 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0-%D0%BE%D0%B9-%D1%82%D0%B0%D0%BC-%D0%BD%D0%B0-%D0%B3%D0%BE%D1%80%D0%B5#comments</comments>
 </item>
 <item>
  <title>Начало октября.</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/hq-wallpapers_ru_music_3422_1024x768.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Слетаю день за днем&lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/hq-wallpapers_ru_music_3422_1024x768.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Слетаю день за днем&lt;/p&gt;
 
 &lt;p&gt;Листы с календаря:&lt;/p&gt;
 
@@ -188,13 +188,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye/teksty-pesen&quot;&gt;Тексты песен&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 16 Jul 2014 15:33:03 +0000</pubDate>
  <dc:creator>Анатолий Власов</dc:creator>
- <guid isPermaLink="false">399 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F#comments</comments>
+ <guid isPermaLink="false">399 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F#comments</comments>
 </item>
 <item>
  <title>Ведическая песня &quot;Родина&quot; (Валентина Рябкова)</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0-%D1%80%D1%8F%D0%B1%D0%BA%D0%BE%D0%B2%D0%B0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0-%D1%80%D1%8F%D0%B1%D0%BA%D0%BE%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/solnce_risunok_devochka.jpg&quot; width=&quot;114&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;На небе много лучезарных звезд, но есть одна прекрасная.&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0-%D1%80%D1%8F%D0%B1%D0%BA%D0%BE%D0%B2%D0%B0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0-%D1%80%D1%8F%D0%B1%D0%BA%D0%BE%D0%B2%D0%B0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/solnce_risunok_devochka.jpg&quot; width=&quot;114&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;На небе много лучезарных звезд, но есть одна прекрасная.&lt;br /&gt;
 Солнышко наше красное свети на радость нам, свети всегда (2 раза)&lt;/p&gt;
 
 &lt;p&gt;У солнца множество других планет, но есть одна избранная.&lt;br /&gt;
@@ -208,8 +208,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye&quot;&gt;Музыкальные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye/teksty-pesen&quot;&gt;Тексты песен&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 27 Jun 2014 07:16:08 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">166 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0-%D1%80%D1%8F%D0%B1%D0%BA%D0%BE%D0%B2%D0%B0#comments</comments>
+ <guid isPermaLink="false">166 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B2%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0-%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0-%D1%80%D1%8F%D0%B1%D0%BA%D0%BE%D0%B2%D0%B0#comments</comments>
 </item>
 </channel>
 </rss>

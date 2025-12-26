@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - танец</title>
- <link>https://vse.la/teg/tanec</link>
+ <link>http://vse.la/teg/tanec</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Осенняя магия.</title>
- <link>https://vse.la/stih/osennyaya-magiya</link>
+ <link>http://vse.la/stih/osennyaya-magiya</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#800000&quot;&gt;&lt;span style=&quot;font-size:24px&quot;&gt;&lt;em&gt;Ты не внял бы меня, другую,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#800000&quot;&gt;&lt;span style=&quot;font-size:24px&quot;&gt;&lt;em&gt;Не пришёл бы, не пожалел,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -80,19 +80,19 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/priznaniya-v-lyubvi&quot;&gt;Признания в любви&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 10 Sep 2014 05:19:36 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">777 at https://vse.la</guid>
- <comments>https://vse.la/stih/osennyaya-magiya#comments</comments>
+ <guid isPermaLink="false">777 at http://vse.la</guid>
+ <comments>http://vse.la/stih/osennyaya-magiya#comments</comments>
 </item>
 <item>
  <title>Танец любви</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%BD%D0%B5%D1%86-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%BD%D0%B5%D1%86-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/couple_love-480x640.jpeg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;table align=&quot;center&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:600px&quot;&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%BD%D0%B5%D1%86-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%BD%D0%B5%D1%86-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/couple_love-480x640.jpeg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;table align=&quot;center&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;width:600px&quot;&gt;
 	&lt;tbody&gt;
 		&lt;tr&gt;
-			&lt;td style=&quot;height:247px; width:600px; background-image:url(&#039;https://xn-------c5dc1dj4a.xn--p1ai/images/ramki/cvety/cvety_vesna1.png&#039;); background-size:600px;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td style=&quot;height:247px; width:600px; background-image:url(&#039;http://xn-------c5dc1dj4a.xn--p1ai/images/ramki/cvety/cvety_vesna1.png&#039;); background-size:600px;&quot;&gt;&amp;nbsp;&lt;/td&gt;
 		&lt;/tr&gt;
 		&lt;tr&gt;
-			&lt;td style=&quot;background-image:url(&#039;https://xn-------c5dc1dj4a.xn--p1ai/images/ramki/cvety/cvety_vesna2.png&#039;); background-size:600px;&quot;&gt;
+			&lt;td style=&quot;background-image:url(&#039;http://xn-------c5dc1dj4a.xn--p1ai/images/ramki/cvety/cvety_vesna2.png&#039;); background-size:600px;&quot;&gt;
 			&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;font-size:18px&quot;&gt;Любой танец ЛЮБВИ - он содержит энергию души.&lt;/span&gt;&lt;/p&gt;
 
 			&lt;p class=&quot;rtecenter&quot;&gt;И мысль струится, душу открывает,&lt;br /&gt;
@@ -122,7 +122,7 @@
 			&lt;/td&gt;
 		&lt;/tr&gt;
 		&lt;tr&gt;
-			&lt;td style=&quot;height:314px;background-image:url(&#039;https://xn-------c5dc1dj4a.xn--p1ai/images/ramki/cvety/cvety_vesna3.png&#039;); background-size:600px;&quot;&gt;&amp;nbsp;&lt;/td&gt;
+			&lt;td style=&quot;height:314px;background-image:url(&#039;http://xn-------c5dc1dj4a.xn--p1ai/images/ramki/cvety/cvety_vesna3.png&#039;); background-size:600px;&quot;&gt;&amp;nbsp;&lt;/td&gt;
 		&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
@@ -130,8 +130,8 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 25 May 2014 11:33:52 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">42 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%BD%D0%B5%D1%86-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8#comments</comments>
+ <guid isPermaLink="false">42 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%82%D0%B0%D0%BD%D0%B5%D1%86-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8#comments</comments>
 </item>
 </channel>
 </rss>

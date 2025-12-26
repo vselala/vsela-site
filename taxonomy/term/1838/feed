@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Популярные песни</title>
- <link>https://vse.la/blog/populyarnye-pesni</link>
+ <link>http://vse.la/blog/populyarnye-pesni</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Трактат про субтон</title>
- <link>https://vse.la/blog/traktat-pro-subton</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/6505320795_33529cb969_c_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/6505320795_33529cb969_c_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Субтон&lt;/strong&gt; - это мягкий голос, которым пользуются исполнители и исполнительницы песен, чтобы передать чувства нежности, тепла, заботы.&lt;/p&gt;
+ <link>http://vse.la/blog/traktat-pro-subton</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/6505320795_33529cb969_c_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/6505320795_33529cb969_c_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Субтон&lt;/strong&gt; - это мягкий голос, которым пользуются исполнители и исполнительницы песен, чтобы передать чувства нежности, тепла, заботы.&lt;/p&gt;
 
 &lt;p&gt;Субтон вряд ли интересен всем профессиональным певцам и певицам, потому что чаще всего поют открытым ясным голосом со множеством оттенков и вариаций. Субтон - это шёпот, который создаёт уютную атмосферу, сжимая пространство, и мы расскажем о его значении и особенностях, а также расскажем о королеве субтона.&lt;/p&gt;
 
@@ -129,7 +129,7 @@
 
 &lt;p&gt;&lt;a href=&quot;/strelki/vlyublennyy-muzhchina&quot;&gt;Текст песни и клип&lt;/a&gt;. Песни группы Стрелки всегда очень красиво сочетают нежный мягкий голос и звонкий, ясный, проницательный голос. В песне &quot;Влюблённый мужчина&quot; субтон звучит в некоторых куплетах. Такие куплеты раскрывают тайны женских переживаний. Что чувствуют женщины при встрече с влюблённым мужчиной?&lt;/p&gt;
 
-&lt;p&gt;(субтон) Но не спрятаться в нём, не закрыться в себе. &lt;br /&gt;
+&lt;p&gt;(субтон) Им не спрятаться днём, не закрыться в себе. &lt;br /&gt;
 (субтон) Они очень легко различимы в толпе. &lt;br /&gt;
 (не субтон) Никогда не смотри им подолгу в глаза -&lt;br /&gt;
 (не субтон) Не вернешься назад!&lt;/p&gt;
@@ -280,12 +280,12 @@ Aah aah ooh&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/subton&quot;&gt;субтон&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/golos&quot;&gt;голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/krasivyy-golos&quot;&gt;красивый голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/tehniki-vokala&quot;&gt;техники вокала&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/vokal&quot;&gt;вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 21 Jan 2025 15:02:25 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4839 at https://vse.la</guid>
- <comments>https://vse.la/blog/traktat-pro-subton#comments</comments>
+ <guid isPermaLink="false">4839 at http://vse.la</guid>
+ <comments>http://vse.la/blog/traktat-pro-subton#comments</comments>
 </item>
 <item>
  <title>Вольные фантазии о любви</title>
- <link>https://vse.la/blog/volnye-fantazii-o-lyubvi</link>
+ <link>http://vse.la/blog/volnye-fantazii-o-lyubvi</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Часто слушатели песен настолько влюбляются в своих кумиров, что готовы слушать песни своих любимых исполнителей бесконечно. Возможно, такая любовь к музыке побуждает создавать новые и новые песни на темы, которые никто и никогда не обсуждал. Это похоже на скоростной интернет: когда у вас скорость доступа в интернет 1 терабит в 2025 году, появляется чувство, которое можно описать так: &lt;/p&gt;
 
 &lt;p&gt;Весь мир на ладони моей,&lt;/p&gt;
@@ -300,12 +300,12 @@ Aah aah ooh&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/vintazh&quot;&gt;Винтаж&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 09 Jan 2025 04:49:24 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4833 at https://vse.la</guid>
- <comments>https://vse.la/blog/volnye-fantazii-o-lyubvi#comments</comments>
+ <guid isPermaLink="false">4833 at http://vse.la</guid>
+ <comments>http://vse.la/blog/volnye-fantazii-o-lyubvi#comments</comments>
 </item>
 <item>
  <title>Humour in Popular Songs for Kids</title>
- <link>https://vse.la/blog/humour-popular-songs-kids</link>
+ <link>http://vse.la/blog/humour-popular-songs-kids</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Pen pineapple apple pen&lt;/h2&gt;
 
 &lt;p&gt;This song was so popular when just issued. &lt;a href=&quot;/pikotaro/ppap-pen-pineapple-apple-pen&quot;&gt;Lyrics here&lt;/a&gt;. It makes you smile over a man that makes first steps in English language. Don&#039;t be confused with words that sound alike! Have a short hint and listen seriously:&lt;/p&gt;
@@ -353,13 +353,13 @@ I&#039;ll place a call around the world, operator get me Bejing-jing-jing-jing&l
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/humour&quot;&gt;humour&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/funny-songs&quot;&gt;funny songs&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/songs-jokes&quot;&gt;songs with jokes&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 09 Feb 2023 10:17:32 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4737 at https://vse.la</guid>
- <comments>https://vse.la/blog/humour-popular-songs-kids#comments</comments>
+ <guid isPermaLink="false">4737 at http://vse.la</guid>
+ <comments>http://vse.la/blog/humour-popular-songs-kids#comments</comments>
 </item>
 <item>
  <title>Обзор и краткий анализ песен про маму</title>
- <link>https://vse.la/blog/obzor-i-kratkiy-analiz-pesen-pro-mamu</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/27745098143_bc75c59ba6_z_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/27745098143_bc75c59ba6_z_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Песни, посвящённые маме, звучат проницательно, очень рассудительны и спокойные. В них чаще присутствуют реальные события и воспоминания, они понятны взрослым и детям. Давайте изучим основные сюжеты, мотивы, особенности звучания песен про маму. На нашем сайте такие песни можно найти среди &lt;a href=&quot;/temy-pesen&quot;&gt;всех тем песен&lt;/a&gt; в категории &lt;a href=&quot;/tema-pesni/semya&quot;&gt;Семья&lt;/a&gt;, подкатегории &lt;a href=&quot;/tema-pesni/mama&quot;&gt;Мама&lt;/a&gt;.&lt;/p&gt;
+ <link>http://vse.la/blog/obzor-i-kratkiy-analiz-pesen-pro-mamu</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/27745098143_bc75c59ba6_z_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/27745098143_bc75c59ba6_z_sm.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Песни, посвящённые маме, звучат проницательно, очень рассудительны и спокойные. В них чаще присутствуют реальные события и воспоминания, они понятны взрослым и детям. Давайте изучим основные сюжеты, мотивы, особенности звучания песен про маму. На нашем сайте такие песни можно найти среди &lt;a href=&quot;/temy-pesen&quot;&gt;всех тем песен&lt;/a&gt; в категории &lt;a href=&quot;/tema-pesni/semya&quot;&gt;Семья&lt;/a&gt;, подкатегории &lt;a href=&quot;/tema-pesni/mama&quot;&gt;Мама&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2&gt; &lt;/h2&gt;
 
@@ -622,13 +622,13 @@ I дитинство, й розлука, й твоя материнська лю
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/mama&quot;&gt;мама&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/o-mame&quot;&gt;о маме&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/pesni-o-mame&quot;&gt;песни о маме&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/pesni-pro-mamu&quot;&gt;песни про маму&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;1500&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 29 May 2022 14:15:26 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4689 at https://vse.la</guid>
- <comments>https://vse.la/blog/obzor-i-kratkiy-analiz-pesen-pro-mamu#comments</comments>
+ <guid isPermaLink="false">4689 at http://vse.la</guid>
+ <comments>http://vse.la/blog/obzor-i-kratkiy-analiz-pesen-pro-mamu#comments</comments>
 </item>
 <item>
  <title>Robert Miles - Children</title>
- <link>https://vse.la/blog/robert-miles-children</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/3494175222_95a0b46b7a_z.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/3494175222_95a0b46b7a_z.jpg&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;em&gt;Einer schließt den Himmel auf,&lt;br /&gt;
+ <link>http://vse.la/blog/robert-miles-children</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/3494175222_95a0b46b7a_z.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/3494175222_95a0b46b7a_z.jpg&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;em&gt;Einer schließt den Himmel auf,&lt;br /&gt;
 kommt die liebe Sonne raus.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&quot;Liebe, liebe Sonne&quot;&lt;/em&gt;&lt;/p&gt;
@@ -649,13 +649,13 @@ kommt die liebe Sonne raus.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/akkompanement&quot;&gt;Аккомпанемент&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 26 Feb 2017 10:34:08 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4186 at https://vse.la</guid>
- <comments>https://vse.la/blog/robert-miles-children#comments</comments>
+ <guid isPermaLink="false">4186 at http://vse.la</guid>
+ <comments>http://vse.la/blog/robert-miles-children#comments</comments>
 </item>
 <item>
  <title>&quot;Если ты просто сон, как же приятно спать!&quot;</title>
- <link>https://vse.la/blog/esli-ty-prosto-son-kak-zhe-priyatno-spat</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/bunny-in-a-scarf.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/bunny-in-a-scarf.jpg&quot; width=&quot;253&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда в парке звучит песня &quot;Сон&quot;, прилетает ласковый ветер.&lt;/p&gt;
+ <link>http://vse.la/blog/esli-ty-prosto-son-kak-zhe-priyatno-spat</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/bunny-in-a-scarf.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/bunny-in-a-scarf.jpg&quot; width=&quot;253&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда в парке звучит песня &quot;Сон&quot;, прилетает ласковый ветер.&lt;/p&gt;
 
 &lt;p&gt;Медленно шаги тают, оставаясь позади.&lt;/p&gt;
 
@@ -687,7 +687,7 @@ kommt die liebe Sonne raus.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;Фото: &lt;a href=&quot;https://www.diys.com/knitters-and-crochet-projects-for-easter/&quot;&gt;https://www.diys.com/knitters-and-crochet-projects-for-easter/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Фото: &lt;a href=&quot;http://www.diys.com/knitters-and-crochet-projects-for-easter/&quot;&gt;http://www.diys.com/knitters-and-crochet-projects-for-easter/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/zoopullip/7294106424/&quot;&gt;https://www.flickr.com/photos/zoopullip/7294106424/&lt;/a&gt;&lt;/p&gt;
 
@@ -695,13 +695,13 @@ kommt die liebe Sonne raus.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/son&quot;&gt;сон&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 27 Jan 2017 15:20:51 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4150 at https://vse.la</guid>
- <comments>https://vse.la/blog/esli-ty-prosto-son-kak-zhe-priyatno-spat#comments</comments>
+ <guid isPermaLink="false">4150 at http://vse.la</guid>
+ <comments>http://vse.la/blog/esli-ty-prosto-son-kak-zhe-priyatno-spat#comments</comments>
 </item>
 <item>
  <title>Творчество Кристины Орбакайте</title>
- <link>https://vse.la/blog/tvorchestvo-kristiny-orbakayte</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/just_a_glance_by_ambrosia_valentine-d4yl0dw.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/just_a_glance_by_ambrosia_valentine-d4yl0dw.jpg&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Свое детство Кристина провела между Москвой и деревней Швянтойи. Чаще всего, она жила вместе с бабушками и дедушками, которые брали ее по очереди. Только когда ей исполнилось 7 лет, Кристина осталась жить в московской квартире, в 1978 году.&lt;/p&gt;
+ <link>http://vse.la/blog/tvorchestvo-kristiny-orbakayte</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/just_a_glance_by_ambrosia_valentine-d4yl0dw.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/just_a_glance_by_ambrosia_valentine-d4yl0dw.jpg&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Свое детство Кристина провела между Москвой и деревней Швянтойи. Чаще всего, она жила вместе с бабушками и дедушками, которые брали ее по очереди. Только когда ей исполнилось 7 лет, Кристина осталась жить в московской квартире, в 1978 году.&lt;/p&gt;
 
 &lt;p&gt;Кристина жила с бабушкой на Рязанском проспекте. Там же она стала ходить в школу, совмещая общеобразовательные занятия с учебой в музыкальной школе. Вскоре она попросила записать ее и на балет. Так в течение целого года Кристина прожила в хореографической муштре.&lt;/p&gt;
 
@@ -760,17 +760,17 @@ kommt die liebe Sonne raus.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;Фото: &lt;a href=&quot;https://ambrosia-valentine.deviantart.com/art/Just-A-Glance-299951924&quot;&gt;https://ambrosia-valentine.deviantart.com/art/Just-A-Glance-299951924&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Фото: &lt;a href=&quot;http://ambrosia-valentine.deviantart.com/art/Just-A-Glance-299951924&quot;&gt;http://ambrosia-valentine.deviantart.com/art/Just-A-Glance-299951924&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kristina-orbakayte&quot;&gt;Кристина Орбакайте&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 25 Jan 2017 04:08:57 +0000</pubDate>
  <dc:creator>Е.А. Холодова</dc:creator>
- <guid isPermaLink="false">4147 at https://vse.la</guid>
- <comments>https://vse.la/blog/tvorchestvo-kristiny-orbakayte#comments</comments>
+ <guid isPermaLink="false">4147 at http://vse.la</guid>
+ <comments>http://vse.la/blog/tvorchestvo-kristiny-orbakayte#comments</comments>
 </item>
 <item>
  <title>Анализ песни Lana Del Rey - Summertime Sadness</title>
- <link>https://vse.la/blog/analiz-pesni-lana-del-rey-summertime-sadness</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/e003eae47e14688659d63fdc2cbd8d29-d2xm2qj.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/e003eae47e14688659d63fdc2cbd8d29-d2xm2qj.jpg&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Lana Del Rey с самого начала творческой карьеры несёт образ утонченной и даже воздушной девушки. Её песни – это образы из подсознания. Тексты Ланы нельзя трактовать однобоко – они, словно картины сюрреалистов: каждый видит в них что-то своё. Но всей линии её творчества присущи некоторые одинаковые особенности – это проникновенная грусть, осеннее настроение и стиль. Причём стиль в самом широком смысле этого слова. Сама певица больше тяготеет во времена 50-ых и 60-ых годов с платьями пин-ап и ретро-гламуром. &lt;/p&gt;
+ <link>http://vse.la/blog/analiz-pesni-lana-del-rey-summertime-sadness</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/e003eae47e14688659d63fdc2cbd8d29-d2xm2qj.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/e003eae47e14688659d63fdc2cbd8d29-d2xm2qj.jpg&quot; width=&quot;180&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Lana Del Rey с самого начала творческой карьеры несёт образ утонченной и даже воздушной девушки. Её песни – это образы из подсознания. Тексты Ланы нельзя трактовать однобоко – они, словно картины сюрреалистов: каждый видит в них что-то своё. Но всей линии её творчества присущи некоторые одинаковые особенности – это проникновенная грусть, осеннее настроение и стиль. Причём стиль в самом широком смысле этого слова. Сама певица больше тяготеет во времена 50-ых и 60-ых годов с платьями пин-ап и ретро-гламуром. &lt;/p&gt;
 
 &lt;p&gt;Песня «&lt;a href=&quot;/lana-del-rey/summertime-sadness&quot;&gt;Summertime Sadness&lt;/a&gt;» выдержана в духе романтических фильмов с Джеймсом Дином и Марлоном Брандо.&lt;/p&gt;
 
@@ -795,16 +795,16 @@ kommt die liebe Sonne raus.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Доподлинно неизвестно какому человеку посвящено это произведение. В одном из интервью певица упоминала, что это её личное переживание о первой несчастной любви. Находясь в 16-летнем возрасте в элитном колледже, Лана имела проблемы с алкоголем, из-за которой и случился разрыв с тем далёким юношей. Согласно другой версии, эта песня о её сестре Каролине, с которой Дель Рэй снимала комнату во время обучения в Фордхемском университете. В клипе же показана история о любви двух девушек, и она никак не пересекается с первыми двумя. Так или иначе, темы несчастной любви и расставания с близким человеком знакомы каждому. Поэтому песня «Летняя грусть» так понравилась слушателям. Лёгкий прозрачный голос исполнительницы, печальное, но светлое настроение стихов, а также воздушные музыкальные кружева делают эту песню одним из лучших лирических произведений популярной музыки начала 21 века.&lt;/p&gt;
 
-&lt;p&gt;Фото: &lt;a href=&quot;https://schizocheese.deviantart.com/art/Albie-Flower-girl-177389659&quot;&gt;https://schizocheese.deviantart.com/art/Albie-Flower-girl-177389659&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Фото: &lt;a href=&quot;http://schizocheese.deviantart.com/art/Albie-Flower-girl-177389659&quot;&gt;http://schizocheese.deviantart.com/art/Albie-Flower-girl-177389659&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/lana-del-rey&quot;&gt;Lana Del Rey&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/populyarnye-ispolniteli&quot;&gt;популярные исполнители&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;1630&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 04 Jan 2017 04:39:53 +0000</pubDate>
  <dc:creator>С.В. Мерс</dc:creator>
- <guid isPermaLink="false">4112 at https://vse.la</guid>
- <comments>https://vse.la/blog/analiz-pesni-lana-del-rey-summertime-sadness#comments</comments>
+ <guid isPermaLink="false">4112 at http://vse.la</guid>
+ <comments>http://vse.la/blog/analiz-pesni-lana-del-rey-summertime-sadness#comments</comments>
 </item>
 <item>
  <title>&quot;Ты моя любовь и грусть, тебя я не боюсь пустить в облака&quot;</title>
- <link>https://vse.la/blog/ty-moya-lyubov-i-grust-tebya-ya-ne-boyus-pustit-v</link>
+ <link>http://vse.la/blog/ty-moya-lyubov-i-grust-tebya-ya-ne-boyus-pustit-v</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В репертуаре Светы есть одна прекрасная песня под названием &quot;Лети за облака&quot;.&lt;/p&gt;
 
 &lt;p&gt;Ценность этой популярной песни - игра воображения. Некрепкая связь в бушующем океане грёз изображена в лирическом послании.&lt;/p&gt;
@@ -858,17 +858,17 @@ kommt die liebe Sonne raus.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;https://xn-------c5dc1dj4a.xn--p1ai/images/priroda/cvety/jelto-fiolet.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://xn-------c5dc1dj4a.xn--p1ai/images/priroda/cvety/jelto-fiolet.jpg&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/trans&quot;&gt;транс&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/analiz-populyarnyh-pesen&quot;&gt;анализ популярных песен&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 26 Dec 2016 19:22:43 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4090 at https://vse.la</guid>
- <comments>https://vse.la/blog/ty-moya-lyubov-i-grust-tebya-ya-ne-boyus-pustit-v#comments</comments>
+ <guid isPermaLink="false">4090 at http://vse.la</guid>
+ <comments>http://vse.la/blog/ty-moya-lyubov-i-grust-tebya-ya-ne-boyus-pustit-v#comments</comments>
 </item>
 <item>
  <title>Легендарный Джон Леннон</title>
- <link>https://vse.la/blog/legendarnyy-dzhon-lennon</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/john-lennon.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/john-lennon.jpg&quot; width=&quot;288&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Леннон Джон Уинстон (1940 – 1980) – британский композитор, исполнитель песен, поэт, писатель, художник. Является одним из ста наиболее популярных представителей Соединенного Королевства Великобритании, как считает канал BBC. Выразил собственные политические взгляды на мировые проблемы в песнях. Самая известная политическая песня – «Imagine». Создал ливерпульскую четверку – группу «Beatles». &lt;/p&gt;
+ <link>http://vse.la/blog/legendarnyy-dzhon-lennon</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/john-lennon.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/john-lennon.jpg&quot; width=&quot;288&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Леннон Джон Уинстон (1940 – 1980) – британский композитор, исполнитель песен, поэт, писатель, художник. Является одним из ста наиболее популярных представителей Соединенного Королевства Великобритании, как считает канал BBC. Выразил собственные политические взгляды на мировые проблемы в песнях. Самая известная политическая песня – «Imagine». Создал ливерпульскую четверку – группу «Beatles». &lt;/p&gt;
 
 &lt;p&gt;В тот самый момент, когда будущая звезда британской рок-сцены находился в родильном доме, фашисты наносили первые авиаудары по Ливерпулю. В 1940 г. его мать Джулия осталась одна после рождения сына. В возрасте четырех лет она отдала Джона своей сестре, бездетной Мэри (Мими). Тетя воспитывала Джона в строгости и не одобряла его увлечения гитарой. Когда Леннон стал известным музыкантом, он приобрел для тёти дом на берегу океана. На стене дома он повесил табличку из мрамора с текстом: «Гитара – сносная штука, но с ее помощью ты не сможешь прожить!». Это были любимые слова Мэри Смит. Ее муж Джордж заменил отца Джону Леннону. В 1955 г. дядя умер, и Леннон вновь стал жить со своей мамой и ее двумя детьми от второго брака. &lt;/p&gt;
 
@@ -884,8 +884,8 @@ kommt die liebe Sonne raus.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/beatles&quot;&gt;The Beatles&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/bitlz&quot;&gt;Битлз&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/dzhon-lennon&quot;&gt;Джон Леннон&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 07 Aug 2016 09:48:53 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">3653 at https://vse.la</guid>
- <comments>https://vse.la/blog/legendarnyy-dzhon-lennon#comments</comments>
+ <guid isPermaLink="false">3653 at http://vse.la</guid>
+ <comments>http://vse.la/blog/legendarnyy-dzhon-lennon#comments</comments>
 </item>
 </channel>
 </rss>

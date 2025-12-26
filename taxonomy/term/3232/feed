@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - аниматор</title>
- <link>https://vse.la/teg/animator</link>
+ <link>http://vse.la/teg/animator</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Новогодние поздравления аниматорам</title>
- <link>https://vse.la/stih/novogodnie-pozdravleniya-animatoram</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/novogodnie-pozdravleniya-animatoram&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/19069_e11ad4aebb09f52d221a072bf8e41b83.jpg.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Незаменимы и бесценны,&lt;br /&gt;
+ <link>http://vse.la/stih/novogodnie-pozdravleniya-animatoram</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/novogodnie-pozdravleniya-animatoram&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/19069_e11ad4aebb09f52d221a072bf8e41b83.jpg.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Незаменимы и бесценны,&lt;br /&gt;
 Вы лучшие ораторы!&lt;br /&gt;
 Кто в Новый Год кудесник сцены?&lt;br /&gt;
 Конечно, аниматоры!&lt;br /&gt;
@@ -27,8 +27,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prazdniki/novyy-god&quot;&gt;Новый год&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 16 Nov 2016 08:30:03 +0000</pubDate>
  <dc:creator>Викторова Виктория Макаровна</dc:creator>
- <guid isPermaLink="false">3967 at https://vse.la</guid>
- <comments>https://vse.la/stih/novogodnie-pozdravleniya-animatoram#comments</comments>
+ <guid isPermaLink="false">3967 at http://vse.la</guid>
+ <comments>http://vse.la/stih/novogodnie-pozdravleniya-animatoram#comments</comments>
 </item>
 </channel>
 </rss>

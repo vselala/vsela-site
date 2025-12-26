@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Александр Масляков</title>
- <link>https://vse.la/imya/aleksandr-maslyakov</link>
+ <link>http://vse.la/imya/aleksandr-maslyakov</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Александру Маслякову в День рождения (24 ноября)</title>
- <link>https://vse.la/stih/aleksandru-maslyakovu-v-den-rozhdeniya-24-noyabrya</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/aleksandru-maslyakovu-v-den-rozhdeniya-24-noyabrya&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/2934058146_2883198090_n.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Как солнца лучик запоздалый &lt;br /&gt;
+ <link>http://vse.la/stih/aleksandru-maslyakovu-v-den-rozhdeniya-24-noyabrya</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/aleksandru-maslyakovu-v-den-rozhdeniya-24-noyabrya&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/2934058146_2883198090_n.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Как солнца лучик запоздалый &lt;br /&gt;
 Вы на исходе ноября &lt;br /&gt;
 Пришли в наш мир, чтоб смех им правил, &lt;br /&gt;
 Чтоб жить, улыбку не тая, &lt;br /&gt;
@@ -95,8 +95,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam&quot;&gt;Известным людям&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam/vedushchim&quot;&gt;Ведущим&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/pozdravleniya&quot;&gt;Поздравления&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 01 Aug 2014 14:08:29 +0000</pubDate>
  <dc:creator>Марина Троян</dc:creator>
- <guid isPermaLink="false">550 at https://vse.la</guid>
- <comments>https://vse.la/stih/aleksandru-maslyakovu-v-den-rozhdeniya-24-noyabrya#comments</comments>
+ <guid isPermaLink="false">550 at http://vse.la</guid>
+ <comments>http://vse.la/stih/aleksandru-maslyakovu-v-den-rozhdeniya-24-noyabrya#comments</comments>
 </item>
 </channel>
 </rss>

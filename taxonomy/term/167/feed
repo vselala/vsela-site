@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Религиозная</title>
- <link>https://vse.la/tematika/lirika/religioznaya</link>
+ <link>http://vse.la/tematika/lirika/religioznaya</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Жизнь души</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%B4%D1%83%D1%88%D0%B8</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%B4%D1%83%D1%88%D0%B8&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/big_0.jpeg&quot; width=&quot;180&quot; height=&quot;129&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Жизнь души – не простая дорога.&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%B4%D1%83%D1%88%D0%B8</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%B4%D1%83%D1%88%D0%B8&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/big_0.jpeg&quot; width=&quot;180&quot; height=&quot;129&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Жизнь души – не простая дорога.&lt;br /&gt;
 Очень долго душа проходила –&lt;br /&gt;
 Прожив вечность и в поисках Бога,&lt;br /&gt;
 Изучив все религии мира,&lt;br /&gt;
@@ -39,12 +39,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 10 Jan 2017 11:37:47 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">4119 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%B4%D1%83%D1%88%D0%B8#comments</comments>
+ <guid isPermaLink="false">4119 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%B4%D1%83%D1%88%D0%B8#comments</comments>
 </item>
 <item>
  <title>Пред тобою, Господь, преклоняюсь</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%B4-%D1%82%D0%BE%D0%B1%D0%BE%D1%8E-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%BF%D1%80%D0%B5%D0%BA%D0%BB%D0%BE%D0%BD%D1%8F%D1%8E%D1%81%D1%8C</link>
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%B4-%D1%82%D0%BE%D0%B1%D0%BE%D1%8E-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%BF%D1%80%D0%B5%D0%BA%D0%BB%D0%BE%D0%BD%D1%8F%D1%8E%D1%81%D1%8C</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пред тобою, Господь, преклоняюсь,&lt;br /&gt;
 Пред тобою, Всевышний, одним&lt;br /&gt;
 И смиренно и искренне каюсь&lt;br /&gt;
@@ -67,12 +67,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 14 Nov 2016 15:29:14 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">3963 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%B4-%D1%82%D0%BE%D0%B1%D0%BE%D1%8E-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%BF%D1%80%D0%B5%D0%BA%D0%BB%D0%BE%D0%BD%D1%8F%D1%8E%D1%81%D1%8C#comments</comments>
+ <guid isPermaLink="false">3963 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%B4-%D1%82%D0%BE%D0%B1%D0%BE%D1%8E-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%BF%D1%80%D0%B5%D0%BA%D0%BB%D0%BE%D0%BD%D1%8F%D1%8E%D1%81%D1%8C#comments</comments>
 </item>
 <item>
  <title>Спасибо, Господи</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B8</link>
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B8</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Спасибо, Господи, спасибо&lt;br /&gt;
 Тебе за каждый новый день,&lt;br /&gt;
 За ночь за каждую спасибо,&lt;br /&gt;
@@ -92,13 +92,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 07 Nov 2016 15:22:24 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">3950 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B8#comments</comments>
+ <guid isPermaLink="false">3950 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%81%D0%BF%D0%B0%D1%81%D0%B8%D0%B1%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B8#comments</comments>
 </item>
 <item>
  <title>Благодарю тебя, Всевышний</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8E-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B2%D1%81%D0%B5%D0%B2%D1%8B%D1%88%D0%BD%D0%B8%D0%B9</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8E-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B2%D1%81%D0%B5%D0%B2%D1%8B%D1%88%D0%BD%D0%B8%D0%B9&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/angela_star_gazing_mw.gif&quot; width=&quot;120&quot; height=&quot;130&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Благодарю тебя, Всевышний,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8E-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B2%D1%81%D0%B5%D0%B2%D1%8B%D1%88%D0%BD%D0%B8%D0%B9</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8E-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B2%D1%81%D0%B5%D0%B2%D1%8B%D1%88%D0%BD%D0%B8%D0%B9&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/angela_star_gazing_mw.gif&quot; width=&quot;120&quot; height=&quot;130&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Благодарю тебя, Всевышний,&lt;br /&gt;
 За жизнь мою.&lt;br /&gt;
 О продолженье этой жизни&lt;br /&gt;
 Тебя молю.&lt;/p&gt;
@@ -118,13 +118,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 04 Nov 2016 10:45:17 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">3941 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8E-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B2%D1%81%D0%B5%D0%B2%D1%8B%D1%88%D0%BD%D0%B8%D0%B9#comments</comments>
+ <guid isPermaLink="false">3941 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8E-%D1%82%D0%B5%D0%B1%D1%8F-%D0%B2%D1%81%D0%B5%D0%B2%D1%8B%D1%88%D0%BD%D0%B8%D0%B9#comments</comments>
 </item>
 <item>
  <title>О, Господь, знаю ты меня слышишь</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%B7%D0%BD%D0%B0%D1%8E-%D1%82%D1%8B-%D0%BC%D0%B5%D0%BD%D1%8F-%D1%81%D0%BB%D1%8B%D1%88%D0%B8%D1%88%D1%8C</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%B7%D0%BD%D0%B0%D1%8E-%D1%82%D1%8B-%D0%BC%D0%B5%D0%BD%D1%8F-%D1%81%D0%BB%D1%8B%D1%88%D0%B8%D1%88%D1%8C&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/angelica_boy_walking_lc.gif&quot; width=&quot;105&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О, Господь, знаю ты меня слышишь,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%B7%D0%BD%D0%B0%D1%8E-%D1%82%D1%8B-%D0%BC%D0%B5%D0%BD%D1%8F-%D1%81%D0%BB%D1%8B%D1%88%D0%B8%D1%88%D1%8C</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%B7%D0%BD%D0%B0%D1%8E-%D1%82%D1%8B-%D0%BC%D0%B5%D0%BD%D1%8F-%D1%81%D0%BB%D1%8B%D1%88%D0%B8%D1%88%D1%8C&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/angelica_boy_walking_lc.gif&quot; width=&quot;105&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О, Господь, знаю ты меня слышишь,&lt;br /&gt;
 Знаю, видишь ты верность мою,&lt;br /&gt;
 Знаю, что ты меня не обидишь.&lt;br /&gt;
 Не о чём я тебя не молю.&lt;/p&gt;
@@ -136,13 +136,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 25 Oct 2016 05:48:10 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">3922 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%B7%D0%BD%D0%B0%D1%8E-%D1%82%D1%8B-%D0%BC%D0%B5%D0%BD%D1%8F-%D1%81%D0%BB%D1%8B%D1%88%D0%B8%D1%88%D1%8C#comments</comments>
+ <guid isPermaLink="false">3922 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%B7%D0%BD%D0%B0%D1%8E-%D1%82%D1%8B-%D0%BC%D0%B5%D0%BD%D1%8F-%D1%81%D0%BB%D1%8B%D1%88%D0%B8%D1%88%D1%8C#comments</comments>
 </item>
 <item>
  <title>Я не молюсь неведомому Богу</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D0%BD%D0%B5-%D0%BC%D0%BE%D0%BB%D1%8E%D1%81%D1%8C-%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D0%BC%D1%83-%D0%B1%D0%BE%D0%B3%D1%83-0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D0%BD%D0%B5-%D0%BC%D0%BE%D0%BB%D1%8E%D1%81%D1%8C-%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D0%BC%D1%83-%D0%B1%D0%BE%D0%B3%D1%83-0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/angela_receives_olive_a_ha.gif&quot; width=&quot;112&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я не молюсь неведомому Богу&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D0%BD%D0%B5-%D0%BC%D0%BE%D0%BB%D1%8E%D1%81%D1%8C-%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D0%BC%D1%83-%D0%B1%D0%BE%D0%B3%D1%83-0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D0%BD%D0%B5-%D0%BC%D0%BE%D0%BB%D1%8E%D1%81%D1%8C-%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D0%BC%D1%83-%D0%B1%D0%BE%D0%B3%D1%83-0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/angela_receives_olive_a_ha.gif&quot; width=&quot;112&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я не молюсь неведомому Богу&lt;br /&gt;
 И встречи с ним не жду в своей судьбе&lt;br /&gt;
 И в поисках его не вижу проку,&lt;br /&gt;
 Ведь он со мной, он рядом, он в тебе.&lt;/p&gt;
@@ -163,13 +163,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 02 Sep 2016 05:47:47 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">3747 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D0%BD%D0%B5-%D0%BC%D0%BE%D0%BB%D1%8E%D1%81%D1%8C-%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D0%BC%D1%83-%D0%B1%D0%BE%D0%B3%D1%83-0#comments</comments>
+ <guid isPermaLink="false">3747 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8F-%D0%BD%D0%B5-%D0%BC%D0%BE%D0%BB%D1%8E%D1%81%D1%8C-%D0%BD%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D0%BC%D1%83-%D0%B1%D0%BE%D0%B3%D1%83-0#comments</comments>
 </item>
 <item>
  <title>Пути Господни</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B8-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B8</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B8-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B8&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/zelenaya-doroga_0.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пути Господни неисповедимы.&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B8-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B8</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B8-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B8&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/zelenaya-doroga_0.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пути Господни неисповедимы.&lt;br /&gt;
 Не может Бога человек понять.&lt;br /&gt;
 Сознаньем бесконечность не объять,&lt;br /&gt;
 Не запихать её в компьютер Димы.&lt;/p&gt;
@@ -193,13 +193,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 14 Jul 2016 10:25:30 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">3476 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B8-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B8#comments</comments>
+ <guid isPermaLink="false">3476 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%83%D1%82%D0%B8-%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B8#comments</comments>
 </item>
 <item>
  <title>Расстояния нет </title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B5%D1%82</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B5%D1%82&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/zelenaya-doroga.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;По дороге, по той, что в душе&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B5%D1%82</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B5%D1%82&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/zelenaya-doroga.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;По дороге, по той, что в душе&lt;br /&gt;
 По следам по чужим не пройти.&lt;br /&gt;
 Ты, один на один с ней ещё и уже.&lt;br /&gt;
 Нет труднее, важнее и ближе пути.&lt;/p&gt;
@@ -218,13 +218,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 09 Jul 2016 05:49:49 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">3451 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B5%D1%82#comments</comments>
+ <guid isPermaLink="false">3451 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B5%D1%82#comments</comments>
 </item>
 <item>
  <title>Дух – пилигрим</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D1%83%D1%85-%E2%80%93-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D1%83%D1%85-%E2%80%93-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/angela_playing_harp_b_hb.gif&quot; width=&quot;150&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Отправился в путь он на поиски Бога&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D1%83%D1%85-%E2%80%93-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D1%83%D1%85-%E2%80%93-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/angela_playing_harp_b_hb.gif&quot; width=&quot;150&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Отправился в путь он на поиски Бога&lt;br /&gt;
 Сын мудрости дух – пилигрим.&lt;br /&gt;
 Ровесница вечности света дорога&lt;br /&gt;
 Прямая лежала пред ним.&lt;/p&gt;
@@ -268,13 +268,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 22 Jun 2016 16:21:28 +0000</pubDate>
  <dc:creator>Дмитрий Шнайдер</dc:creator>
- <guid isPermaLink="false">3321 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D1%83%D1%85-%E2%80%93-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC#comments</comments>
+ <guid isPermaLink="false">3321 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B4%D1%83%D1%85-%E2%80%93-%D0%BF%D0%B8%D0%BB%D0%B8%D0%B3%D1%80%D0%B8%D0%BC#comments</comments>
 </item>
 <item>
  <title>Прекрасный, незабвенный Валаам</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B0%D0%BB%D0%B0%D0%B0%D0%BC</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B0%D0%BB%D0%B0%D0%B0%D0%BC&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/valaam.jpg&quot; width=&quot;180&quot; height=&quot;134&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B0%D0%BB%D0%B0%D0%B0%D0%BC</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B0%D0%BB%D0%B0%D0%B0%D0%BC&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/valaam.jpg&quot; width=&quot;180&quot; height=&quot;134&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Со всех сторон надежно окруженная&lt;br /&gt;
 Водою Ладожской кристальной чистоты,&lt;br /&gt;
 От суеты и мира удаленная&lt;br /&gt;
@@ -302,8 +302,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/religioznaya&quot;&gt;Религиозная&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 09 May 2016 17:51:15 +0000</pubDate>
  <dc:creator>Жарковская</dc:creator>
- <guid isPermaLink="false">3155 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B0%D0%BB%D0%B0%D0%B0%D0%BC#comments</comments>
+ <guid isPermaLink="false">3155 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BD%D0%B5%D0%B7%D0%B0%D0%B1%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B2%D0%B0%D0%BB%D0%B0%D0%B0%D0%BC#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - значение музыки</title>
- <link>https://vse.la/teg/znachenie-muzyki</link>
+ <link>http://vse.la/teg/znachenie-muzyki</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Социология и музыка</title>
- <link>https://vse.la/blog/sociologiya-i-muzyka</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/worldmusic.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/worldmusic.jpg&quot; width=&quot;330&quot; height=&quot;214&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; Социология музыки – это такая научная дисциплина, которая изучает самые разнообразные аспекты социализации музыки, а также занимается систематизацией коммуникативных и социокультурных функций музыки, разнообразия её форм и проявлений. Эта наука является частью социологии искусства.&lt;/p&gt;
+ <link>http://vse.la/blog/sociologiya-i-muzyka</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/worldmusic.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/worldmusic.jpg&quot; width=&quot;330&quot; height=&quot;214&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; Социология музыки – это такая научная дисциплина, которая изучает самые разнообразные аспекты социализации музыки, а также занимается систематизацией коммуникативных и социокультурных функций музыки, разнообразия её форм и проявлений. Эта наука является частью социологии искусства.&lt;/p&gt;
 
 &lt;p&gt; Это междисциплинарная наука, которая относится одновременно к социологии и истории, культурологии и педагогики, музыкознания и психологии. От поставленных задач и вариантов их решения можно выделить несколько основных направлений в социологии музыки.&lt;/p&gt;
 
@@ -32,8 +32,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/znachenie-muzyki&quot;&gt;значение музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/muzyka-i-obshchestvo&quot;&gt;музыка и общество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 19 Nov 2015 07:54:46 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2625 at https://vse.la</guid>
- <comments>https://vse.la/blog/sociologiya-i-muzyka#comments</comments>
+ <guid isPermaLink="false">2625 at http://vse.la</guid>
+ <comments>http://vse.la/blog/sociologiya-i-muzyka#comments</comments>
 </item>
 </channel>
 </rss>

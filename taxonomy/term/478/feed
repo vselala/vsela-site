@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - молитва матери</title>
- <link>https://vse.la/teg/molitva-materi</link>
+ <link>http://vse.la/teg/molitva-materi</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Матери молитва</title>
- <link>https://vse.la/stih/materi-molitva</link>
+ <link>http://vse.la/stih/materi-molitva</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;                                 Матери молитва&lt;/p&gt;
 
 &lt;p&gt;Много лет косые взгляды в след,&lt;/p&gt;
@@ -182,8 +182,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/zhenshchine&quot;&gt;Женщине&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 14 Jul 2014 12:55:03 +0000</pubDate>
  <dc:creator>Виктория Юдина</dc:creator>
- <guid isPermaLink="false">367 at https://vse.la</guid>
- <comments>https://vse.la/stih/materi-molitva#comments</comments>
+ <guid isPermaLink="false">367 at http://vse.la</guid>
+ <comments>http://vse.la/stih/materi-molitva#comments</comments>
 </item>
 </channel>
 </rss>

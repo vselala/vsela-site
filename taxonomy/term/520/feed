@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - творенье</title>
- <link>https://vse.la/teg/tvorene</link>
+ <link>http://vse.la/teg/tvorene</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Родник Счастья и Любви.</title>
- <link>https://vse.la/stih/rodnik-schastya-i-lyubvi</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/rodnik-schastya-i-lyubvi&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/4999.jpg&quot; width=&quot;180&quot; height=&quot;99&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;/p&gt;
+ <link>http://vse.la/stih/rodnik-schastya-i-lyubvi</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/rodnik-schastya-i-lyubvi&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/4999.jpg&quot; width=&quot;180&quot; height=&quot;99&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;&lt;em&gt;Чем проще человек, сложнее чувства,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -92,12 +92,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/devushke&quot;&gt;Девушке&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/zhenshchine&quot;&gt;Женщине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/priznaniya-v-lyubvi&quot;&gt;Признания в любви&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/rodnye-druzya&quot;&gt;Родные, друзья&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 08 Sep 2014 10:54:36 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">771 at https://vse.la</guid>
- <comments>https://vse.la/stih/rodnik-schastya-i-lyubvi#comments</comments>
+ <guid isPermaLink="false">771 at http://vse.la</guid>
+ <comments>http://vse.la/stih/rodnik-schastya-i-lyubvi#comments</comments>
 </item>
 <item>
  <title>Дочь природы - Вдохновенье!</title>
- <link>https://vse.la/stih/doch-prirody-vdohnovene</link>
+ <link>http://vse.la/stih/doch-prirody-vdohnovene</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:28px&quot;&gt;&lt;em&gt;Льётся, льётся с неба песня,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:28px&quot;&gt;&lt;em&gt;Не потушишь искр костёр,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -170,8 +170,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/den-rozhdeniya/mame&quot;&gt;Маме&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 16 Jul 2014 20:10:21 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">407 at https://vse.la</guid>
- <comments>https://vse.la/stih/doch-prirody-vdohnovene#comments</comments>
+ <guid isPermaLink="false">407 at http://vse.la</guid>
+ <comments>http://vse.la/stih/doch-prirody-vdohnovene#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Филология</title>
- <link>https://vse.la/blog/filologiya</link>
+ <link>http://vse.la/blog/filologiya</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Comment analyser un poème</title>
- <link>https://vse.la/blog/comment-analyser-un-poeme</link>
+ <link>http://vse.la/blog/comment-analyser-un-poeme</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Avant toute analyse, on lira plusieurs fois (et si possible à haute voix) le poème à étudier - le&lt;br /&gt;
 rythme, les sonorités, la musicalité de la langue faisant, ici plus que dans tout autre texte,&lt;br /&gt;
 partie intégrante du sens. De plus, on sera particulièrement attentif à la disposition du texte&lt;br /&gt;
@@ -75,32 +75,32 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/pedagogika&quot;&gt;Педагогика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/filologiya&quot;&gt;Филология&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/francuzskiy&quot;&gt;Французский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 22 Jul 2016 18:35:39 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">3566 at https://vse.la</guid>
- <comments>https://vse.la/blog/comment-analyser-un-poeme#comments</comments>
+ <guid isPermaLink="false">3566 at http://vse.la</guid>
+ <comments>http://vse.la/blog/comment-analyser-un-poeme#comments</comments>
 </item>
 <item>
  <title>Цитаты барона Реншольда 2</title>
- <link>https://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B0-%D1%80%D0%B5%D0%BD%D1%88%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0-2</link>
+ <link>http://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B0-%D1%80%D0%B5%D0%BD%D1%88%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0-2</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Проблема русской интиллигенции в том, что она ничего не осуществляет из того, что задумывает.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/filologiya&quot;&gt;Филология&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 23 Mar 2015 19:31:37 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">1498 at https://vse.la</guid>
- <comments>https://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B0-%D1%80%D0%B5%D0%BD%D1%88%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0-2#comments</comments>
+ <guid isPermaLink="false">1498 at http://vse.la</guid>
+ <comments>http://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B0-%D1%80%D0%B5%D0%BD%D1%88%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0-2#comments</comments>
 </item>
 <item>
  <title>Цитаты барона Реншольда</title>
- <link>https://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B0-%D1%80%D0%B5%D0%BD%D1%88%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0</link>
+ <link>http://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B0-%D1%80%D0%B5%D0%BD%D1%88%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В какую эпоху мы бы не жили, знайте, что русскими всегда будут править обрусевшие иностранцы!&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/filologiya&quot;&gt;Филология&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/andre-massena&quot;&gt;Андре Массена&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 23 Mar 2015 19:26:38 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">1497 at https://vse.la</guid>
- <comments>https://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B0-%D1%80%D0%B5%D0%BD%D1%88%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0#comments</comments>
+ <guid isPermaLink="false">1497 at http://vse.la</guid>
+ <comments>http://vse.la/%D0%B1%D0%BB%D0%BE%D0%B3/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%B0-%D1%80%D0%B5%D0%BD%D1%88%D0%BE%D0%BB%D1%8C%D0%B4%D0%B0#comments</comments>
 </item>
 <item>
  <title>Любимые стихи, часть шестая &quot;Стихи о мудрости и философии&quot;</title>
- <link>https://vse.la/blog/lyubimye-stihi-chast-shestaya-stihi-o-mudrosti-i</link>
+ <link>http://vse.la/blog/lyubimye-stihi-chast-shestaya-stihi-o-mudrosti-i</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;br /&gt;
 Вильям Шекспир (1564-1616) &lt;/p&gt;
 
@@ -110,7 +110,7 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 А похоти зима приходит раньше лета;     &lt;br /&gt;
 В любви нет жадности, - в обжорстве похоть мрет;     &lt;br /&gt;
 В любви - все истина, а похоть вечно лжет.&lt;br /&gt;
-Источник: &lt;a href=&quot;https://tetatet-club.ru/Aphorism298_vilyam_shekspir.htm&quot;&gt;https://tetatet-club.ru/Aphorism298_vilyam_shekspir.htm&lt;/a&gt;&lt;/p&gt;
+Источник: &lt;a href=&quot;http://tetatet-club.ru/Aphorism298_vilyam_shekspir.htm&quot;&gt;http://tetatet-club.ru/Aphorism298_vilyam_shekspir.htm&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -119,11 +119,11 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 Полагаться не вздумай на тех, кто кругом &lt;br /&gt;
 Трезвым оком взгляни на ближайшего друга — &lt;br /&gt;
 Друг, возможно, окажется злейшим врагом. (Омар Хайям)&lt;br /&gt;
-С сайта&lt;a href=&quot;https://www.inpearls.ru/&quot;&gt;https://www.inpearls.ru/&lt;/a&gt;&lt;/p&gt;
+С сайта&lt;a href=&quot;http://www.inpearls.ru/&quot;&gt;http://www.inpearls.ru/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;с сайта    &lt;a href=&quot;https://www.stihi.ru/2013/02/06/10708 &quot;&gt;https://www.stihi.ru/2013/02/06/10708 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;с сайта    &lt;a href=&quot;http://www.stihi.ru/2013/02/06/10708 &quot;&gt;http://www.stihi.ru/2013/02/06/10708 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Не завидуй тому, кто силен и богат.&lt;br /&gt;
 За рассветом всегда наступает закат.&lt;br /&gt;
@@ -137,7 +137,7 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;с сайта  &lt;a href=&quot;https://en.loveplanet.ru/a-ljpost/login-olg7109/rub-21/page-95/&quot;&gt;https://en.loveplanet.ru/a-ljpost/login-olg7109/rub-21/page-95/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;с сайта  &lt;a href=&quot;http://en.loveplanet.ru/a-ljpost/login-olg7109/rub-21/page-95/&quot;&gt;http://en.loveplanet.ru/a-ljpost/login-olg7109/rub-21/page-95/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Когда я вас впервые увидал, &lt;br /&gt;
 Багровый шар вставал на горизонте, &lt;br /&gt;
@@ -171,7 +171,7 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;с сайта   ©&lt;a href=&quot;https://www.pozdravik.ru/malchiku&quot;&gt;https://www.pozdravik.ru/malchiku&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;с сайта   ©&lt;a href=&quot;http://www.pozdravik.ru/malchiku&quot;&gt;http://www.pozdravik.ru/malchiku&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Не жди, что в жизни будет каждый год&lt;br /&gt;
 И каждый день в отрадой и наградой.&lt;br /&gt;
@@ -188,7 +188,7 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;с сайта  &lt;a href=&quot;https://www.stihi.ru/diary/voda8wfrl/2010-09-06&quot;&gt;https://www.stihi.ru/diary/voda8wfrl/2010-09-06&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;с сайта  &lt;a href=&quot;http://www.stihi.ru/diary/voda8wfrl/2010-09-06&quot;&gt;http://www.stihi.ru/diary/voda8wfrl/2010-09-06&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Мужчина, будь мужчиной...&lt;/p&gt;
 
@@ -253,7 +253,7 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;с сайта  &lt;a href=&quot;https://anekdotikov.net/tosty/4342/&quot;&gt;https://anekdotikov.net/tosty/4342/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;с сайта  &lt;a href=&quot;http://anekdotikov.net/tosty/4342/&quot;&gt;http://anekdotikov.net/tosty/4342/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Горе ли тучей сгустилось,&lt;br /&gt;
 Счастье ль предали огню,&lt;br /&gt;
@@ -266,18 +266,18 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/o-chuvstvah&quot;&gt;О чувствах&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/pedagogika&quot;&gt;Педагогика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/filologiya&quot;&gt;Филология&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 16 Oct 2014 19:38:18 +0000</pubDate>
  <dc:creator>Эскандера</dc:creator>
- <guid isPermaLink="false">940 at https://vse.la</guid>
- <comments>https://vse.la/blog/lyubimye-stihi-chast-shestaya-stihi-o-mudrosti-i#comments</comments>
+ <guid isPermaLink="false">940 at http://vse.la</guid>
+ <comments>http://vse.la/blog/lyubimye-stihi-chast-shestaya-stihi-o-mudrosti-i#comments</comments>
 </item>
 <item>
  <title>Любимые стихи, часть вторая &quot;Философия любви&quot;</title>
- <link>https://vse.la/blog/lyubimye-stihi-chast-vtoraya-filosofiya-lyubvi</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/mucha48.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/mucha48.jpg&quot; width=&quot;162&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;br /&gt;
+ <link>http://vse.la/blog/lyubimye-stihi-chast-vtoraya-filosofiya-lyubvi</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/mucha48.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/mucha48.jpg&quot; width=&quot;162&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;br /&gt;
 Эти стихи так очаровывают своим глубоким смыслом. Наше время ужасно жестоко, оно лишено поэтичности. Люди все время куда-то спишат, летят, откладываялюбовь на потом. Уних нет времени на любовь, точнее не остается времени и сил. А ведь любовь так нужна человеческой душе.&lt;/p&gt;
 
 &lt;p&gt; Красиво любить умеет тот - кто умеет любить.&lt;/p&gt;
 
-&lt;p&gt;С сайта: &lt;a href=&quot;https://stihiolubvi.ru/category/classik/asadov?skip=0&quot;&gt;https://stihiolubvi.ru/category/classik/asadov?skip=0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;С сайта: &lt;a href=&quot;http://stihiolubvi.ru/category/classik/asadov?skip=0&quot;&gt;http://stihiolubvi.ru/category/classik/asadov?skip=0&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Асадов Эдуард&lt;/em&gt;&lt;/p&gt;
 
@@ -323,7 +323,7 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;с сайта  &lt;a href=&quot;https://www.stihi.ru/avtor/lisica91&quot;&gt;https://www.stihi.ru/avtor/lisica91&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;с сайта  &lt;a href=&quot;http://www.stihi.ru/avtor/lisica91&quot;&gt;http://www.stihi.ru/avtor/lisica91&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Хочу, чтоб для любой моей мечты &lt;br /&gt;
 Ты был всю жизнь единственной границей. &lt;br /&gt;
@@ -348,13 +348,13 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-literature&quot;&gt;О литературе&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-chuvstvah&quot;&gt;О чувствах&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/filologiya&quot;&gt;Филология&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 11 Oct 2014 13:03:15 +0000</pubDate>
  <dc:creator>Эскандера</dc:creator>
- <guid isPermaLink="false">910 at https://vse.la</guid>
- <comments>https://vse.la/blog/lyubimye-stihi-chast-vtoraya-filosofiya-lyubvi#comments</comments>
+ <guid isPermaLink="false">910 at http://vse.la</guid>
+ <comments>http://vse.la/blog/lyubimye-stihi-chast-vtoraya-filosofiya-lyubvi#comments</comments>
 </item>
 <item>
  <title>Безупречные стихи. Можно ли обучить стихосложению?</title>
- <link>https://vse.la/blog/bezuprechnye-stihi-mozhno-li-obuchit-stihoslozheniyu</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/winx_musa_by_reallynik.png&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/winx_musa_by_reallynik.png&quot; width=&quot;270&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Высокая культура речи заставляла людей 18-19 веков иногда изъясняться не только на благородном французском языке, но и словами известных личностей. Порой в минуты восторга, вдохновения возникало неугасимое желание говорить рифмами. Простыми, но сладкими. А можно ли этому научить современного человека, и что для этого нужно?&lt;/p&gt;
+ <link>http://vse.la/blog/bezuprechnye-stihi-mozhno-li-obuchit-stihoslozheniyu</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/winx_musa_by_reallynik.png&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/winx_musa_by_reallynik.png&quot; width=&quot;270&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Высокая культура речи заставляла людей 18-19 веков иногда изъясняться не только на благородном французском языке, но и словами известных личностей. Порой в минуты восторга, вдохновения возникало неугасимое желание говорить рифмами. Простыми, но сладкими. А можно ли этому научить современного человека, и что для этого нужно?&lt;/p&gt;
 
 &lt;p&gt;Поэзия великих классиков русской литературы почитаема во всём мире. Ценности культуры, которые рождает творчество А. С. Пушкина, Н. А. Некрасова, А. А. Фета неоценимы для человека, который любит литературу, живёт образами великих произведений. Такие стихи воспринимаются сердцем, хотя порой непонятны разуму. Они всегда безукоризненны и самостийны! Образец высокой духовной культуры.&lt;/p&gt;
 
@@ -364,7 +364,7 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 
 &lt;p&gt;Популярность этой темы в современной жизни обозначается тем фактором, что есть множество способов самовыражения и самопродвижения. Кто не знает о чудесных превращениях простого мальчика или простой девочки в знаменитого исполнителя? Всевозможные передачи на телевидении с участием молодых исполнителей вызывают ажиотаж и необъяснимое чувство, что так может каждый. Это действительно так! Если своим любимым занятием вы или ваши друзья выбрали написание стихов и песен, то что поможет сделать результаты более значимыми, более притягательными и интересными? Как же всё-таки научиться писать стихи и песни?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://xn-------c5dc1dj4a.xn--p1ai/images/klassika/pushkin/pushkin_na_skameike.jpg&quot;&gt;&lt;img alt=&quot;пушкин на скамейке&quot; src=&quot;https://xn-------c5dc1dj4a.xn--p1ai/images/klassika/pushkin/pushkin_na_skameike.jpg&quot; style=&quot;float:right; height:286px; width:370px&quot; /&gt;&lt;/a&gt;Во-первых, песни, также как и стихи, представляют результат работы поэтов, композиторов. Творческий процесс порою бывает очень труден, особенно если автор предъявляет высокие требования к своему творчеству. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://xn-------c5dc1dj4a.xn--p1ai/images/klassika/pushkin/pushkin_na_skameike.jpg&quot;&gt;&lt;img alt=&quot;пушкин на скамейке&quot; src=&quot;http://xn-------c5dc1dj4a.xn--p1ai/images/klassika/pushkin/pushkin_na_skameike.jpg&quot; style=&quot;float:right; height:286px; width:370px&quot; /&gt;&lt;/a&gt;Во-первых, песни, также как и стихи, представляют результат работы поэтов, композиторов. Творческий процесс порою бывает очень труден, особенно если автор предъявляет высокие требования к своему творчеству. &lt;/p&gt;
 
 &lt;p&gt;Во-вторых, есть строгий подход, который позволяет не писать то, что точно не понравится, а следовать строго обозначенному плану, предъявлять критерии к произведениям: достаточно ли понятные слова, достаточно ли красивых слов, приятные сюжеты, яркость сюжетов, контраст. Строгий подход заставляет поэта ставить перед собой задачи: я хочу получить стих для широкой аудитории молодых слушателей и отразить в нём свои переживания о любви - или я хочу написать одну красивую строчку и повторять её в припеве, а куплеты будут содержать просто любовную лирику, но с хорошей аранжировкой.&lt;/p&gt;
 
@@ -376,12 +376,12 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/filologiya&quot;&gt;Филология&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kak-pisat-stihi&quot;&gt;как писать стихи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/kak-sochinyat-pesni&quot;&gt;как сочинять песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 29 Jul 2014 10:54:39 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">522 at https://vse.la</guid>
- <comments>https://vse.la/blog/bezuprechnye-stihi-mozhno-li-obuchit-stihoslozheniyu#comments</comments>
+ <guid isPermaLink="false">522 at http://vse.la</guid>
+ <comments>http://vse.la/blog/bezuprechnye-stihi-mozhno-li-obuchit-stihoslozheniyu#comments</comments>
 </item>
 <item>
  <title>Эпитеты ароматов в языке рекламы. Антонова Е.А.</title>
- <link>https://vse.la/blog/epitety-aromatov-v-yazyke-reklamy-antonova-ea</link>
+ <link>http://vse.la/blog/epitety-aromatov-v-yazyke-reklamy-antonova-ea</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Анализируя язык рекламы, мы сталкиваемся с ее метафоричностью. В рекламном тексте широко используются различные виды троп. Неожиданные метафоры привлекают адресата (потенциального покупателя), заставляют аудиторию обратить внимание на сообщение. Использование в рекламных материалах различных троп неизмеримо повышают силу рекламного воздействия на человека, делает ее живой, интересной и запоминающейся. Метафора позволяет рекламе осуществить своеобразный эмоциональный нажим на адресата, поскольку с помощью троп реклама может ярко и кратко охарактеризовать качества рекламируемого продукта.&lt;/p&gt;
 
 &lt;p&gt;Описать аромат словами очень сложно, ведь это субъективное явление (у каждого человека какой-либо запах вызывает свои определенные ассоциации, чувства, мысли, воспоминания). Для создания рекламы одного парфюма работают целая группа специалистов (это и маркетологи, оформители, рекламные текстовики, фотографы, психологи). Она чаще всего красочна, сопровождается соблазнительными комментариями и будоражащими воображение слоганами. Рекламодатели с помощью словесной характеристики, красок и рекламного персонажа передают характер духов. Для них необходимо поместить духи в мир вымысла, который послужит основой их индивидуальности. Потребителю предлагают яркие и современные образы (на любой вкус), используют приглашение в мечту, в эротику, бросают вызов, создают ярлык хорошего вкуса и обещают повышение престижа посредством флакона.&lt;/p&gt;
@@ -418,12 +418,12 @@ L’ensemble des réponses devrait vous permettre de réaliser une dissertation.
 
 &lt;p&gt;Таким образом, эпитет – один из важнейших компонентов рекламного текста, так как позволяет передать качества и достоинства товара. Авторы используют эпитеты для создания единого эмоционально-окрашенного образа рекламируемого парфюма. В результате анализа материала выявлены системные отношения, которые связуют эпитеты. Это синонимия, антонимия, а также семантические отношения градуальности. Особенно частотны определения-синонимы. Эпитеты четко дифференцируют парфюм по гендерным признакам. В рекламе парфюма наблюдается транспозиция номинаций качеств человеческого характера на рекламируемый объект.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.rusnauka.com/16_ADEN_2011/Philologia/7_89122.doc.htm&quot;&gt;https://www.rusnauka.com/16_ADEN_2011/Philologia/7_89122.doc.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.rusnauka.com/16_ADEN_2011/Philologia/7_89122.doc.htm&quot;&gt;http://www.rusnauka.com/16_ADEN_2011/Philologia/7_89122.doc.htm&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/filologiya&quot;&gt;Филология&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 05 Jul 2014 12:11:25 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">213 at https://vse.la</guid>
- <comments>https://vse.la/blog/epitety-aromatov-v-yazyke-reklamy-antonova-ea#comments</comments>
+ <guid isPermaLink="false">213 at http://vse.la</guid>
+ <comments>http://vse.la/blog/epitety-aromatov-v-yazyke-reklamy-antonova-ea#comments</comments>
 </item>
 </channel>
 </rss>

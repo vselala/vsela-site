@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - стихи о Родине</title>
- <link>https://vse.la/teg/stihi-o-rodine</link>
+ <link>http://vse.la/teg/stihi-o-rodine</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Стихи про Россию</title>
- <link>https://vse.la/blog/stihi-pro-rossiyu</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/14119183192_a017460130_k_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/14119183192_a017460130_k_sm.jpg&quot; width=&quot;302&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О России сложено много стихов. Поэты писали о красоте природы, о крестьянах, об особенностях русского менталитета, о роли Росси в истории мира, о величии страны, о народах, населяющих большую страну.&lt;/p&gt;
+ <link>http://vse.la/blog/stihi-pro-rossiyu</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/14119183192_a017460130_k_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/14119183192_a017460130_k_sm.jpg&quot; width=&quot;302&quot; height=&quot;270&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;О России сложено много стихов. Поэты писали о красоте природы, о крестьянах, об особенностях русского менталитета, о роли Росси в истории мира, о величии страны, о народах, населяющих большую страну.&lt;/p&gt;
 
 &lt;p&gt;Посетите нашу страницу с 11 стихами о России Пушкина, Тютчева, Блока, Лермонтова, Симонова, Есенина, Рождественского, Лебедева-Кумач, Бокова, Матуссовского.&lt;/p&gt;
 
@@ -459,13 +459,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/obzory-stihov&quot;&gt;Обзоры стихов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/stihi-o-rossii&quot;&gt;стихи о России&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stihi-o-rodine&quot;&gt;стихи о Родине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/rossiya&quot;&gt;Россия&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/pro-rossiyu&quot;&gt;про Россию&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/den-rosii&quot;&gt;день Росии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/patrioticheskie-stihi&quot;&gt;патриотические стихи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/grazhdanskaya-lirika&quot;&gt;гражданская лирика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 07 Feb 2023 09:37:16 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4735 at https://vse.la</guid>
- <comments>https://vse.la/blog/stihi-pro-rossiyu#comments</comments>
+ <guid isPermaLink="false">4735 at http://vse.la</guid>
+ <comments>http://vse.la/blog/stihi-pro-rossiyu#comments</comments>
 </item>
 <item>
  <title>Песня монгольского кочевника</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/ap1505251254.jpg&quot; width=&quot;180&quot; height=&quot;99&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я вырос на севере горной страны,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/ap1505251254.jpg&quot; width=&quot;180&quot; height=&quot;99&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я вырос на севере горной страны,&lt;br /&gt;
 В долине цветов и камней.&lt;br /&gt;
 Где лишь небеса попирают хребты&lt;br /&gt;
 Саяна, Хангай и Хэнтэй.&lt;br /&gt;
@@ -491,12 +491,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/grazhdanskaya&quot;&gt;Гражданская&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika/peyzazhnaya-lirika&quot;&gt;Пейзажная лирика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 26 Jan 2017 14:46:21 +0000</pubDate>
  <dc:creator>Сергей Викторович Котов</dc:creator>
- <guid isPermaLink="false">4149 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0#comments</comments>
+ <guid isPermaLink="false">4149 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BF%D0%B5%D1%81%D0%BD%D1%8F-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0#comments</comments>
 </item>
 <item>
  <title>Осип Колычев &quot;Счастье&quot;</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B8%D0%BF-%D0%BA%D0%BE%D0%BB%D1%8B%D1%87%D0%B5%D0%B2-%D1%81%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5</link>
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B8%D0%BF-%D0%BA%D0%BE%D0%BB%D1%8B%D1%87%D0%B5%D0%B2-%D1%81%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;С первым взлётом&lt;br /&gt;
                                 всем пилотам&lt;br /&gt;
 Эти слова два&lt;br /&gt;
@@ -531,12 +531,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/grazhdanskaya&quot;&gt;Гражданская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 19 Sep 2015 10:06:33 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">1937 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B8%D0%BF-%D0%BA%D0%BE%D0%BB%D1%8B%D1%87%D0%B5%D0%B2-%D1%81%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5#comments</comments>
+ <guid isPermaLink="false">1937 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B8%D0%BF-%D0%BA%D0%BE%D0%BB%D1%8B%D1%87%D0%B5%D0%B2-%D1%81%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5#comments</comments>
 </item>
 <item>
  <title>Осип Колычев &quot;Опять, опять вошла краса России...&quot;</title>
- <link>https://vse.la/stih/osip-kolychev-opyat-opyat-voshla-krasa-rossii</link>
+ <link>http://vse.la/stih/osip-kolychev-opyat-opyat-voshla-krasa-rossii</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Опять, опять вошла краса России&lt;br /&gt;
 В малюсенькую улочку мою.&lt;br /&gt;
 Я в дали вглядываюсь...&lt;br /&gt;
@@ -557,12 +557,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/grazhdanskaya&quot;&gt;Гражданская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 18 Sep 2015 11:20:20 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">1931 at https://vse.la</guid>
- <comments>https://vse.la/stih/osip-kolychev-opyat-opyat-voshla-krasa-rossii#comments</comments>
+ <guid isPermaLink="false">1931 at http://vse.la</guid>
+ <comments>http://vse.la/stih/osip-kolychev-opyat-opyat-voshla-krasa-rossii#comments</comments>
 </item>
 <item>
  <title>Идея стихотворения на День России и её реализация</title>
- <link>https://vse.la/blog/ideya-stihotvoreniya-na-den-rossii-i-eyo-realizaciya</link>
+ <link>http://vse.la/blog/ideya-stihotvoreniya-na-den-rossii-i-eyo-realizaciya</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Автор статьи ценит процесс обучения больше, чем результат творчества, а также ищет идею для реализации в стихах. Данная публикация посвящена поискам идеи стихотворения о России и примерам реализации. Тут собраны известные стихи о России, анализ. В момент написания только две первые строки придуманы: &quot;&lt;strong&gt;День России - это мы, Жители большой страны.&lt;/strong&gt;&quot;&lt;/p&gt;
 
 &lt;h2&gt;Патриотические стихи о Родине на день России&lt;/h2&gt;
@@ -589,7 +589,7 @@
 
 &lt;h2&gt;Евгений Долматовский - Родина слышит, Родина знает&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=z4Nh2lSIFjA -&quot;&gt;https://www.youtube.com/watch?v=z4Nh2lSIFjA -&lt;/a&gt; Видео&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=z4Nh2lSIFjA -&quot;&gt;http://www.youtube.com/watch?v=z4Nh2lSIFjA -&lt;/a&gt; Видео&lt;/p&gt;
 
 &lt;p&gt;Родина слышит,&lt;br /&gt;
 Родина знает,&lt;br /&gt;
@@ -637,7 +637,7 @@
 
 &lt;h2&gt;Текст песни Газманов - Вперёд, Россия!&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=jAvtSANtlao&quot;&gt;https://www.youtube.com/watch?v=jAvtSANtlao&lt;/a&gt; - Газманов - Вперёд, Россия!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=jAvtSANtlao&quot;&gt;http://www.youtube.com/watch?v=jAvtSANtlao&lt;/a&gt; - Газманов - Вперёд, Россия!&lt;/p&gt;
 
 &lt;p&gt;Так было в России с далеких времен.&lt;br /&gt;
  Чем выше давление, тем крепче бетон.&lt;br /&gt;
@@ -687,7 +687,7 @@
 
 &lt;h2&gt;Гимн Российской Федерации, автор С.Михалков&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=awC2rUc_sos&quot;&gt;https://www.youtube.com/watch?v=awC2rUc_sos&lt;/a&gt; - Видео&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=awC2rUc_sos&quot;&gt;http://www.youtube.com/watch?v=awC2rUc_sos&lt;/a&gt; - Видео&lt;/p&gt;
 
 &lt;p&gt;Россия — священная наша держава,&lt;br /&gt;
 Россия — любимая наша страна.&lt;br /&gt;
@@ -733,7 +733,7 @@
 
 &lt;h2&gt;Юрий Антонов - Родны места&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=to6r8qF6EQA&quot;&gt;https://www.youtube.com/watch?v=to6r8qF6EQA&lt;/a&gt; - Видео&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=to6r8qF6EQA&quot;&gt;http://www.youtube.com/watch?v=to6r8qF6EQA&lt;/a&gt; - Видео&lt;/p&gt;
 
 &lt;p&gt;В родных местах ромашкой пахнет ветер &lt;br /&gt;
 И до травинки вся земля своя. &lt;br /&gt;
@@ -765,7 +765,7 @@
 
 &lt;h2&gt;Республика - Мама Россия&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Go7d6-xbCSc&quot;&gt;https://www.youtube.com/watch?v=Go7d6-xbCSc&lt;/a&gt; - Видео&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=Go7d6-xbCSc&quot;&gt;http://www.youtube.com/watch?v=Go7d6-xbCSc&lt;/a&gt; - Видео&lt;/p&gt;
 
 &lt;p&gt;Сколько б лет не прошло, не стареет солдат.&lt;br /&gt;
 Ему всё те же двадцать, всё ещё только будет.&lt;br /&gt;
@@ -829,7 +829,7 @@
 &lt;p&gt;На свете много песен сложено, но сердцу ближе и милей&lt;br /&gt;
 Песня русской сторонушки на светлой родине - земле моей (2 раза)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=inb4YtfvZgY&quot;&gt;https://www.youtube.com/watch?v=inb4YtfvZgY&lt;/a&gt; - Видео&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=inb4YtfvZgY&quot;&gt;http://www.youtube.com/watch?v=inb4YtfvZgY&lt;/a&gt; - Видео&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -934,8 +934,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kak-pisat-stihi&quot;&gt;как писать стихи&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/stihi-o-rodine&quot;&gt;стихи о Родине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/stihi-o-rossii&quot;&gt;стихи о России&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/den-rossii&quot;&gt;день России&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 13 Jun 2015 14:55:40 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">1707 at https://vse.la</guid>
- <comments>https://vse.la/blog/ideya-stihotvoreniya-na-den-rossii-i-eyo-realizaciya#comments</comments>
+ <guid isPermaLink="false">1707 at http://vse.la</guid>
+ <comments>http://vse.la/blog/ideya-stihotvoreniya-na-den-rossii-i-eyo-realizaciya#comments</comments>
 </item>
 </channel>
 </rss>

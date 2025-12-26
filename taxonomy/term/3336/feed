@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - жена полицейского</title>
- <link>https://vse.la/teg/zhena-policeyskogo</link>
+ <link>http://vse.la/teg/zhena-policeyskogo</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Стихи жене полицейского</title>
- <link>https://vse.la/stih/stihi-zhene-policeyskogo</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stihi-zhene-policeyskogo&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/4375441075_1471f70c7e_c_sm.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пушкин периода ранне-лицейского&lt;br /&gt;
+ <link>http://vse.la/stih/stihi-zhene-policeyskogo</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/stihi-zhene-policeyskogo&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/4375441075_1471f70c7e_c_sm.jpg&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пушкин периода ранне-лицейского&lt;br /&gt;
 Мог бы воспеть, если б был современником,&lt;br /&gt;
 Это призванье – жены полицейского,&lt;br /&gt;
 Жизнь без истерик по поводам меленьким;&lt;/p&gt;
@@ -59,8 +59,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/professii/policeyskiy&quot;&gt;Полицейский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 19 Dec 2016 18:42:03 +0000</pubDate>
  <dc:creator>Владимир Алексеевич Алексеев</dc:creator>
- <guid isPermaLink="false">4058 at https://vse.la</guid>
- <comments>https://vse.la/stih/stihi-zhene-policeyskogo#comments</comments>
+ <guid isPermaLink="false">4058 at http://vse.la</guid>
+ <comments>http://vse.la/stih/stihi-zhene-policeyskogo#comments</comments>
 </item>
 </channel>
 </rss>

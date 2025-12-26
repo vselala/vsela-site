@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - О языке</title>
- <link>https://vse.la/blog/o-yazyke</link>
+ <link>http://vse.la/blog/o-yazyke</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Трактат про бархатный голос</title>
- <link>https://vse.la/blog/traktat-pro-barhatnyy-golos</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Бархатный голос звучит мягко, полнозвучно, без напряжения. Чарующее звучание бархатного голоса всем безусловно приятно, привлекает внимание.&lt;/p&gt;
+ <link>http://vse.la/blog/traktat-pro-barhatnyy-golos</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/7304718708_5cb20ee94f_w_sm.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Бархатный голос звучит мягко, полнозвучно, без напряжения. Чарующее звучание бархатного голоса всем безусловно приятно, привлекает внимание.&lt;/p&gt;
 
 &lt;p&gt;В настоящее время звучание бархатного голоса освящено не в полной мере как на интернет-сайтах, так и на ресурсах &lt;em&gt;вищого розуму&lt;/em&gt;. Поэтому мы, vse.la, будем создавать наше мнение с нуля. Также мы раскроем отличия бархатного голоса от бархатистого голоса.&lt;/p&gt;
 
@@ -22,7 +22,7 @@
 
 &lt;p&gt;Бархатный голос используется в музыке, поэтому наш трактат может быть интересен музыкантам.&lt;/p&gt;
 
-&lt;p&gt;Данный трактат служит отправной точкой для изучения голоса и его восприятия, касается вопросов взаимопонимания для поддержания удобных коммуникаций. Бархатный голос необходим, когда рассказывают реальную историю, которуюнужно передать в деталях.&lt;/p&gt;
+&lt;p&gt;Данный трактат служит отправной точкой для изучения голоса и его восприятия, касается вопросов взаимопонимания для поддержания удобных коммуникаций. Бархатный голос необходим, когда рассказывают реальную историю, которую нужно передать в деталях.&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -318,12 +318,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-yazyke&quot;&gt;О языке&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/golos&quot;&gt;голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/rech&quot;&gt;речь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/krasivyy-golos&quot;&gt;красивый голос&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/vokal&quot;&gt;вокал&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/tehniki-vokala&quot;&gt;техники вокала&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 15 Feb 2025 18:36:52 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4845 at https://vse.la</guid>
- <comments>https://vse.la/blog/traktat-pro-barhatnyy-golos#comments</comments>
+ <guid isPermaLink="false">4845 at http://vse.la</guid>
+ <comments>http://vse.la/blog/traktat-pro-barhatnyy-golos#comments</comments>
 </item>
 <item>
  <title>Поэзия в межличностном общении</title>
- <link>https://vse.la/blog/poeziya-v-mezhlichnostnom-obshchenii</link>
+ <link>http://vse.la/blog/poeziya-v-mezhlichnostnom-obshchenii</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Поэзия является частью духовного богатства интеллигенции.&lt;/p&gt;
 
 &lt;p&gt;Освоение правил и средств создания поэтических произведений освобождает личность от некоторых комплексов. Использование поэтического мастерства в межличностном общении улучшает качество связи, скорость и полноту восприятия. Как это понимать?&lt;/p&gt;
@@ -346,8 +346,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-yazyke&quot;&gt;О языке&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/obshchenie&quot;&gt;общение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/razvitie-rechi&quot;&gt;развитие речи&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 16 Dec 2016 11:03:42 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4041 at https://vse.la</guid>
- <comments>https://vse.la/blog/poeziya-v-mezhlichnostnom-obshchenii#comments</comments>
+ <guid isPermaLink="false">4041 at http://vse.la</guid>
+ <comments>http://vse.la/blog/poeziya-v-mezhlichnostnom-obshchenii#comments</comments>
 </item>
 </channel>
 </rss>

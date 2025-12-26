@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - группа Океан Эльзы</title>
- <link>https://vse.la/teg/gruppa-okean-elzy</link>
+ <link>http://vse.la/teg/gruppa-okean-elzy</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>История группы Океан Эльзы</title>
- <link>https://vse.la/blog/istoriya-gruppy-okean-elzy</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/okean_elzi-slide.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/okean_elzi-slide.jpg&quot; width=&quot;330&quot; height=&quot;97&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;«Океановцы» появились на украинской сцене в октябре 1994 года. Родной город группы – Львов. Вокалист коллектива – Святослав Вакарчук.&lt;/p&gt;
+ <link>http://vse.la/blog/istoriya-gruppy-okean-elzy</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/okean_elzi-slide.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/okean_elzi-slide.jpg&quot; width=&quot;330&quot; height=&quot;97&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;«Океановцы» появились на украинской сцене в октябре 1994 года. Родной город группы – Львов. Вокалист коллектива – Святослав Вакарчук.&lt;/p&gt;
 
 &lt;p&gt; Все началось еще в 1992 году. Именно тогда Андрей Голяк пригласил своих друзей Юрия Хусточку, Глинина Дениса и Павла Гудимова в группу «Клан Тишины». Молодые музыканты выступали в львовском дворце культуры. Два года спустя они познакомились со студентом физического факультета Святославом Вакарчуком. Он пришел первый раз на репетицию летом. Ребята начали втайне от Андрея репетировать с юным Святославом. Они думали, что это выгоднее в денежном плане и группа сможет продвинуться. Через некоторое время Павел, Денис и Юрий покинули группу Голяка. Далее, они создали свою группу «Океан Ельзи». Название было придумано так: молодой Слава интересовался Одиссеей, а из-за того, что парни мечтали о мировой популярности, в название добавили имя «Ельза». Этот вариант устроил всех. Автор текстов всех песен группы – Вакарчук.&lt;/p&gt;
 
@@ -22,13 +22,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/gruppa-okean-elzy&quot;&gt;группа Океан Эльзы&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 19 Nov 2015 07:47:28 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2623 at https://vse.la</guid>
- <comments>https://vse.la/blog/istoriya-gruppy-okean-elzy#comments</comments>
+ <guid isPermaLink="false">2623 at http://vse.la</guid>
+ <comments>http://vse.la/blog/istoriya-gruppy-okean-elzy#comments</comments>
 </item>
 <item>
  <title>Творчество группы «Океан Эльзы»</title>
- <link>https://vse.la/blog/tvorchestvo-gruppy-okean-elzy</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/okeab_elzi.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/okeab_elzi.jpg&quot; width=&quot;330&quot; height=&quot;206&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Автор статьи: Мелехова Юлия Александровна&lt;/p&gt;
+ <link>http://vse.la/blog/tvorchestvo-gruppy-okean-elzy</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/okeab_elzi.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/okeab_elzi.jpg&quot; width=&quot;330&quot; height=&quot;206&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Автор статьи: Мелехова Юлия Александровна&lt;/p&gt;
 
 &lt;p&gt;Во все времена музыка являлась уникальным видом искусства. Наиболее распространенным жанром выступает песня. С помощью песенных слов исполнители пытаются донести до каждого слушателя определенный смысл, задать настроение. Пока еще большая часть текстов для современных песен пишется в соответствии с требованиями культуры. Но наряду с грамотностью песен немаловажной их составляющей является их смысл, идея, манера исполнения.&lt;/p&gt;
 
@@ -165,8 +165,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/gruppa-okean-elzy&quot;&gt;группа Океан Эльзы&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/analiz-pesen&quot;&gt;анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/populyarnye-ispolniteli&quot;&gt;популярные исполнители&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/ukrainskie-ispolniteli&quot;&gt;украинские исполнители&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 15 Nov 2015 23:36:02 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2599 at https://vse.la</guid>
- <comments>https://vse.la/blog/tvorchestvo-gruppy-okean-elzy#comments</comments>
+ <guid isPermaLink="false">2599 at http://vse.la</guid>
+ <comments>http://vse.la/blog/tvorchestvo-gruppy-okean-elzy#comments</comments>
 </item>
 </channel>
 </rss>

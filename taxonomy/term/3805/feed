@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Владимир Трошин</title>
- <link>https://vse.la/vladimir-troshin</link>
+ <link>http://vse.la/vladimir-troshin</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Ты одна в моей судьбе // Отчего, почему, и не знаю сам, я поверил твоим голубым глазам (из к/ф «Повесть о первой любви»)</title>
- <link>https://vse.la/pesni-iz-kino/ty-odna-v-moey-sudbe-otchego-pochemu-i-ne</link>
+ <link>http://vse.la/pesni-iz-kino/ty-odna-v-moey-sudbe-otchego-pochemu-i-ne</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Для меня в этот день,&lt;br /&gt;
@@ -44,12 +44,12 @@
 Исполняет Владимир Трошин&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/zhenshchina-skazka&quot;&gt;Женщина-сказка&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 04 Feb 2022 08:35:49 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4634 at https://vse.la</guid>
- <comments>https://vse.la/pesni-iz-kino/ty-odna-v-moey-sudbe-otchego-pochemu-i-ne#comments</comments>
+ <guid isPermaLink="false">4634 at http://vse.la</guid>
+ <comments>http://vse.la/pesni-iz-kino/ty-odna-v-moey-sudbe-otchego-pochemu-i-ne#comments</comments>
 </item>
 <item>
  <title>И на Марсе будут яблони цвести (из к/ф &quot;Мечте навстречу&quot;)</title>
- <link>https://vse.la/pesni-iz-kino/i-na-marse-budut-yabloni-cvesti-iz-kf-mechte</link>
+ <link>http://vse.la/pesni-iz-kino/i-na-marse-budut-yabloni-cvesti-iz-kf-mechte</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
     &lt;div class=&quot;field-items&quot;&gt;
           &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Жить и верить - это замечательно.&lt;br /&gt;
@@ -78,8 +78,8 @@
 Исполнитель: Владимир Трошин&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/zhelaniya&quot;&gt;Желания&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/pesni-iz-kino&quot;&gt;Песни из кино&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/mars&quot;&gt;Марс&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/yabloni&quot;&gt;яблони&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kosmonavty&quot;&gt;космонавты&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/zvezdy&quot;&gt;звезды&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/sovetskie-pesni&quot;&gt;советские песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/ambicii&quot;&gt;Амбиции&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/zadumchivost&quot;&gt;Задумчивость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/pokoy&quot;&gt;Покой&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-imena field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Имена:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/imya/mars&quot;&gt;Марс&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/137107253@N06/25821224182/&quot; target=&quot;_blank&quot;&gt;Libellule du Crépuscule Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 20 Jan 2022 06:43:28 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4615 at https://vse.la</guid>
- <comments>https://vse.la/pesni-iz-kino/i-na-marse-budut-yabloni-cvesti-iz-kf-mechte#comments</comments>
+ <guid isPermaLink="false">4615 at http://vse.la</guid>
+ <comments>http://vse.la/pesni-iz-kino/i-na-marse-budut-yabloni-cvesti-iz-kf-mechte#comments</comments>
 </item>
 </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - стихи про азбуку</title>
- <link>https://vse.la/teg/stihi-pro-azbuku</link>
+ <link>http://vse.la/teg/stihi-pro-azbuku</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Нарисуем буквы. Стихи на день славянской письменности и культуры для детей младших классов школы</title>
- <link>https://vse.la/stih/narisuem-bukvy-stihi-na-den-slavyanskoy-pismennosti-i</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/narisuem-bukvy-stihi-na-den-slavyanskoy-pismennosti-i&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/bukvi_abv.jpg&quot; width=&quot;180&quot; height=&quot;65&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Мы храним в наших сердцах&lt;br /&gt;
+ <link>http://vse.la/stih/narisuem-bukvy-stihi-na-den-slavyanskoy-pismennosti-i</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/narisuem-bukvy-stihi-na-den-slavyanskoy-pismennosti-i&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/bukvi_abv.jpg&quot; width=&quot;180&quot; height=&quot;65&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Мы храним в наших сердцах&lt;br /&gt;
 Добрые мотивы&lt;br /&gt;
 О великих мудрецах - &lt;br /&gt;
 Мефодии и Кирилле.&lt;/p&gt;
@@ -41,8 +41,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey&quot;&gt;Стихи для детей&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey/azbuka&quot;&gt;Азбука&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 24 May 2015 11:31:33 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">1629 at https://vse.la</guid>
- <comments>https://vse.la/stih/narisuem-bukvy-stihi-na-den-slavyanskoy-pismennosti-i#comments</comments>
+ <guid isPermaLink="false">1629 at http://vse.la</guid>
+ <comments>http://vse.la/stih/narisuem-bukvy-stihi-na-den-slavyanskoy-pismennosti-i#comments</comments>
 </item>
 </channel>
 </rss>

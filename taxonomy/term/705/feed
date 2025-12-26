@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - частушки именнинику</title>
- <link>https://vse.la/teg/chastushki-imenniniku</link>
+ <link>http://vse.la/teg/chastushki-imenniniku</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Частушки именнинику, частушки к юбилею, частушки Сергею</title>
- <link>https://vse.la/stih/chastushki-imenniniku-chastushki-k-yubileyu-chastushki</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/chastushki-imenniniku-chastushki-k-yubileyu-chastushki&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/pozhiloy.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;br /&gt;
+ <link>http://vse.la/stih/chastushki-imenniniku-chastushki-k-yubileyu-chastushki</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/chastushki-imenniniku-chastushki-k-yubileyu-chastushki&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/pozhiloy.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;br /&gt;
 &lt;em&gt;&lt;strong&gt;Собрались  друзья -  подруги&lt;br /&gt;
 Мы  Сергея  поздравлять!&lt;br /&gt;
 О его весёлой жизни&lt;br /&gt;
@@ -59,8 +59,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/den-rozhdeniya&quot;&gt;День рождения&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/den-rozhdeniya/imennye&quot;&gt;Именные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye&quot;&gt;Музыкальные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye/chastushki&quot;&gt;Частушки&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 05 Aug 2014 15:54:49 +0000</pubDate>
  <dc:creator>Виктория Любимова</dc:creator>
- <guid isPermaLink="false">591 at https://vse.la</guid>
- <comments>https://vse.la/stih/chastushki-imenniniku-chastushki-k-yubileyu-chastushki#comments</comments>
+ <guid isPermaLink="false">591 at http://vse.la</guid>
+ <comments>http://vse.la/stih/chastushki-imenniniku-chastushki-k-yubileyu-chastushki#comments</comments>
 </item>
 </channel>
 </rss>

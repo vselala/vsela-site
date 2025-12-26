@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Дмитрий Журавко</title>
- <link>https://vse.la/dmitriy-zhuravko</link>
+ <link>http://vse.la/dmitriy-zhuravko</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Маричка</title>
- <link>https://vse.la/dmitriy-zhuravko/marichka</link>
+ <link>http://vse.la/dmitriy-zhuravko/marichka</link>
  <description>&lt;div class=&quot;field field-name-field-lyrics-original field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Оригинал:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/ukrayinski-narodni-pisni/marichka&quot;&gt;Марічка&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Вьётся, будто змейка, неспокойна речка,&lt;br /&gt;
 протекая близко к подножию гор,&lt;br /&gt;
 а на той сторонке девушка Маричка&lt;br /&gt;
@@ -38,8 +38,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/dmitriy-zhuravko&quot;&gt;Дмитрий Журавко&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/marichka&quot;&gt;Маричка&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/perevody-ukrainskih-pesen&quot;&gt;переводы украинских песен&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 04 Feb 2022 07:52:46 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4632 at https://vse.la</guid>
- <comments>https://vse.la/dmitriy-zhuravko/marichka#comments</comments>
+ <guid isPermaLink="false">4632 at http://vse.la</guid>
+ <comments>http://vse.la/dmitriy-zhuravko/marichka#comments</comments>
 </item>
 </channel>
 </rss>

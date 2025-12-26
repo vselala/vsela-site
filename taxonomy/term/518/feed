@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - костёр</title>
- <link>https://vse.la/teg/kostyor</link>
+ <link>http://vse.la/teg/kostyor</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Осенний восторг</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B3</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B3&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/7312.jpg&quot; width=&quot;180&quot; height=&quot;138&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:24px&quot;&gt;&lt;em&gt;Мир пленительно интересен&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B3</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B3&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/7312.jpg&quot; width=&quot;180&quot; height=&quot;138&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:24px&quot;&gt;&lt;em&gt;Мир пленительно интересен&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:24px&quot;&gt;&lt;em&gt;Бесконечностью новизны,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
@@ -60,13 +60,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 07 Sep 2014 06:52:24 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">762 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B3#comments</comments>
+ <guid isPermaLink="false">762 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BE%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%B3#comments</comments>
 </item>
 <item>
  <title>Костёр Любви.</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BA%D0%BE%D1%81%D1%82%D1%91%D1%80-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BA%D0%BE%D1%81%D1%82%D1%91%D1%80-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/8278.jpg&quot; width=&quot;180&quot; height=&quot;121&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;text rtecenter&quot;&gt;&lt;em&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;Костер любви искрой горит, пылает,&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BA%D0%BE%D1%81%D1%82%D1%91%D1%80-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%BA%D0%BE%D1%81%D1%82%D1%91%D1%80-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/8278.jpg&quot; width=&quot;180&quot; height=&quot;121&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;text rtecenter&quot;&gt;&lt;em&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:22px&quot;&gt;Костер любви искрой горит, пылает,&lt;br /&gt;
 Когда в него бросают цвет и блеск,&lt;br /&gt;
 Он медленно, по капелькам взрастает,&lt;br /&gt;
 И луч красы расходится окрест.&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;/div&gt;
@@ -94,12 +94,12 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/zhenshchine&quot;&gt;Женщине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzhchine&quot;&gt;Мужчине&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/priznaniya-v-lyubvi&quot;&gt;Признания в любви&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/romanticheskie&quot;&gt;Романтические&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 04 Sep 2014 12:59:50 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">749 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BA%D0%BE%D1%81%D1%82%D1%91%D1%80-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8#comments</comments>
+ <guid isPermaLink="false">749 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%BA%D0%BE%D1%81%D1%82%D1%91%D1%80-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8#comments</comments>
 </item>
 <item>
  <title>Дочь природы - Вдохновенье!</title>
- <link>https://vse.la/stih/doch-prirody-vdohnovene</link>
+ <link>http://vse.la/stih/doch-prirody-vdohnovene</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:28px&quot;&gt;&lt;em&gt;Льётся, льётся с неба песня,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p class=&quot;rtecenter&quot;&gt;&lt;span style=&quot;color:#0000FF&quot;&gt;&lt;span style=&quot;font-size:28px&quot;&gt;&lt;em&gt;Не потушишь искр костёр,&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -172,8 +172,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/den-rozhdeniya/mame&quot;&gt;Маме&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 16 Jul 2014 20:10:21 +0000</pubDate>
  <dc:creator>Галина Соловьева</dc:creator>
- <guid isPermaLink="false">407 at https://vse.la</guid>
- <comments>https://vse.la/stih/doch-prirody-vdohnovene#comments</comments>
+ <guid isPermaLink="false">407 at http://vse.la</guid>
+ <comments>http://vse.la/stih/doch-prirody-vdohnovene#comments</comments>
 </item>
 </channel>
 </rss>

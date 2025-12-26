@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - поэзия для детей</title>
- <link>https://vse.la/teg/poeziya-dlya-detey</link>
+ <link>http://vse.la/teg/poeziya-dlya-detey</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>12 правил К.И. Чуковского, или заповеди для детских поэтов</title>
- <link>https://vse.la/blog/12-pravil-ki-chukovskogo-ili-zapovedi-dlya-detskih</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/chukovskij_i_deti.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/chukovskij_i_deti.jpg&quot; width=&quot;330&quot; height=&quot;213&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h1&gt;&lt;strong&gt;12 правил К.И. Чуковского, или Заповеди для детских поэтов&lt;/strong&gt;&lt;/h1&gt;
+ <link>http://vse.la/blog/12-pravil-ki-chukovskogo-ili-zapovedi-dlya-detskih</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/chukovskij_i_deti.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/chukovskij_i_deti.jpg&quot; width=&quot;330&quot; height=&quot;213&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h1&gt;&lt;strong&gt;12 правил К.И. Чуковского, или Заповеди для детских поэтов&lt;/strong&gt;&lt;/h1&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -64,8 +64,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/chukovskiy&quot;&gt;Чуковский&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/poeziya-dlya-detey&quot;&gt;поэзия для детей&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 10 Aug 2014 16:53:34 +0000</pubDate>
  <dc:creator>Анатолий Власов</dc:creator>
- <guid isPermaLink="false">623 at https://vse.la</guid>
- <comments>https://vse.la/blog/12-pravil-ki-chukovskogo-ili-zapovedi-dlya-detskih#comments</comments>
+ <guid isPermaLink="false">623 at http://vse.la</guid>
+ <comments>http://vse.la/blog/12-pravil-ki-chukovskogo-ili-zapovedi-dlya-detskih#comments</comments>
 </item>
 </channel>
 </rss>

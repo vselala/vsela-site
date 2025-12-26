@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Sia</title>
- <link>https://vse.la/teg/sia</link>
+ <link>http://vse.la/teg/sia</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Почему Сия не показывает лицо?</title>
- <link>https://vse.la/blog/pochemu-siya-ne-pokazyvaet-lico</link>
+ <link>http://vse.la/blog/pochemu-siya-ne-pokazyvaet-lico</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; Австралийская певица Сия известна, популярна и любима слушателями. Со времени выхода её первого альбома прошло почти 20 лет, за которые выпущено ещё пять альбомов. Но музыкальный и жизненный путь складывались для певицы нелегко. А в последнее время её поведение приковывает к себе внимание всего мира. Сия старательно прячет своё лицо.&lt;/p&gt;
 
 &lt;h2&gt; Незнание порождает предположения&lt;/h2&gt;
@@ -27,8 +27,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/sia&quot;&gt;Sia&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/ob-ispolnitelyah&quot;&gt;об исполнителях&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 19 Nov 2015 07:32:06 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">2619 at https://vse.la</guid>
- <comments>https://vse.la/blog/pochemu-siya-ne-pokazyvaet-lico#comments</comments>
+ <guid isPermaLink="false">2619 at http://vse.la</guid>
+ <comments>http://vse.la/blog/pochemu-siya-ne-pokazyvaet-lico#comments</comments>
 </item>
 </channel>
 </rss>

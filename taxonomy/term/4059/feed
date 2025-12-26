@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - γάτο</title>
- <link>https://vse.la/teg/gato</link>
+ <link>http://vse.la/teg/gato</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Χιόνι, χιόνι στην αυλή</title>
- <link>https://vse.la/stih/hioni-hioni-stin-ayli</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/hioni-hioni-stin-ayli&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/8520237227_969a78697f.jpg&quot; width=&quot;141&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Χιόνι, χιόνι στην αυλή.&lt;/p&gt;
+ <link>http://vse.la/stih/hioni-hioni-stin-ayli</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/hioni-hioni-stin-ayli&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/8520237227_969a78697f.jpg&quot; width=&quot;141&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Χιόνι, χιόνι στην αυλή.&lt;/p&gt;
 
 &lt;p&gt;Κάνει κρύο το πρωί,&lt;/p&gt;
 
@@ -26,8 +26,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey&quot;&gt;Стихи для детей&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 11 Mar 2023 19:23:52 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4744 at https://vse.la</guid>
- <comments>https://vse.la/stih/hioni-hioni-stin-ayli#comments</comments>
+ <guid isPermaLink="false">4744 at http://vse.la</guid>
+ <comments>http://vse.la/stih/hioni-hioni-stin-ayli#comments</comments>
 </item>
 </channel>
 </rss>

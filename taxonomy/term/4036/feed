@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - humour</title>
- <link>https://vse.la/teg/humour</link>
+ <link>http://vse.la/teg/humour</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Humour in Popular Songs for Kids</title>
- <link>https://vse.la/blog/humour-popular-songs-kids</link>
+ <link>http://vse.la/blog/humour-popular-songs-kids</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2&gt;Pen pineapple apple pen&lt;/h2&gt;
 
 &lt;p&gt;This song was so popular when just issued. &lt;a href=&quot;/pikotaro/ppap-pen-pineapple-apple-pen&quot;&gt;Lyrics here&lt;/a&gt;. It makes you smile over a man that makes first steps in English language. Don&#039;t be confused with words that sound alike! Have a short hint and listen seriously:&lt;/p&gt;
@@ -55,8 +55,8 @@ I&#039;ll place a call around the world, operator get me Bejing-jing-jing-jing&l
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/analiz-pesen&quot;&gt;Анализ песен&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/humour&quot;&gt;humour&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/funny-songs&quot;&gt;funny songs&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/songs-jokes&quot;&gt;songs with jokes&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 09 Feb 2023 10:17:32 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4737 at https://vse.la</guid>
- <comments>https://vse.la/blog/humour-popular-songs-kids#comments</comments>
+ <guid isPermaLink="false">4737 at http://vse.la</guid>
+ <comments>http://vse.la/blog/humour-popular-songs-kids#comments</comments>
 </item>
 </channel>
 </rss>

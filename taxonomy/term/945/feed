@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - видео-открытка</title>
- <link>https://vse.la/teg/video-otkrytka</link>
+ <link>http://vse.la/teg/video-otkrytka</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Видео-поздравление для своей половинки</title>
- <link>https://vse.la/blog/video-pozdravlenie-dlya-svoey-polovinki</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/video-slaid-show_stihirf.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/video-slaid-show_stihirf.jpg&quot; width=&quot;330&quot; height=&quot;256&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Близкие люди дарят радость не только в праздники - ведь каждый день происходят приятные моменты в жизни любящих людей. Однако, близится особенный день - день рождения вашего любимого человека (девушки или парня, мужа или жены), а вы в догадках: что выбрать самым приятным сюрпризом на этот день рождения?&lt;/p&gt;
+ <link>http://vse.la/blog/video-pozdravlenie-dlya-svoey-polovinki</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/video-slaid-show_stihirf.jpg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/video-slaid-show_stihirf.jpg&quot; width=&quot;330&quot; height=&quot;256&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Близкие люди дарят радость не только в праздники - ведь каждый день происходят приятные моменты в жизни любящих людей. Однако, близится особенный день - день рождения вашего любимого человека (девушки или парня, мужа или жены), а вы в догадках: что выбрать самым приятным сюрпризом на этот день рождения?&lt;/p&gt;
 
 &lt;h3&gt;Как женщины воспринимают подарки на день рождения?&lt;/h3&gt;
 
@@ -32,7 +32,7 @@
 
 &lt;p&gt;Для молодых людей это будет необычным сюрпризом, который точно выделит получателя видео-открытки среди других, ведь это эксклюзивное видео только для вашей пары!&lt;/p&gt;
 
-&lt;p&gt;Подробнее об услуге видео-открытка на странице &lt;a href=&quot;https://с-т-и-х-и.рф/все-услуги&quot;&gt;Все услуги&lt;/a&gt;. Если вас интересуют примеры, там также обозначены примеры видео-открыток.&lt;/p&gt;
+&lt;p&gt;Подробнее об услуге видео-открытка на странице &lt;a href=&quot;http://с-т-и-х-и.рф/все-услуги&quot;&gt;Все услуги&lt;/a&gt;. Если вас интересуют примеры, там также обозначены примеры видео-открыток.&lt;/p&gt;
 
 &lt;p&gt;Тематика слайд-шоу - любая. Это могут быть открытки на день рождения или на свадьбу, коллеге или супругу, родному человеку или знакому из социальной сети. Предложения к фоновой музыке вы также можете обозначить, или мы выберем музыку на свой вкус. Также можете написать слова поздравления, которые могут появляться в открытке!&lt;/p&gt;
 
@@ -40,8 +40,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/video-otkrytka&quot;&gt;видео-открытка&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Wed, 01 Oct 2014 11:24:16 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">874 at https://vse.la</guid>
- <comments>https://vse.la/blog/video-pozdravlenie-dlya-svoey-polovinki#comments</comments>
+ <guid isPermaLink="false">874 at http://vse.la</guid>
+ <comments>http://vse.la/blog/video-pozdravlenie-dlya-svoey-polovinki#comments</comments>
 </item>
 </channel>
 </rss>

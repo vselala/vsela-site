@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - рок-музыка</title>
- <link>https://vse.la/teg/rok-muzyka</link>
+ <link>http://vse.la/teg/rok-muzyka</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Топ-5 самых популярных рок-музыкантов мира за все время</title>
- <link>https://vse.la/blog/top-5-samyh-populyarnyh-rok-muzykantov-mira-za-vse</link>
+ <link>http://vse.la/blog/top-5-samyh-populyarnyh-rok-muzykantov-mira-za-vse</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В наше время существует огромное количество музыкальных направлений. Каждая, уважающая себя команда, отличается от остальных, причем настолько, что узнать ее можно по первым аккордам. Но эта статья посвящается только рок музыке, а именно «родителям» данного стиля. Итак, по мнению экспертов, топ-5, по популярности, рок групп за всю историю человечества. &lt;/p&gt;
 
 &lt;p&gt;Пятое место, рейтинга присуждается самым «плохим парням» 1962 года The rolling stones, основателем которой стал Брайан Джонс. Секс, наркотики и рок – вот девиз этой нашумевшей команды. Более четверти миллиарда проданных альбомов по всему миру. А, что творилось на концертах… Драки, крушение всего живого и неодушевленного. Иногда приходилось останавливать выступления, а фанаты, счастливые и травмированные попадали в больницу. Все знают Анджелину Джоли? Так вот, в 1997 году, одна из ее первых ролей была в клипе данной команды. The rolling stones внесли незаменимый вклад в развитие музыки, и до сей поры являются одной из самых узнаваемых групп. &lt;/p&gt;
@@ -24,8 +24,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/populyarnye-pesni&quot;&gt;Популярные песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/rok-muzyka&quot;&gt;рок-музыка&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 07 Aug 2016 09:46:50 +0000</pubDate>
  <dc:creator>blogrepo</dc:creator>
- <guid isPermaLink="false">3652 at https://vse.la</guid>
- <comments>https://vse.la/blog/top-5-samyh-populyarnyh-rok-muzykantov-mira-za-vse#comments</comments>
+ <guid isPermaLink="false">3652 at http://vse.la</guid>
+ <comments>http://vse.la/blog/top-5-samyh-populyarnyh-rok-muzykantov-mira-za-vse#comments</comments>
 </item>
 </channel>
 </rss>

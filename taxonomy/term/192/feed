@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - Экспромт</title>
- <link>https://vse.la/literaturnyy-zhanr/ekspromt</link>
+ <link>http://vse.la/literaturnyy-zhanr/ekspromt</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Марина Бородицкая - Убежало молоко (Цензурировано)</title>
- <link>https://vse.la/stih/marina-borodickaya-ubezhalo-moloko-cenzurirovano</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/marina-borodickaya-ubezhalo-moloko-cenzurirovano&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/26357567781_0b9b15a16c_k_sm.jpg&quot; width=&quot;180&quot; height=&quot;91&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Убежало молоко.&lt;br /&gt;
+ <link>http://vse.la/stih/marina-borodickaya-ubezhalo-moloko-cenzurirovano</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/marina-borodickaya-ubezhalo-moloko-cenzurirovano&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/26357567781_0b9b15a16c_k_sm.jpg&quot; width=&quot;180&quot; height=&quot;91&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Убежало молоко.&lt;br /&gt;
 Убежало далеко!&lt;br /&gt;
 &lt;em&gt;Из ведра&lt;br /&gt;
 Опорожнилось,&lt;/em&gt;&lt;br /&gt;
@@ -42,13 +42,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey&quot;&gt;Стихи для детей&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 20 Feb 2023 08:20:54 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4742 at https://vse.la</guid>
- <comments>https://vse.la/stih/marina-borodickaya-ubezhalo-moloko-cenzurirovano#comments</comments>
+ <guid isPermaLink="false">4742 at http://vse.la</guid>
+ <comments>http://vse.la/stih/marina-borodickaya-ubezhalo-moloko-cenzurirovano#comments</comments>
 </item>
 <item>
  <title>Считалка кита</title>
- <link>https://vse.la/stih/schitalka-kita</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/schitalka-kita&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/screenshot_20230213_024306.jpg&quot; width=&quot;85&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Раз, два, три, четыре, пять.&lt;/p&gt;
+ <link>http://vse.la/stih/schitalka-kita</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/schitalka-kita&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/screenshot_20230213_024306.jpg&quot; width=&quot;85&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Раз, два, три, четыре, пять.&lt;/p&gt;
 
 &lt;p&gt;Кит решает погулять.&lt;/p&gt;
 
@@ -66,26 +66,26 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey&quot;&gt;Стихи для детей&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey/schitalki&quot;&gt;Считалки&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 12 Feb 2023 23:29:53 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4740 at https://vse.la</guid>
- <comments>https://vse.la/stih/schitalka-kita#comments</comments>
+ <guid isPermaLink="false">4740 at http://vse.la</guid>
+ <comments>http://vse.la/stih/schitalka-kita#comments</comments>
 </item>
 <item>
  <title>Шуточное стихотворение на удостоверении безработного</title>
- <link>https://vse.la/stih/shutochnoe-stihotvorenie-na-udostoverenii-bezrabotnogo</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/shutochnoe-stihotvorenie-na-udostoverenii-bezrabotnogo&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/11880972076_d81cd1c684_k_sm.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я не только в выходные&lt;br /&gt;
+ <link>http://vse.la/stih/shutochnoe-stihotvorenie-na-udostoverenii-bezrabotnogo</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/shutochnoe-stihotvorenie-na-udostoverenii-bezrabotnogo&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/11880972076_d81cd1c684_k_sm.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Я не только в выходные&lt;br /&gt;
 Воскресенье и субботу -&lt;br /&gt;
 В дни недели проходные&lt;br /&gt;
 Отдыхаю без работы.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/yumor&quot;&gt;Юмор&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sat, 30 Jul 2022 09:38:15 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4714 at https://vse.la</guid>
- <comments>https://vse.la/stih/shutochnoe-stihotvorenie-na-udostoverenii-bezrabotnogo#comments</comments>
+ <guid isPermaLink="false">4714 at http://vse.la</guid>
+ <comments>http://vse.la/stih/shutochnoe-stihotvorenie-na-udostoverenii-bezrabotnogo#comments</comments>
 </item>
 <item>
  <title>Рекламные слоганы провайдера интернета</title>
- <link>https://vse.la/stih/reklamnye-slogany-provaydera-interneta</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/reklamnye-slogany-provaydera-interneta&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/42414771161_8ff7248d61_c_sm.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Если связь у вас лагает,&lt;br /&gt;
+ <link>http://vse.la/stih/reklamnye-slogany-provaydera-interneta</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/reklamnye-slogany-provaydera-interneta&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/42414771161_8ff7248d61_c_sm.jpg&quot; width=&quot;93&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Если связь у вас лагает,&lt;br /&gt;
 Почта прайс не доставляет,&lt;br /&gt;
 Браузер фаерфокс висит,&lt;br /&gt;
 И компьютер тормозит,&lt;br /&gt;
@@ -99,13 +99,13 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/reklamnye&quot;&gt;Рекламные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/reklamnye/ob-uslugah&quot;&gt;Об услугах&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 24 Dec 2021 19:15:34 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4556 at https://vse.la</guid>
- <comments>https://vse.la/stih/reklamnye-slogany-provaydera-interneta#comments</comments>
+ <guid isPermaLink="false">4556 at http://vse.la</guid>
+ <comments>http://vse.la/stih/reklamnye-slogany-provaydera-interneta#comments</comments>
 </item>
 <item>
  <title>Эники-беники ели вареники</title>
- <link>https://vse.la/stih/eniki-beniki-eli-vareniki</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/eniki-beniki-eli-vareniki&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/popugai.jpeg&quot; width=&quot;180&quot; height=&quot;101&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Эники-беники ели вареники&lt;br /&gt;
+ <link>http://vse.la/stih/eniki-beniki-eli-vareniki</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/eniki-beniki-eli-vareniki&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/popugai.jpeg&quot; width=&quot;180&quot; height=&quot;101&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Эники-беники ели вареники&lt;br /&gt;
 Эники-беники — клёц!&lt;br /&gt;
 &lt;strong&gt;Вышел советский матрос&lt;/strong&gt;.&lt;/p&gt;
 
@@ -189,26 +189,26 @@ Cахар, омаров, печёнку, конфеты,&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey&quot;&gt;Стихи для детей&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey/schitalki&quot;&gt;Считалки&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 26 Oct 2021 06:49:42 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4500 at https://vse.la</guid>
- <comments>https://vse.la/stih/eniki-beniki-eli-vareniki#comments</comments>
+ <guid isPermaLink="false">4500 at http://vse.la</guid>
+ <comments>http://vse.la/stih/eniki-beniki-eli-vareniki#comments</comments>
 </item>
 <item>
  <title>Январская стужа</title>
- <link>https://vse.la/stih/yanvarskaya-stuzha</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/yanvarskaya-stuzha&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/12721.jpg&quot; width=&quot;143&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Творенье чудное зимы, снежинки расписные.&lt;br /&gt;
+ <link>http://vse.la/stih/yanvarskaya-stuzha</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/yanvarskaya-stuzha&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/12721.jpg&quot; width=&quot;143&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Творенье чудное зимы, снежинки расписные.&lt;br /&gt;
 Сосновый бор, стоит во мгле, как будто снег весь тает.&lt;br /&gt;
 Люблю я зиму как некто и небо в оправданье.&lt;br /&gt;
 Дороги снегом замело, лети моё сознанье.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/peyzazhnaya-lirika&quot;&gt;Пейзажная лирика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 21 Jan 2018 08:58:39 +0000</pubDate>
  <dc:creator>Николай Cтепырев</dc:creator>
- <guid isPermaLink="false">4345 at https://vse.la</guid>
- <comments>https://vse.la/stih/yanvarskaya-stuzha#comments</comments>
+ <guid isPermaLink="false">4345 at http://vse.la</guid>
+ <comments>http://vse.la/stih/yanvarskaya-stuzha#comments</comments>
 </item>
 <item>
  <title>Игорь Крутой</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/sochi.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Прекрасен в Сочи бархатный сезон –&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/sochi.jpg&quot; width=&quot;180&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Прекрасен в Сочи бархатный сезон –&lt;br /&gt;
 Цветы, хиты, сверкающий неон…&lt;br /&gt;
 Встречает песней Новая волна,&lt;br /&gt;
 Я в Олимпийский снова влюблена.&lt;/p&gt;
@@ -240,13 +240,13 @@ Cахар, омаров, печёнку, конфеты,&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam&quot;&gt;Известным людям&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/izvestnym-lyudyam/muzykantam&quot;&gt;Музыкантам&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Sun, 14 May 2017 12:38:16 +0000</pubDate>
  <dc:creator>Юлия Николаева</dc:creator>
- <guid isPermaLink="false">4269 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9#comments</comments>
+ <guid isPermaLink="false">4269 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9#comments</comments>
 </item>
 <item>
  <title>Поздравление с Новым годом работникам культуры</title>
- <link>https://vse.la/stih/pozdravlenie-s-novym-godom-rabotnikam-kultury</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/pozdravlenie-s-novym-godom-rabotnikam-kultury&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/16172107634_4d38ecf480_h_sm.jpg&quot; width=&quot;180&quot; height=&quot;112&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В Новый Год все немного артисты –&lt;br /&gt;
+ <link>http://vse.la/stih/pozdravlenie-s-novym-godom-rabotnikam-kultury</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/pozdravlenie-s-novym-godom-rabotnikam-kultury&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/16172107634_4d38ecf480_h_sm.jpg&quot; width=&quot;180&quot; height=&quot;112&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В Новый Год все немного артисты –&lt;br /&gt;
 Наряжаемся, шутим, поем!..&lt;br /&gt;
 В эту ночь даже строгий министр&lt;br /&gt;
 Возле елки с бенгальским огнем!&lt;/p&gt;
@@ -268,13 +268,13 @@ Cахар, омаров, печёнку, конфеты,&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/prazdniki&quot;&gt;Праздники&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/prazdniki/novyy-god&quot;&gt;Новый год&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Thu, 22 Sep 2016 11:48:46 +0000</pubDate>
  <dc:creator>Викторова Виктория Макаровна</dc:creator>
- <guid isPermaLink="false">3814 at https://vse.la</guid>
- <comments>https://vse.la/stih/pozdravlenie-s-novym-godom-rabotnikam-kultury#comments</comments>
+ <guid isPermaLink="false">3814 at http://vse.la</guid>
+ <comments>http://vse.la/stih/pozdravlenie-s-novym-godom-rabotnikam-kultury#comments</comments>
 </item>
 <item>
  <title>Это город Туапсе!</title>
- <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/tuapse-plyaj.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В феврале цветут фиалки&lt;br /&gt;
+ <link>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/tuapse-plyaj.jpg&quot; width=&quot;180&quot; height=&quot;135&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В феврале цветут фиалки&lt;br /&gt;
 В этом городе в горах.&lt;br /&gt;
 Здесь есть море для рыбалки&lt;br /&gt;
 И езды на глиссерах.&lt;/p&gt;
@@ -291,13 +291,13 @@ Cахар, омаров, печёнку, конфеты,&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/lirika&quot;&gt;Лирика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/lirika/gorodskaya&quot;&gt;Городская&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Fri, 16 Sep 2016 11:29:11 +0000</pubDate>
  <dc:creator>Чистоклетов Анатолий Николаевич</dc:creator>
- <guid isPermaLink="false">3793 at https://vse.la</guid>
- <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5#comments</comments>
+ <guid isPermaLink="false">3793 at http://vse.la</guid>
+ <comments>http://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D1%8D%D1%82%D0%BE-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D1%82%D1%83%D0%B0%D0%BF%D1%81%D0%B5#comments</comments>
 </item>
 <item>
  <title>Считалка На золотом крыльце сидели мишки Гамми, Том и Джерри, Скрудж МакДак и три утёнка. Выходи, ты будешь Понка</title>
- <link>https://vse.la/stih/schitalka-na-zolotom-krylce-sideli-mishki-gammi-tom-i</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/schitalka-na-zolotom-krylce-sideli-mishki-gammi-tom-i&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/ponka-skruj.jpg&quot; width=&quot;88&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;На золотом крыльце сидели&lt;br /&gt;
+ <link>http://vse.la/stih/schitalka-na-zolotom-krylce-sideli-mishki-gammi-tom-i</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/schitalka-na-zolotom-krylce-sideli-mishki-gammi-tom-i&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb180/public/stihi_images/ponka-skruj.jpg&quot; width=&quot;88&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;На золотом крыльце сидели&lt;br /&gt;
 Мишки Гамми, Том и Джерри,&lt;br /&gt;
 Скрудж МакДак и три утёнка,&lt;br /&gt;
 Выходи, ты будешь Понка!&lt;/p&gt;
@@ -328,8 +328,8 @@ Cахар, омаров, печёнку, конфеты,&lt;br /&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey&quot;&gt;Стихи для детей&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/stihi-dlya-detey/schitalki&quot;&gt;Считалки&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 19 Jul 2016 17:32:42 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">3532 at https://vse.la</guid>
- <comments>https://vse.la/stih/schitalka-na-zolotom-krylce-sideli-mishki-gammi-tom-i#comments</comments>
+ <guid isPermaLink="false">3532 at http://vse.la</guid>
+ <comments>http://vse.la/stih/schitalka-na-zolotom-krylce-sideli-mishki-gammi-tom-i#comments</comments>
 </item>
 </channel>
 </rss>

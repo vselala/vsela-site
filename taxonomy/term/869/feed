@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - урок сказки Чуковского</title>
- <link>https://vse.la/teg/urok-skazki-chukovskogo</link>
+ <link>http://vse.la/teg/urok-skazki-chukovskogo</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>План-конспект урока ИЗО. Иллюстрирование к сказкам К. И. Чуковского в графической технике.</title>
- <link>https://vse.la/blog/plan-konspekt-uroka-izo-illyustrirovanie-k-skazkam-k-i</link>
- <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/0_96434_9552f661_xl.jpeg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/0_96434_9552f661_xl.jpeg&quot; width=&quot;330&quot; height=&quot;178&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Автор Ильина Инна. САМАРА 2013.&lt;/p&gt;
+ <link>http://vse.la/blog/plan-konspekt-uroka-izo-illyustrirovanie-k-skazkam-k-i</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://vse.la/images/blogi_images/0_96434_9552f661_xl.jpeg&quot;&gt;&lt;img src=&quot;http://vse.la/images/styles/thumb330/public/blogi_images/0_96434_9552f661_xl.jpeg&quot; width=&quot;330&quot; height=&quot;178&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Автор Ильина Инна. САМАРА 2013.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Тема урока:&lt;/strong&gt; Иллюстрации к сказкам К. И. Чуковского.&lt;/p&gt;
 
@@ -300,8 +300,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/o-poezii&quot;&gt;О поэзии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/pedagogika&quot;&gt;Педагогика&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/urok-skazki-chukovskogo&quot;&gt;урок сказки Чуковского&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Mon, 01 Sep 2014 19:54:27 +0000</pubDate>
  <dc:creator>Анатолий Власов</dc:creator>
- <guid isPermaLink="false">737 at https://vse.la</guid>
- <comments>https://vse.la/blog/plan-konspekt-uroka-izo-illyustrirovanie-k-skazkam-k-i#comments</comments>
+ <guid isPermaLink="false">737 at http://vse.la</guid>
+ <comments>http://vse.la/blog/plan-konspekt-uroka-izo-illyustrirovanie-k-skazkam-k-i#comments</comments>
 </item>
 </channel>
 </rss>

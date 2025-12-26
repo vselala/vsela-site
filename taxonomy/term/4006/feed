@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="http://vse.la"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
  <title>vse.la - фэнтези</title>
- <link>https://vse.la/teg/fentezi</link>
+ <link>http://vse.la/teg/fentezi</link>
  <description></description>
  <language>ru</language>
 <item>
  <title>Али-Сейша. Гимнастика в Дубае</title>
- <link>https://vse.la/proza/ali-seysha-gimnastika-v-dubae</link>
+ <link>http://vse.la/proza/ali-seysha-gimnastika-v-dubae</link>
  <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;В одном городе жила девочка. У неё были родители, братья и сестра. Девочка хорошо училась в школе и была очень активной и целеустремлённой. Она любила заниматься гимнастикой и три раза в неделю ездила на тренировки.&lt;/p&gt;
 
 &lt;p&gt;Так как девочка хорошо училась и была послушной, то мама разрешала ей заниматься спортом, чтобы развлечься и быть здоровой. Но у девочки была мечта попасть на международные соревнования в другую страну, увидеть спортсменок из других стран. Благодаря силе воли и напряжённой работе на тренировках она становилась хорошей гимнасткой, достигая хороших результатов. Ей также нравилось видеться с другими девочками, разговаривать на разные темы, часто они гуляли в центре своего небольшого города.&lt;/p&gt;
@@ -62,8 +62,8 @@
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/ali-seysha&quot;&gt;Али-Сейша&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/light-rain-pivot&quot;&gt;Light Rain Pivot&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/fentezi&quot;&gt;фэнтези&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/fenteziynye-rasskazy&quot;&gt;фэнтезийные рассказы&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tema field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/proza/rasskazy&quot;&gt;Рассказы&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
  <pubDate>Tue, 27 Dec 2022 15:55:58 +0000</pubDate>
  <dc:creator>Кіт 1</dc:creator>
- <guid isPermaLink="false">4724 at https://vse.la</guid>
- <comments>https://vse.la/proza/ali-seysha-gimnastika-v-dubae#comments</comments>
+ <guid isPermaLink="false">4724 at http://vse.la</guid>
+ <comments>http://vse.la/proza/ali-seysha-gimnastika-v-dubae#comments</comments>
 </item>
 </channel>
 </rss>
