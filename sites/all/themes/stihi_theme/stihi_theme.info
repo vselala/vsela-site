@@ -1,0 +1,32 @@
+name = Stihi Theme
+description = Media responsive theme is a responsive theme its perfect for all sorts of corporate and small business websites: for support <b>zymphonies@gmail.com, www.zymphonies.com</b>
+core = 7.x
+
+engine = phptemplate
+stylesheets[all][] = style.css
+stylesheets[all][] = media.css
+
+regions[user_menu]  	= User menu
+regions[sidebar_first]  = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[sidebar_big]    = Big Sidebar
+regions[content]        = Content
+regions[content_top]    = Content Top
+regions[footer]         = Footer
+
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = comment_user_verification
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+
+settings[breadcrumbs]  = 0
+settings[social_links]  = 0
+; Information added by Drupal.org packaging script on 2014-04-07
+version = "7.x-1.1"
+core = "7.x"
+datestamp = "1396895951"

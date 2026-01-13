@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - Немецкий</title>
+ <link>https://vse.la/yazyk/nemeckiy</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Mitternachtsformel (a-b-c-Formel) (Diskriminante)</title>
+ <link>https://vse.la/dorfuchs/mitternachtsformel-b-c-formel-diskriminante</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Es kann durchaus manchmal vorkommen im Leben&lt;br /&gt;
+da hat man eine quadratische Gleichung gegeben,&lt;br /&gt;
+die man umstellen will, doch die Schwierigkeit dabei&lt;br /&gt;
+ist, manchmal gibts gar keine Lösung, manchmal eine, manchmal zwei&lt;br /&gt;
+falls du das nicht sofort siehst, ist das vollkommen OK.&lt;br /&gt;
+Mach daraus 0 = ax²+bx+c&lt;br /&gt;
+und dann gibt es da eine Formel und, wenn man die kann,&lt;br /&gt;
+wendet man die an und das x ist dann:&lt;/p&gt;
+
+&lt;p&gt;( -b ± √( b²-4ac ) ) / 2a&lt;/p&gt;
+
+&lt;p&gt;durch das Plusminus kommen bis zu 2 Lösungen zustande,&lt;br /&gt;
+aber, wie viele es denn wirklich sind, zeigt dir die Diskriminante.&lt;br /&gt;
+Das ist hier der Radikand, also das, was unter der Wurzel steht,&lt;br /&gt;
+was ja, wenn das negativ ist, dann zumindest mit den reellen Zahlen nicht geht.&lt;/p&gt;
+
+&lt;p&gt;Und, wenn das 0 ist, gibts nur eine Lösung - das ist jetzt nicht schwer,&lt;br /&gt;
+doch wo kommt denn eigentlich die ganze Formel hier her?&lt;br /&gt;
+Tja: Man rechnet, wenn man so ne Gleichung ganz allgemein vor sich hat&lt;br /&gt;
+minus c, mal 4a und dann plus b Quadrat,&lt;/p&gt;
+
+&lt;p&gt;denn jetzt kann man auf der linken Seite einen Zaubertrick machen&lt;br /&gt;
+und diesen Term mit Hilfe der 1. Binomischen Formel vereinfachen.&lt;br /&gt;
+Überlegt man, was passiert, wenn man quadriert, wird man sehen:&lt;br /&gt;
+Egal ob Plus oder Minus - es bleibt danach das selbe stehen.&lt;/p&gt;
+
+&lt;p&gt;Da ich an dieser Stelle beide Fälle mit beachten muss,&lt;br /&gt;
+nehme ich mir vor die Wurzel einfach noch ein Plusminus.&lt;br /&gt;
+Rechne ich jetzt minus b, dann kann ich ziemlich einfach sehen:&lt;br /&gt;
+Teile ich noch durch 2a, bleibt für das x am Ende stehen:&lt;/p&gt;
+
+&lt;p&gt;( -b ± √( b²-4ac ) ) / 2a&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/dorfuchs&quot;&gt;DorFuchs&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/2013&quot;&gt;2013&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/nemeckiy&quot;&gt;Немецкий&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/rep&quot;&gt;Рэп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/stilno&quot;&gt;Стильно&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/plus-minus&quot;&gt;plus minus&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/otkrovenie&quot;&gt;Откровение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/79899045@N05/14390706142/in/photostream/&quot; target=&quot;_blank&quot;&gt;♥Akuma-Tenshi♥ Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 14 Apr 2023 08:37:52 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4756 at https://vse.la</guid>
+ <comments>https://vse.la/dorfuchs/mitternachtsformel-b-c-formel-diskriminante#comments</comments>
+</item>
+<item>
+ <title>Traum</title>
+ <link>https://vse.la/cro/traum</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Oh Baby, nimm meine Hand,&lt;br /&gt;
+ich hab alles schon gepackt,&lt;br /&gt;
+komm wir beide gehen weg von hier...&lt;/p&gt;
+
+&lt;p&gt;Sieh, der Jet ist getankt,&lt;br /&gt;
+ich hab Geld auf der Bank&lt;br /&gt;
+und auch jede Menge Plätze hier..&lt;/p&gt;
+
+&lt;p&gt;Und immer, wenn du einsam bist,&lt;br /&gt;
+komm ich rum, du musst nie wieder alleine sein...&lt;br /&gt;
+Denn immer, wenn ich dich seh,&lt;br /&gt;
+macht es in mir tik tik boom so wie Dynamite...&lt;/p&gt;
+
+&lt;p&gt;Und alle anderen Girls wären gern wie du...&lt;br /&gt;
+Denn du bist wunderschön und gefährlich klug...&lt;br /&gt;
+Und ich hoff, dass du mich siehst, ich bin verliebt&lt;br /&gt;
+und hab keinen Plan, ob es dich gibt...&lt;/p&gt;
+
+&lt;p&gt;Doch manchmal träum ich nur von dir,&lt;br /&gt;
+bitte sag, was muss ich tun,&lt;br /&gt;
+dass du mich hörst,&lt;br /&gt;
+Denn ich wär heut so gern bei dir,&lt;br /&gt;
+und ich glaub, ich fänd es cool,&lt;br /&gt;
+wenn du mir gehörst&lt;/p&gt;
+
+&lt;p&gt;Ich fühl mich so allein,&lt;br /&gt;
+weiß nicht, ob&#039;s dich gibt.&lt;br /&gt;
+Und egal, wie laut ich schrei,&lt;br /&gt;
+sie hört mich nicht.&lt;br /&gt;
+Doch sie ist gerade irgendwo und denkt vielleicht an mich.&lt;br /&gt;
+Hey Baby bitte schreib, wenn es dich gibt...&lt;/p&gt;
+
+&lt;p&gt;Jeden Tag unterwegs,&lt;br /&gt;
+und ich seh viele Girls,&lt;br /&gt;
+aber Baby ey, ich find dich nicht...&lt;/p&gt;
+
+&lt;p&gt;Und es gibt so viele Girls,&lt;br /&gt;
+die behaupten, sie wären du,&lt;br /&gt;
+doch ich sage: &quot;Mann, das stimmt doch nicht!&quot;&lt;/p&gt;
+
+&lt;p&gt;Doch ich hab echt keinen Plan,&lt;br /&gt;
+und ich frag mich,&lt;br /&gt;
+ob du überhaupt meine Sprache sprichst...&lt;/p&gt;
+
+&lt;p&gt;Doch du bist eine von denen,&lt;br /&gt;
+die man nicht suchen darf,&lt;br /&gt;
+sondern irgendwann mal auf der Straße trifft...&lt;/p&gt;
+
+&lt;p&gt;Und Baby ich schrieb jedes Lied für dich...&lt;br /&gt;
+Doch bin alleine, denn sie sieht mich nicht...&lt;br /&gt;
+Ich hoff, dass es geschieht, ich bin verliebt,&lt;br /&gt;
+doch hab keinen Plan, ob es dich gibt...&lt;/p&gt;
+
+&lt;p&gt;Doch manchmal träum ich nur von dir,&lt;br /&gt;
+bitte sag was muss ich tun,&lt;br /&gt;
+dass du mich hörst,&lt;br /&gt;
+Denn ich wär heut so gern bei dir,&lt;br /&gt;
+und ich glaub, ich fänd es cool,&lt;br /&gt;
+wenn du mir gehörst.&lt;/p&gt;
+
+&lt;p&gt;Ich fühl mich so allein,&lt;br /&gt;
+weiß nicht, ob&#039;s dich gibt.&lt;br /&gt;
+Und egal wie laut ich schrei,&lt;br /&gt;
+sie hört mich nicht.&lt;br /&gt;
+Doch sie ist gerade irgendwo&lt;br /&gt;
+und denkt vielleicht an mich.&lt;br /&gt;
+Hey Baby, bitte schreib, wenn es dich gibt...&lt;/p&gt;
+
+&lt;p&gt;Baby, warte nicht so lange,&lt;br /&gt;
+denn ich bin nicht gern alleine&lt;br /&gt;
+und bemerke jede Nacht,&lt;br /&gt;
+mein Bett ist zu groß!&lt;br /&gt;
+Deshalb hätt ich gerne dich an meiner Seite,&lt;br /&gt;
+ich kann nur noch an dich denken,&lt;br /&gt;
+Mann, es lässt mich einfach nicht los!&lt;/p&gt;
+
+&lt;p&gt;Und wenn du mich da draußen gerade hörst,&lt;br /&gt;
+dann bitte warte kurz auf mich,&lt;br /&gt;
+ich bin direkt bereit und fahr los!&lt;/p&gt;
+
+&lt;p&gt;Doch wenn nicht, geh ich einsam ins Bett&lt;br /&gt;
+und hoff, dass ich gleich wieder penn,&lt;/p&gt;
+
+&lt;p&gt;Denn manchmal träum ich nur von dir,&lt;br /&gt;
+bitte sag, was muss ich tun,&lt;br /&gt;
+dass du mich hörst,&lt;br /&gt;
+Denn ich wär heut so gern bei dir,&lt;br /&gt;
+und ich glaub, ich fänd es cool,&lt;br /&gt;
+wenn du mir gehörst.&lt;/p&gt;
+
+&lt;p&gt;Ich fühl mich so allein,&lt;br /&gt;
+weiß nicht, ob&#039;s dich gibt.&lt;br /&gt;
+Und egal wie laut ich schrei,&lt;br /&gt;
+sie hört mich nicht.&lt;br /&gt;
+Doch sie ist gerade irgendwo und denkt vielleicht an mich.&lt;br /&gt;
+Hey Baby, bitte schreib, wenn es dich gibt...&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/cro&quot;&gt;Cro&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/2014&quot;&gt;2014&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/nemeckiy&quot;&gt;Немецкий&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubovnye-igry&quot;&gt;Любовные игры&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/v-otnosheniyah&quot;&gt;В отношениях&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vlechenie&quot;&gt;Влечение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/volya&quot;&gt;Воля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/druzhba&quot;&gt;Дружба&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/interes&quot;&gt;Интерес&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/svoboda&quot;&gt;Свобода&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://madmoiselleclau.deviantart.com/art/Princess-Serenity-152875320&quot; target=&quot;_blank&quot;&gt;Madmoiselleclau Deviantart&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 10 Dec 2016 16:09:13 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4016 at https://vse.la</guid>
+ <comments>https://vse.la/cro/traum#comments</comments>
+</item>
+<item>
+ <title>Im Abendrot (Franz Schubert)</title>
+ <link>https://vse.la/fritz-wunderlich/im-abendrot-franz-schubert</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;O wie schön ist deine Welt,&lt;br /&gt;
+Vater, wenn sie golden strahlet!&lt;br /&gt;
+Wenn dein Glanz herniederfällt&lt;br /&gt;
+Und den Staub mit Schimmer malet,&lt;br /&gt;
+Wenn das Rot, das in der Wolke blinkt,&lt;br /&gt;
+In mein stilles Fenster sinkt!&lt;br /&gt;
+Könnt ich klagen, könnt ich zagen?&lt;br /&gt;
+Irre sein an dir und mir?&lt;br /&gt;
+Nein, ich will im Busen tragen&lt;br /&gt;
+Deinen Himmel schon allhier.&lt;br /&gt;
+Und dies Herz, eh&#039; es zusammenbricht,&lt;br /&gt;
+|: Trinkt noch Glut und schlürft noch Licht. :|&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/fritz-wunderlich&quot;&gt;Fritz Wunderlich&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/1822&quot;&gt;1822&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/nemeckiy&quot;&gt;Немецкий&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/vokal&quot;&gt;Вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/priroda&quot;&gt;Природа&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-i-mir&quot;&gt;Я и мир&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/abend&quot;&gt;abend&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vdohnovenie&quot;&gt;Вдохновение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/otreshyonnost&quot;&gt;Отрешённость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/pokoy&quot;&gt;Покой&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/svoboda&quot;&gt;Свобода&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-istochnik field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.musicanet.org/robokopp/Lieder/abendrot.html&quot;&gt;musicanet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://moussee.deviantart.com/art/evening-330949771&quot; target=&quot;_blank&quot;&gt;moussee Deviantart&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 18 Nov 2016 03:37:22 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">3974 at https://vse.la</guid>
+ <comments>https://vse.la/fritz-wunderlich/im-abendrot-franz-schubert#comments</comments>
+</item>
+<item>
+ <title>Federkleid</title>
+ <link>https://vse.la/faun/federkleid</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;[Strophe 1]&lt;br /&gt;
+Über die Heide, im ersten morgendlichen Schein&lt;br /&gt;
+Ziehen die Vögel, wo mögen sie wohl morgen sein&lt;br /&gt;
+Ich folge dem Rauschen der Schwingen in das stille Moor&lt;br /&gt;
+Uralte Lieder dringen aus den Nebeln vor&lt;/p&gt;
+
+&lt;p&gt;[Refrain]&lt;br /&gt;
+Komm und fliege mit uns fort!&lt;br /&gt;
+Lass den Wind dich tragen&lt;br /&gt;
+Weit fort von diesem Ort!&lt;br /&gt;
+Komm und flieg so hoch du kannst&lt;br /&gt;
+Lass uns die Himmel jagen&lt;br /&gt;
+Im Tanz!&lt;/p&gt;
+
+&lt;p&gt;[Strophe 2]&lt;br /&gt;
+Nebel wie Seide streifen meine Haut so kühl&lt;br /&gt;
+Weiter und weiter, wo find ich meiner Sehnsucht Ziel&lt;br /&gt;
+Ich schließe die Augen und mir sprießt ein Federkleid&lt;br /&gt;
+Schon spür ich den Wind und mache meine Flügel weit&lt;/p&gt;
+
+&lt;p&gt;[Refrain]&lt;br /&gt;
+Komm und fliege mit uns fort!&lt;br /&gt;
+Lass den Wind dich tragen&lt;br /&gt;
+Weit fort von diesem Ort!&lt;br /&gt;
+Komm und flieg so hoch du kannst&lt;br /&gt;
+Lass uns die Himmel jagen&lt;br /&gt;
+Im Tanz!&lt;/p&gt;
+
+&lt;p&gt;Die Himmel in dir, wie kann ich sie wissen, kann sie sehn&lt;br /&gt;
+Wir tanzen im Fluge wie Sterne, die ihrer Wege zieh`n&lt;/p&gt;
+
+&lt;p&gt;[Refrain]&lt;br /&gt;
+Komm und fliege mit uns fort!&lt;br /&gt;
+Lass den Wind dich tragen&lt;br /&gt;
+Weit fort von diesem Ort!&lt;br /&gt;
+Komm und flieg so hoch du kannst&lt;br /&gt;
+Lass uns die Himmel jagen&lt;br /&gt;
+Im Tanz!&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/faun&quot;&gt;Faun&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/2016&quot;&gt;2016&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/nemeckiy&quot;&gt;Немецкий&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/rok&quot;&gt;Рок&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-s-toboy&quot;&gt;Я с тобой&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/fliege&quot;&gt;fliege&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/volya&quot;&gt;Воля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/neterpenie&quot;&gt;Нетерпение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://kamarza.deviantart.com/art/Someday-I-ll-be-a-tree-too-316335705&quot; target=&quot;_blank&quot;&gt;Kamarza Deviantart&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 16 Nov 2016 20:24:45 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">3971 at https://vse.la</guid>
+ <comments>https://vse.la/faun/federkleid#comments</comments>
+</item>
+</channel>
+</rss>

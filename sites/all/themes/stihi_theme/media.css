@@ -1,0 +1,110 @@
+@media screen and (min-width: 960px) {
+  .one-sidebar.sidebar-first.page-node #content #post-content {margin-right: 10%;}
+}
+
+@media screen and (max-width: 1152px) {
+  .totop {bottom:40px;right:0px;}
+  #wrapper {max-width:960px;}
+  #top-area .column:last-child {margin-right:0;}
+  #copyright {padding: 0 10px;}
+}
+
+@media screen and (max-width: 960px) {
+  .totop {bottom:15px;width:80px;height:35px;line-height:35px;font-size:15px;}
+  #main-menu .lang {padding:0 5px 0 0;}
+  #main-menu .lang img {height:14px;}
+  #sidebar-first, #sidebar-second, #head, #foot {padding:0 3.52%;}
+  .node-type-lyrics .field-name-field-image {float: none;}
+  .node-type-lyrics-translate .field-name-field-image {float: none;}
+  #top-area .column{ width:32%; }
+  #sidebar-first, #sidebar-second, #head, #foot {padding: 0 1.5%;}
+  .region-front-welcome {margin:1% 2%;}
+  .block {margin-bottom:2%;}
+  .content-sidebar-wrap #content {margin:0;}
+}
+
+@media screen and (max-width: 720px) {
+.field-name-field-image { max-width: 80%; float: none; margin: 0 auto; }
+}
+
+@media screen and (max-width: 640px) {
+  .totop {width:70px;height:25px;line-height:25px;}
+  body.sidebar-first #header_wrapper, body.two-sidebars #header_wrapper, #sidebars, #content {width:100%;}
+  body.two-sidebars #content {margin-right: inherit;}
+  body.two-sidebars #sidebar-second {position: inherit; right: inherit;}
+  .node-type-lyrics #sidebars {width:100%; float: none;}
+  .node-type-lyrics-translate #sidebars {width:100%; float: none;}
+  .top_left {display:inline-block;}
+  #logo {float:left;margin:0;}
+  .mobmenu {display:inline-block;}
+  .region-user-menu {clear:none;}
+  body:not(.node-type-lyrics,.node-type-lyrics-translate) .region-user-menu {display:none;}
+  /*glavnye knopki*/
+  #header .block  {width:inherit;}
+  #block-block-30 h3 { display: inline-block;}
+  #block-block-30 h3 a, #block-block-30 h3.blogbut a, #block-my-in-theme h3 a {padding: 0 8px;}
+
+  #sidebar-first .block a, #sidebar-second .block a {display:block;margin-bottom: 7px;}
+  #sidebar-first .block, #sidebar-second .block {margin-bottom: 1%;}
+  #block-block-16 ul li  {display:inline-block;padding: 2px 8px;}
+  #block-block-10 .content div {display:inline-block;padding: 2px 8px;}
+  .view-pesni-ispolnitelya .view-content div { display: inline-block; max-width: 280px; margin-right: 10px; text-align: center;}
+  #copyright{ padding:0 12px;}
+
+  body {margin-top:0;}
+  .front .content-sidebar-wrap{margin:0;}
+  #site-title, #site-description {margin:0;line-height:1.62em;}
+  #site-title {padding-top:18px;}
+  #site-description {padding-bottom:18px;}
+  #block-views-pop-lyrics-block h2, #block-views-pop-stihi-block h2,
+    #block-views-pop-lyrics-block h2 a, #block-views-pop-stihi-block h2 a {font-size:1.4em;margin:10px 5px;}
+  .content-sidebar-wrap, #content, #sidebar-first, #sidebar-second {float:none;width:100% !important;}
+  #sidebar-first {clear:both;}
+  .content-sidebar-wrap, #sidebar-first, #sidebar-second {float:none;width:auto;}
+  .content-sidebar-wrap #content {float:left;width:auto;}
+  #sidebar-first .block, #sidebar-second .block, #footer-area .column, #top-area .column {
+    float:none !important;
+    width:auto !important;
+    margin-left:0;
+  }
+  #sidebar-first {clear:both;}
+  #footer-area .column, #top-area .column {margin:10px;}
+  #top-area .column:first-child, #footer-area .column:first-child {margin:10px;}
+  .copyright, .credits {float:none;text-align:left;}
+}
+
+
+@media screen and (max-width: 500px) {
+   #block-views-pop-stihi-block {display:block;float:none;margin-right:0;}
+   .views-teaser {width:100%; max-width: 100%;display:block;}
+   .views-teaser img {max-height:140px;}
+   .view-pop-lyrics h2 {text-align:center;}
+}
+
+@media screen and (max-width: 440px) {
+  .top_left, .top_right, .search_block, .region-user-menu{ /*width: 100%;*/ }
+  #logo { /*text-align: center; width: 100%;*/ }
+  #site-title{ /*width: 100%;*/ }
+  #site-title a {width:100%;text-align:center;}
+  .top_right .region-user-menu ul.menu {float:none;}
+  .block-menu ul {float:none;text-align:center;}
+  .top_right .region-search {width:100%;padding:0 31%;}
+  input.form-text, select.form-select {width:93%;}
+  textarea.form-textarea {width:100%;}
+  .block > h2 {font-size:24px;}
+  #top-area h2 {font-size:14px;}
+  #copyright {padding:0 5px;}
+  #header {}
+  #logo {text-align:center;}
+  #logo img {max-width:85%;text-align:center;}
+  #site-title {
+    font-size: 18px;
+    display: inline-block;
+    margin: 10px 0 0 0;
+    padding: 0;
+  }
+  #site-description {padding-bottom:5px;font-size:10px;}
+  .menu_wrapper{margin-top:0px;}
+  .node {margin-top:5px;}
+
+}
