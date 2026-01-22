@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - Узбекский</title>
+ <link>https://vse.la/yazyk/uzbekskiy</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Kelibdi</title>
+ <link>https://vse.la/yalla/kelibdi</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Yor uyiga kelin poshsho ibo bilan kelibdi,&lt;br /&gt;
+Kuyov to‘ra yuragida shifo bilan kelibdi.&lt;/p&gt;
+
+&lt;p&gt;Asta-asta qadam bosar, qutlug‘ bo‘lsin qadamlar,&lt;br /&gt;
+Asta-asta qadam bosar, qutlug‘ bo‘lsin qadamlar,&lt;br /&gt;
+Hayo bilan, xirom aylab, humo bilan kelibdi.&lt;/p&gt;
+
+&lt;p&gt;Kelibdi, kelibdi, humo bilan kelibdi,&lt;br /&gt;
+Kelibdi-yo, kelibdi, humo bilan kelibdi.&lt;/p&gt;
+
+&lt;p&gt;To‘y oqshomi xonadonga nur taralib bir zumda,&lt;br /&gt;
+To‘y oqshomi xonadonga nur taralib bir zumda,&lt;br /&gt;
+Go‘yo tunda quyosh chiqib, ziyo bilan kelibdi.&lt;br /&gt;
+Nazokati, chiroyi yoshligiga nur qo‘shib,&lt;br /&gt;
+Andisha-yu odob degan sarpo bilan kelibdi.&lt;/p&gt;
+
+&lt;p&gt;Kelibdi, kelibdi, humo bilan kelibdi,&lt;br /&gt;
+Kelibdi-yo, kelibdi, humo bilan kelibdi.&lt;/p&gt;
+
+&lt;p&gt;Uzukka ko‘z solgan misol kuyov bola yonida,&lt;br /&gt;
+Go‘yo kuyov Tohir bo‘lib, Zuhro bilan kelibdi.&lt;br /&gt;
+Sevgi baxtin ko‘z-ko‘z etar, ko‘z tegmasin baxtiga,&lt;br /&gt;
+Sevgi baxtin ko‘z-ko‘z etar, ko‘z tegmasin baxtiga,&lt;br /&gt;
+Boshiga baxt qushi qo‘nib, humo bilan kelibdi.&lt;/p&gt;
+
+&lt;p&gt;Kelibdi, kelibdi, humo bilan kelibdi,&lt;br /&gt;
+Kelibdi-yo, kelibdi, humo bilan kelibdi.&lt;/p&gt;
+
+&lt;p&gt;Bu dargohdan ketmas bo‘lib kelgan bo‘lsin, e, Mo‘min,&lt;br /&gt;
+Bu dargohdan ketmas bo‘lib kelgan bo‘lsin, e, Mo‘min,&lt;br /&gt;
+Yuragida ahdu paymon, vafo bilan kelibdi.&lt;br /&gt;
+Nazokati, chiroyi yoshligiga nur qo‘shib,&lt;br /&gt;
+Andisha-yu odob degan sarpo bilan kelibdi.&lt;/p&gt;
+
+&lt;p&gt;Kelibdi, kelibdi, humo bilan kelibdi,&lt;br /&gt;
+Kelibdi-yo, kelibdi, humo bilan kelibdi&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yalla&quot;&gt;Ялла&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/ziyoda&quot;&gt;Ziyoda&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/uzbekskiy&quot;&gt;Узбекский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop-rok&quot;&gt;Поп-рок&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/semya&quot;&gt;Семья&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/nevesta&quot;&gt;Невеста&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/svadba&quot;&gt;Свадьба&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kelibdi&quot;&gt;kelibdi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/zadumchivost&quot;&gt;Задумчивость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/sozercanie&quot;&gt;Созерцание&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/torzhestvennost&quot;&gt;Торжественность&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/umirotvorenie&quot;&gt;Умиротворение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-istochnik field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://lyricstranslate.com/ru/ziyoda-kelibdi-kelibdi-lyrics.html&quot;&gt;LyricsTranslate&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/busymum909/7738869688/&quot; target=&quot;_blank&quot;&gt;Valérie &quot;BusyMum&quot; Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 08 Jan 2023 15:18:27 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4729 at https://vse.la</guid>
+ <comments>https://vse.la/yalla/kelibdi#comments</comments>
+</item>
+<item>
+ <title>Кз бола</title>
+ <link>https://vse.la/stanislava-koceva/kz-bola</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;исдейди&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stanislava-koceva&quot;&gt;Станислава Коцева&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/yalla&quot;&gt;Ялла&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/uzbekskiy&quot;&gt;Узбекский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/semya&quot;&gt;Семья&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/118655945@N05/page2&quot; target=&quot;_blank&quot;&gt;dreamdust2022 Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 09 Oct 2022 10:45:02 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4720 at https://vse.la</guid>
+ <comments>https://vse.la/stanislava-koceva/kz-bola#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - Коллектор</title>
+ <link>https://vse.la/teg/kollektor</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Коллектор.</title>
+ <link>https://vse.la/stih/kollektor</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/stih/kollektor&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/i136589-contentimage1_2-original.jpg&quot; width=&quot;180&quot; height=&quot;137&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Когда стесненным жизнью лицам&lt;/p&gt;
+
+&lt;p&gt;Кредит не в силах погасить,&lt;/p&gt;
+
+&lt;p&gt;Тогда коллектор в дверь стучится;&lt;/p&gt;
+
+&lt;p&gt;Он должен четко объяснить,&lt;/p&gt;
+
+&lt;p&gt;В доступной форме и тактично,&lt;/p&gt;
+
+&lt;p&gt;Без предъявления вины,&lt;/p&gt;
+
+&lt;p&gt;Что штраф назначен им приличный,&lt;/p&gt;
+
+&lt;p&gt;Что платежом долги красны.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/professii&quot;&gt;Профессии&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Aug 2014 21:51:56 +0000</pubDate>
+ <dc:creator>Анатолий Власов</dc:creator>
+ <guid isPermaLink="false">560 at https://vse.la</guid>
+ <comments>https://vse.la/stih/kollektor#comments</comments>
+</item>
+</channel>
+</rss>

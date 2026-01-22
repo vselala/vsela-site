@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - сверчок</title>
+ <link>https://vse.la/teg/sverchok</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>За печкою поёт сверчок</title>
+ <link>https://vse.la/kolybelnye/za-pechkoyu-poyot-sverchok</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;За печкою поет сверчок,&lt;br /&gt;
+Угомонись, не плачь, сынок.&lt;br /&gt;
+Вон, за окном морозная&lt;br /&gt;
+Светлая ночка звёздная.&lt;br /&gt;
+Светлая ночка звёздная.&lt;br /&gt;
+Светлая ночка звёздная.&lt;/p&gt;
+
+&lt;p&gt;Что ж, коли нету хлебушка?&lt;br /&gt;
+Глянь-ка на чисто небушко,&lt;br /&gt;
+Видишь, сияют звёздочки,&lt;br /&gt;
+Месяц плывет на лодочке.&lt;br /&gt;
+Месяц плывет на лодочке.&lt;br /&gt;
+Месяц плывет на лодочке.&lt;/p&gt;
+
+&lt;p&gt;Ты спи, а я спою тебе,&lt;br /&gt;
+Как хорошо там на небе,&lt;br /&gt;
+Как нас с тобою серый кот&lt;br /&gt;
+В санках на месяц увезёт.&lt;br /&gt;
+В санках на месяц увезёт.&lt;br /&gt;
+В санках на месяц увезёт.&lt;/p&gt;
+
+&lt;p&gt;Будут орехи, сладости,&lt;br /&gt;
+Будут забавы, радости,&lt;br /&gt;
+Будут сапожки новые&lt;br /&gt;
+И пряники медовые.&lt;br /&gt;
+И пряники медовые.&lt;br /&gt;
+И пряники медовые.&lt;/p&gt;
+
+&lt;p&gt;Ну отдохни хоть капельку,&lt;br /&gt;
+Дам золотую сабельку,&lt;br /&gt;
+Только усни скорей, сынок,&lt;br /&gt;
+Неугомонный мой свеpчок.&lt;br /&gt;
+Неугомонный мой свеpчок.&lt;br /&gt;
+Неугомонный мой свеpчок.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/kolybelnye&quot;&gt;Колыбельные&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/narodnaya-pesnya&quot;&gt;Народная песня&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/kolybelnye&quot;&gt;Колыбельные&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/kolybelnaya&quot;&gt;колыбельная&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/sverchok&quot;&gt;сверчок&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/son&quot;&gt;сон&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/noch&quot;&gt;ночь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/zvezdy&quot;&gt;звезды&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/pokoy&quot;&gt;Покой&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/sozercanie&quot;&gt;Созерцание&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/tweeling17/24116281238/&quot; target=&quot;_blank&quot;&gt;Tweeling17 Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-vozrast field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Возраст:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/vozrast/3&quot;&gt;3&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/vozrast/5&quot;&gt;5&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 26 May 2022 08:27:37 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4680 at https://vse.la</guid>
+ <comments>https://vse.la/kolybelnye/za-pechkoyu-poyot-sverchok#comments</comments>
+</item>
+</channel>
+</rss>

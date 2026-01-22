@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - Диско</title>
+ <link>https://vse.la/muzykalnyy-zhanr/disko</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Бабка Ёжка, выгляни в окошко!</title>
+ <link>https://vse.la/pesni-malysham/babka-yozhka-vyglyani-v-okoshko</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;На неведомых дорожках,&lt;br /&gt;
+Где растёт дремучий лес,&lt;br /&gt;
+Избушка там на курьих ножках&lt;br /&gt;
+Да сосны вьются до небес.&lt;br /&gt;
+Кто в избушке живет?&lt;br /&gt;
+Песню звонкую поет?&lt;br /&gt;
+Там Бабушка Яга —&lt;br /&gt;
+Костяная нога!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Припев:&lt;/strong&gt;&lt;br /&gt;
+Бабка Ёжка, выгляни в окошко!&lt;br /&gt;
+Бабка Ёжка, выгляни в окошко!&lt;br /&gt;
+Не боимся мы тебя!&lt;br /&gt;
+Тру-ля-ля, тру-ля-ля!&lt;br /&gt;
+Выходи скорей гулять,&lt;br /&gt;
+Будем петь и танцевать!&lt;/p&gt;
+
+&lt;p&gt;Ох, и скучно же старушке&lt;br /&gt;
+Жить одной в такой глуши,&lt;br /&gt;
+Когда вокруг одни лягушки&lt;br /&gt;
+И растут лишь камыши!&lt;br /&gt;
+Вот бы было хорошо,&lt;br /&gt;
+Кабы в гости кто пришел ко мне,&lt;br /&gt;
+К бабушке Яге —&lt;br /&gt;
+Костяной ноге!&lt;/p&gt;
+
+&lt;p&gt;(Припев)&lt;/p&gt;
+
+&lt;p&gt;Бабка Ёжка, выгляни в окошко!&lt;br /&gt;
+Бабка Ёжка, выгляни в окошко!&lt;br /&gt;
+Вы не бойтеся меня!&lt;br /&gt;
+Тру-ля-ля, тру-ля-ля!&lt;br /&gt;
+Я не стану вас пугать,&lt;br /&gt;
+Буду петь и танцевать!&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/pesni-malysham&quot;&gt;Песни малышам&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/pesni-na-detskiy-prazdnik&quot;&gt;Песни на детский праздник&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/disko&quot;&gt;Диско&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/baba-yaga&quot;&gt;Баба Яга&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/vesyolye-detskie-pesni&quot;&gt;весёлые детские песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/pesni-na-detskiy-prazdnik&quot;&gt;песни на детский праздник&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vesele&quot;&gt;Веселье&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/druzhba&quot;&gt;Дружба&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/pure_embers/7564158992/in/photolist-cwqhWm-28Vs3Lq-s11ahK-29DZ12u-2ksMis9-goZX3x-2dsrgZK-6x8Wab-QYMijr-9mfbXM-dzEcdX-h9mdEt-2cqAiAZ-5ZHfWy-bVHnr9-df5Zbd-T2QCVj-2dsqP2g-sjCBmK-iKiZVN-x1YyZt-phV8uM-2ksHA2r-eXz21b-Eems8C-78NXLH-29MTRqd-CTWrUb-NsdE2o-5ViwA4-2dKgoZ3-iBh5DX-QYMfE8-2neK2jG-Y2P4a5-tunzwV-5x8RSz-NEMrSk-CF1VTK-22kyLoj-cyfcyJ-nH6XVG-dw5Xcn-26tBxX5-inT5wr-hTzFDH-oSfRX4-BHv6XG-bknbSS-ERJQaF&quot; target=&quot;_blank&quot;&gt;pure_embers Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-vozrast field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Возраст:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/vozrast/3&quot;&gt;3&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/vozrast/5&quot;&gt;5&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/vozrast/8&quot;&gt;8&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/vozrast/10&quot;&gt;10&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;5600&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 25 May 2022 17:27:58 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4678 at https://vse.la</guid>
+ <comments>https://vse.la/pesni-malysham/babka-yozhka-vyglyani-v-okoshko#comments</comments>
+</item>
+</channel>
+</rss>
