@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - создание музыки</title>
+ <link>https://vse.la/teg/sozdanie-muzyki</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Начинающий битмейкер: советы по созданию музыки в FL Studio</title>
+ <link>https://vse.la/blog/nachinayushchiy-bitmeyker-sovety-po-sozdaniyu-muzyki-v</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/fl-stud.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/fl-stud.jpg&quot; width=&quot;330&quot; height=&quot;219&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;FL Studio&lt;/strong&gt; используют новички и профессиональные музыканты, диджеи. На Ютуб можно узнать, как Stromae создавал клубный трек &lt;a href=&quot;https://www.youtube.com/watch?v=OzZfAoY692o&quot; target=&quot;_blank&quot;&gt;Alors On Danse с помощью FL Studio&lt;/a&gt;, а также видео-рецепт &lt;a href=&quot;https://www.youtube.com/watch?v=Jpg_3Sj7XbE&quot; target=&quot;_blank&quot;&gt;написания этого трека в FL Studio&lt;/a&gt;. Обучающие видео с примерами написания треков &lt;a href=&quot;https://www.youtube.com/watch?v=aZCVGEx0vuk&quot; target=&quot;_blank&quot;&gt;Benny Banassi&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=5itOEBXs85M&quot; target=&quot;_blank&quot;&gt;Rank 1&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=txtFJKGn57g&quot; target=&quot;_blank&quot;&gt;ремикса Faded&lt;/a&gt; Алана Уокера, &lt;a href=&quot;https://www.youtube.com/watch?v=9T-lYU-CpmI&quot; target=&quot;_blank&quot;&gt;чилаут-музыки&lt;/a&gt; знакомят с возможностями программы.&lt;/p&gt;
+
+&lt;p&gt;Рассказывает yust_d. Я здесь, дабы помочь тебе усвоить несколько важных правил. Начинал свой трудный путь битмейкера я еще в 2011 году, когда мало кто из обычных людей вообще видел интерфейс &quot;фруктов&quot;, хоть они уже и были распространены. Собственно, если ты уже знаешь, как пользоваться программой и расставлять звуки на стэп-секвенсоре, то время узнать пару простых советов.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Первый совет - максимально очищай звуки от шумов и лишних частот&lt;/h2&gt;
+
+&lt;p&gt;С помощью чего? Лично я использую &lt;strong&gt;FabFilter Pro-Q&lt;/strong&gt;, но если ты не хочешь заморачивать свою голову поиском плагинов, то стандартный Fruity Parametric EQ2 пойдет. Срезай слишком низкие и слишком высокие частоты. Вытягивай вверх у звука те тона, которые звучат невыразительно.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Второй совет - используй Cut Itself&lt;/h2&gt;
+
+&lt;p&gt;Вроде как непонятная кнопка, но на деле она обрезает звуковые &quot;хвосты&quot; у одинаковых повторяющихся инструментов. К примеру, хай-хэт не наслаивается один на другой, а первый обрезается сразу, как только начался второй.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Третий совет - иногда стоит побаловаться с реверберацией и эффектами&lt;/h2&gt;
+
+&lt;p&gt;Лично мне понравился плагин Breverb2, но опять-жеты можешь взять и обычный Fruity Reeverb 2. Можешь нажимать кнопку &quot;Random&quot; в нём. Так может получиться даже очень хорошая комбинация. Не переборщи с фоновым шумом, он не должен превращать мелодию в кашу.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Четвертый совет - добавляй больше переходов, но так, чтобы они не мешали воспринимать мелодию&lt;/h2&gt;
+
+&lt;p&gt; Можно использовать Fruity Phaser для искажения эффекта, что позволит сделать звучание необычным.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Пятый совет - ищи как можно более чистые и качественные сэмплы и не забывай подгонять их под темп&lt;/h2&gt;
+
+&lt;p&gt;Чем меньше грязи на сэмпле - тем легче будет тебе соединить всё в сплошную концепцию.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Шестой совет - не можешь сочинить мелодию, значит возьми её откуда-то!&lt;/h2&gt;
+
+&lt;p&gt;Отлично подойдут гитарные партии с каких-либо старых фильмов или песен, может быть, записи с концертов. Меняй темп, балуйся с питчем, режь сэмпл на кусочки и расставляй их так, чтобы получалась мелодия.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Седьмой совет - не торопись&lt;/h2&gt;
+
+&lt;p&gt;Все ли настройки установлены правильно? Может, на каком-то звуке нет cut itself? Ты забыл повесить эквалайзер на сэмпл? Внимательность к деталям очень экономит твоё время и сильно увеличивает итоговое качество.&lt;/p&gt;
+
+&lt;p&gt;Надеюсь, эти семь простых советов как-то помогут тебе в дальнейшей твоей музыкальной карьере. Помни - если ты начал работу над музыкой, то доводи её до конца.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/sozdanie-muzyki&quot;&gt;создание музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/fl-studio&quot;&gt;FL Studio&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 11 Sep 2016 14:13:08 +0000</pubDate>
+ <dc:creator>blogrepo</dc:creator>
+ <guid isPermaLink="false">3774 at https://vse.la</guid>
+ <comments>https://vse.la/blog/nachinayushchiy-bitmeyker-sovety-po-sozdaniyu-muzyki-v#comments</comments>
+</item>
+</channel>
+</rss>

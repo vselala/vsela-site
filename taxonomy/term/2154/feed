@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - диджеинг</title>
+ <link>https://vse.la/teg/didzheing</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Начинающий битмейкер: советы по созданию музыки в FL Studio</title>
+ <link>https://vse.la/blog/nachinayushchiy-bitmeyker-sovety-po-sozdaniyu-muzyki-v</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/fl-stud.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/fl-stud.jpg&quot; width=&quot;330&quot; height=&quot;219&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;FL Studio&lt;/strong&gt; используют новички и профессиональные музыканты, диджеи. На Ютуб можно узнать, как Stromae создавал клубный трек &lt;a href=&quot;https://www.youtube.com/watch?v=OzZfAoY692o&quot; target=&quot;_blank&quot;&gt;Alors On Danse с помощью FL Studio&lt;/a&gt;, а также видео-рецепт &lt;a href=&quot;https://www.youtube.com/watch?v=Jpg_3Sj7XbE&quot; target=&quot;_blank&quot;&gt;написания этого трека в FL Studio&lt;/a&gt;. Обучающие видео с примерами написания треков &lt;a href=&quot;https://www.youtube.com/watch?v=aZCVGEx0vuk&quot; target=&quot;_blank&quot;&gt;Benny Banassi&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=5itOEBXs85M&quot; target=&quot;_blank&quot;&gt;Rank 1&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=txtFJKGn57g&quot; target=&quot;_blank&quot;&gt;ремикса Faded&lt;/a&gt; Алана Уокера, &lt;a href=&quot;https://www.youtube.com/watch?v=9T-lYU-CpmI&quot; target=&quot;_blank&quot;&gt;чилаут-музыки&lt;/a&gt; знакомят с возможностями программы.&lt;/p&gt;
+
+&lt;p&gt;Рассказывает yust_d. Я здесь, дабы помочь тебе усвоить несколько важных правил. Начинал свой трудный путь битмейкера я еще в 2011 году, когда мало кто из обычных людей вообще видел интерфейс &quot;фруктов&quot;, хоть они уже и были распространены. Собственно, если ты уже знаешь, как пользоваться программой и расставлять звуки на стэп-секвенсоре, то время узнать пару простых советов.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Первый совет - максимально очищай звуки от шумов и лишних частот&lt;/h2&gt;
+
+&lt;p&gt;С помощью чего? Лично я использую &lt;strong&gt;FabFilter Pro-Q&lt;/strong&gt;, но если ты не хочешь заморачивать свою голову поиском плагинов, то стандартный Fruity Parametric EQ2 пойдет. Срезай слишком низкие и слишком высокие частоты. Вытягивай вверх у звука те тона, которые звучат невыразительно.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Второй совет - используй Cut Itself&lt;/h2&gt;
+
+&lt;p&gt;Вроде как непонятная кнопка, но на деле она обрезает звуковые &quot;хвосты&quot; у одинаковых повторяющихся инструментов. К примеру, хай-хэт не наслаивается один на другой, а первый обрезается сразу, как только начался второй.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Третий совет - иногда стоит побаловаться с реверберацией и эффектами&lt;/h2&gt;
+
+&lt;p&gt;Лично мне понравился плагин Breverb2, но опять-жеты можешь взять и обычный Fruity Reeverb 2. Можешь нажимать кнопку &quot;Random&quot; в нём. Так может получиться даже очень хорошая комбинация. Не переборщи с фоновым шумом, он не должен превращать мелодию в кашу.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Четвертый совет - добавляй больше переходов, но так, чтобы они не мешали воспринимать мелодию&lt;/h2&gt;
+
+&lt;p&gt; Можно использовать Fruity Phaser для искажения эффекта, что позволит сделать звучание необычным.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Пятый совет - ищи как можно более чистые и качественные сэмплы и не забывай подгонять их под темп&lt;/h2&gt;
+
+&lt;p&gt;Чем меньше грязи на сэмпле - тем легче будет тебе соединить всё в сплошную концепцию.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Шестой совет - не можешь сочинить мелодию, значит возьми её откуда-то!&lt;/h2&gt;
+
+&lt;p&gt;Отлично подойдут гитарные партии с каких-либо старых фильмов или песен, может быть, записи с концертов. Меняй темп, балуйся с питчем, режь сэмпл на кусочки и расставляй их так, чтобы получалась мелодия.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h2&gt;Седьмой совет - не торопись&lt;/h2&gt;
+
+&lt;p&gt;Все ли настройки установлены правильно? Может, на каком-то звуке нет cut itself? Ты забыл повесить эквалайзер на сэмпл? Внимательность к деталям очень экономит твоё время и сильно увеличивает итоговое качество.&lt;/p&gt;
+
+&lt;p&gt;Надеюсь, эти семь простых советов как-то помогут тебе в дальнейшей твоей музыкальной карьере. Помни - если ты начал работу над музыкой, то доводи её до конца.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/sozdanie-muzyki&quot;&gt;создание музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/fl-studio&quot;&gt;FL Studio&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 11 Sep 2016 14:13:08 +0000</pubDate>
+ <dc:creator>blogrepo</dc:creator>
+ <guid isPermaLink="false">3774 at https://vse.la</guid>
+ <comments>https://vse.la/blog/nachinayushchiy-bitmeyker-sovety-po-sozdaniyu-muzyki-v#comments</comments>
+</item>
+<item>
+ <title>Sound Forge. Обзор возможностей программы</title>
+ <link>https://vse.la/blog/sound-forge-obzor-vozmozhnostey-programmy</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/sound-forge-16.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/sound-forge-16.jpg&quot; width=&quot;330&quot; height=&quot;239&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Sound Forge – удобный и функциональный звуковой реактор от компании Sony Creative Software, в состав которого включен набор профессиональных утилит, которые предназначены для эффективной работы с аудиоданными. С помощью данного приложения можно качественно обрабатывать аудиокомпозиции, накладывая на них множество спецэффектов, проводить быструю и точную запись, а также редактирвоаните сэмплов, декодировать данные, конвертировать файлы с разные форматы и так далее.&lt;/p&gt;
+
+&lt;p&gt; Бюджетные версии данной утилиты предоставляют аудиоредактор начального уровня, который, впрочем, имеет неплохой функционал. Сюда можно отнести SF Audio Studio, который раньше носил другое название - Sonic Foundrys Sound Forge LE.&lt;/p&gt;
+
+&lt;p&gt; Еще в 2003-м году Sonic Foundry, которая является материнской компанией, главной Sound Forge, потерпела огромные убытки и непосредственно столкнулась с внушительной конкуренцией со стороны остальных крупных игроков в данном сегменте. В последствии она соглашается продать свои наработки фирме Sony Pictures Digital.&lt;br /&gt;
+ Изначально утилита поддерживала редакцию Windows 3.x, однако после выхода третьей версии отказалась от этой поддержки. А поддержка 95-й Windows была прекращена с выходом пятой версии продукта Sound Forge&lt;/p&gt;
+
+&lt;p&gt; Программа позволяет редактировать и создавать звуковые файлы с достоверной точностью и скоростью, при этом из сырого и недостаточно обработанного звука можно создать привлекательную мастер-копию. Кроме того же, с помощью этого ПО можно редактировать аудио и анализировать его (вырезать части, обрезать, накладывать спецэффекты и фильтры и многое прочее), создавать так называемые звуковые петли, проводить ремастеринг цифрового аудио, проводить реконструкцию старых материалов, моделировать всяческие акустические образы, создавать мастер-диски, потоковые медиафайлы и так далее. Интерфейс Sound Forge можно тонко настроить «под себя». Почти все инструменты и элементы интерфейса (волновые формы, в том числе маркеры, также высота окон) также могут быть настроены индивидуально под каждого пользователя по отдельности.&lt;/p&gt;
+
+&lt;p&gt; Продвинутая версия приложения поддерживает также многие видеоформаты, среди которых - MPEG-1 и MPEG-2, WMV, AVI. Также она работает с шаблонами типа MPEG-2 для компиляции HDV-совместимых медиафайлов с высоким разрешением. Кроме того, были включены шаблоны для работы с WMV также высокой разрешительной способности.&lt;br /&gt;
+ К настоящему моменту софт поддерживает практически все основные форматы медиаданных.&lt;/p&gt;
+
+&lt;p&gt; Системные требования данного ПО довольно посредственны. Это процессор с частотой 900 МГц, оперативная память 256 Мб, 150 Мб свободного пространства непосредственно на жестком диске, среда Microsoft Windows ХР или выше, движок DirectX 9.0c, Microsoft .NET Framework 2.0, а также наличие Internet Explorer 5.1. В 2012-м вышла также версия аудиоредактора и для платформы Mac OS X. В качестве дополнения к основной программе выпускается утилита Sonic Foundry MIDI Router, которая представляет собой виртуальный маршрутизатор системы MIDI.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/programmy-didzheya&quot;&gt;программы диджея&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 19 Nov 2015 08:14:39 +0000</pubDate>
+ <dc:creator>blogrepo</dc:creator>
+ <guid isPermaLink="false">2629 at https://vse.la</guid>
+ <comments>https://vse.la/blog/sound-forge-obzor-vozmozhnostey-programmy#comments</comments>
+</item>
+<item>
+ <title>Десять лучших программ для диджеев</title>
+ <link>https://vse.la/blog/desyat-luchshih-programm-dlya-didzheev</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/robot_rock_by_kon.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/robot_rock_by_kon.jpg&quot; width=&quot;330&quot; height=&quot;191&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Хотя рынок современного диджейского оборудования захватили несколько крупнейших компаний — Ableton, Serato и Native Instruments, они, все же, не так хорошо представлены в программных продуктах для персональных компьютеров. Напротив, в этой сфере конкурирует ряд чуть менее известных программных продуктов. У каждого из них есть свой набор интересных инструментов, преимущества и недостатки.&lt;/p&gt;
+
+&lt;h1&gt; 1. PCDJ Dex&lt;/h1&gt;
+
+&lt;p&gt;Пакет имеет полный набор стандартных функций. Среди них — микшер, эквалайзер и спецэффекты. Кроме того, есть и эксклюзивные функции, которые позволяют использовать видеомикшер и караоке. Программа предлагает 4 деки с синхронизацией ритма и тональности. Устройство поддерживает множество различных миди-контроллеров и может работать с цифровым винилом. В свободном доступе в сети находится триал-версия приложения.&lt;/p&gt;
+
+&lt;h1&gt; 2. Magix Digital DJ&lt;/h1&gt;
+
+&lt;p&gt; Обладает далеко не максимальным и удобным функционалом. Однако, при относительно недорогой цене, программа предлагает базовые инструменты для диджея. По своей сути, это урезанная версия Deckadance. Здесь предлагается двухдековое микширование, пэды эффектов, поддержка миди-контроллеров и лупов. Все функции имеют достаточно красивую и удобную визуализацию.&lt;/p&gt;
+
+&lt;h1&gt; 3. Mixvibes Cross&lt;/h1&gt;
+
+&lt;p&gt;Кросс от французских разработчиков в последнее время сильно модернизировался и укомплектовался многими полезными функциями. Интерфейс софта полностью настраиваемый и содержит 4 теки, сэмплер с 8-ю слотами. Есть библиотека эффектов, ряд контроллеров и виниловых цифровых систем. Имеется даже примочка для удаленного управления при помощи iPhone. Она реализована в качестве дополнительного экрана для просмотра треков.&lt;/p&gt;
+
+&lt;h1&gt; 4. Algoriddims Djay&lt;/h1&gt;
+
+&lt;p&gt; Пожалуй, лучшая диджейская программа для продукции Apple. Приложение хорошо интегрировано в iTunes и направлено, прежде всего, на новичков и любителей. Несмотря на это, она содержит множество гибких настроек.&lt;/p&gt;
+
+&lt;h1&gt; 5. Mixxx&lt;/h1&gt;
+
+&lt;p&gt; Главные преимущества продукта — открытый исходный код и бесплатность. Приложение доукомплектовывается армией пользователей и постоянно обновляется. В этом приложении имеется все необходимое для современного диджея.&lt;/p&gt;
+
+&lt;h1&gt; 6. Image-Line Deckadance 2&lt;/h1&gt;
+
+&lt;p&gt; Редактирование, привязка к ритм-сетке, гибкий интерфейс и полезная функция макроконтроля Smart Knob. Здесь всё — 4 деки для микшеров, 16-разъемный сэмплер, функция подключения внешних плагинов. Впрочем, по количеству встроенных контроллеров приложение отстает от своих конкурентов.&lt;/p&gt;
+
+&lt;h1&gt; 7. Atomix VirtualDJ Pro&lt;/h1&gt;
+
+&lt;p&gt; Весьма дорогостоящая программа. С этим и связан её очень мощный и гибкий функционал. Например, приложение может работать сразу с 99 виртуальными деками. Софт совместим с ReWire (может работать одновременно с разными виртуальными студиями). В программе представлено множество маппингов практически для всех моделей диджейских контроллеров.&lt;/p&gt;
+
+&lt;h1&gt; 8. Serato DJ&lt;/h1&gt;
+
+&lt;p&gt; Это один из лидеров цифрового винилового диджеинга. Поддерживает огромное количество контроллеров и систем эмуляции.&lt;/p&gt;
+
+&lt;h1&gt; 9. Ableton Live&lt;/h1&gt;
+
+&lt;p&gt; Не совсем диджейская программа. Скорее, это приложение для продюсинга. Тем не менее, многие диджеи выбирают именно его. Причина такой популярности — режим Session View. Он предназначен для запуска синхронизированных сэмплов, треков и клипов. Он помогает на интуитивном уровне «подгонять» материал по сетке времени. В качестве бонуса — огромный пакет заготовленных сэмплов и эффектов.&lt;/p&gt;
+
+&lt;h1&gt; 10. Native Instruments Traktor Pro&lt;/h1&gt;
+
+&lt;p&gt; Многие называют это приложение золотым стандартом цифрового диджеинга. По надежности и гибкости больше нет программ, подобных этой. Здесь есть все, что необходимо современному диджею.&lt;/p&gt;
+
+&lt;p&gt; Среди всего разнообразия рассмотренных программ сложно выделить одну, которая подошла бы сразу для всех диджеев. При выборе того или иного продукта необходимо исходить из бюджета, целей и задач в каждом конкретном случае.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/programmy-didzheya&quot;&gt;программы диджея&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 19 Nov 2015 07:58:45 +0000</pubDate>
+ <dc:creator>blogrepo</dc:creator>
+ <guid isPermaLink="false">2626 at https://vse.la</guid>
+ <comments>https://vse.la/blog/desyat-luchshih-programm-dlya-didzheev#comments</comments>
+</item>
+<item>
+ <title>Основные тенденции в современном диджеинге</title>
+ <link>https://vse.la/blog/osnovnye-tendencii-v-sovremennom-didzheinge</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://vse.la/images/blogi_images/montreal-night-club-002.jpg&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb330/public/blogi_images/montreal-night-club-002.jpg&quot; width=&quot;330&quot; height=&quot;220&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Диджеинг – это целая философия, однако его не стоит воспринимать буквально как обыкновенную работу. Человек никак не должен относиться к этому ремеслу просто как к источнику дохода, он просто обязан очень любить то, чем он занимается. Он должен любить музыку, которую исполняет, а также радовать людей своими позитивными эмоциями и ощущением праздника.&lt;/p&gt;
+
+&lt;p&gt; В большей мере диджейство – это творчество. Отсюда следует логичный вывод, что любой человек, который решил посвятить лично себя этому ремеслу, должен относиться к нему непосредственно как к творчеству. Такой человек должен любить ту музыку, которую будет играть и непосредственно сам процесс творения.&lt;/p&gt;
+
+&lt;p&gt; В связи с этим не нужно играть то, что тебе навязывают. Важно идти за тем, что тебе говорит твоя внутренность. Тогда каждый новый сэт будет доставлять несоизмеримо больше удовольствия.&lt;br /&gt;
+ Чтобы отличаться от всей армии остальных диджеев, нужно со временем выработать свой индивидуальный стиль. У каждого диджея должны быть свои особенности, свои фишки, а также свое представление подачи материала. Все вышеописанное может прийти только с опытом. Только после многих часов работы с публикой может сформироваться индивидуальная манера музыкального контакта с ней. Один из ключевых моментов – подготовка к исполнению сэта. Материала должно быть в несколько раз больше того, который должен вписываться в официальное время музыки. Весь материал должен предварительно прослушаться. У диджея должно быть вполне четкое и предельно ясное представление о том, как материал будет звучать на публике, как будут устроены треки и как они будут звучать. Все это поможет более качественно свести композиции, а также применить какие-то примочки и в целом выступить перед публикой.&lt;/p&gt;
+
+&lt;p&gt; Самый сложный момент диджеинга – работать на публику. Как только диджей стал за пуль, он должен забыть о собственных амбициях и предпочтениях, чувствах и мыслях. Существуют лишь люди на танцполе и ты, который должен генерировать им отличную музыку. Задача любого диск-жокея – своего рода наложить гипноз на слушателей, ввести их в восторг.&lt;/p&gt;
+
+&lt;p&gt; Однако настоящий профессионал должен уметь опуститься с небес на землю. Выбор музыкаьного материала – это конечно же, хорошо. Однако его количество приводит в некоторой степени к однообразию. Большинство новых релизов очень похожи друг на дружку. Они копируют друг у дружки манеры исполнения, эффекты, и даже подобранные синтезаторы. Среди огромной массы однообразных треков очень важно отыскать тот, который затронет чувства слушателей. Только в таком случае вам с точностью будет гарантирован успех.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-rubrika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Рубрика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog/novosti-muzyki&quot;&gt;Новости музыки&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/blog/tvorchestvo&quot;&gt;Творчество&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/didzheing&quot;&gt;диджеинг&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 19 Nov 2015 07:51:38 +0000</pubDate>
+ <dc:creator>blogrepo</dc:creator>
+ <guid isPermaLink="false">2624 at https://vse.la</guid>
+ <comments>https://vse.la/blog/osnovnye-tendencii-v-sovremennom-didzheinge#comments</comments>
+</item>
+</channel>
+</rss>

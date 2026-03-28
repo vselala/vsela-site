@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - Вокал</title>
+ <link>https://vse.la/muzykalnyy-zhanr/vokal</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Эхо любви</title>
+ <link>https://vse.la/anna-german/eho-lyubvi</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;[Анна Герман:]&lt;br /&gt;
+Покроется небо пылинками звёзд&lt;br /&gt;
+И выгнутся ветви упруго&lt;br /&gt;
+Тебя я услышу за тысячу вёрст:&lt;br /&gt;
+Мы эхо, мы эхо,&lt;br /&gt;
+Мы долгое эхо друг друга.&lt;br /&gt;
+Мы эхо, мы эхо,&lt;br /&gt;
+Мы долгое эхо друг друга.&lt;/p&gt;
+
+&lt;p&gt;[Лев Лещенко:]&lt;br /&gt;
+И мне до тебя, где бы ты ни была,&lt;br /&gt;
+Дотронуться сердцем не трудно.&lt;br /&gt;
+Опять нас любовь за собой позвала.&lt;br /&gt;
+Мы нежность, мы нежность,&lt;br /&gt;
+Мы вечная нежность друг друга!&lt;br /&gt;
+[Анна Герман и Лев Лещенко:]&lt;br /&gt;
+Мы нежность, мы нежность,&lt;br /&gt;
+Мы вечная нежность друг друга.&lt;/p&gt;
+
+&lt;p&gt;[Анна Герман:]&lt;br /&gt;
+И даже в краю наползающей тьмы,&lt;br /&gt;
+За гранью смертельного круга&lt;br /&gt;
+[Анна Герман и Лев Лещенко:]&lt;br /&gt;
+Я знаю, с тобой не расстанемся мы!&lt;br /&gt;
+Мы память, мы память,&lt;br /&gt;
+Мы звёздная память друг друга.&lt;br /&gt;
+Мы память, мы память,&lt;br /&gt;
+Мы звёздная память друг друга.&lt;/p&gt;
+
+&lt;p&gt;[Анна Герман и Лев Лещенко, попеременно]&lt;br /&gt;
+Мы эхо, мы эхо,&lt;br /&gt;
+Мы долгое эхо друг друга.&lt;br /&gt;
+Мы эхо, мы эхо,&lt;br /&gt;
+Мы долгое эхо друг друга.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/anna-german&quot;&gt;Анна Герман&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/lev-leshchenko&quot;&gt;Лев Лещенко&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/1977&quot;&gt;1977&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/vokal&quot;&gt;Вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-info field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Информация о песне:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Композитор: Евгений Николаевич Птичкин,
+Автор слов: Роберт Иванович Рождественский&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov-navsegda&quot;&gt;Любовь навсегда&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-s-toboy&quot;&gt;Я с тобой&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/eho&quot;&gt;эхо&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/nezhnost&quot;&gt;нежность&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/ambicii&quot;&gt;Амбиции&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/volya&quot;&gt;Воля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/zadumchivost&quot;&gt;Задумчивость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/pokoy&quot;&gt;Покой&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/svoboda&quot;&gt;Свобода&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/sozercanie&quot;&gt;Созерцание&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/umirotvorenie&quot;&gt;Умиротворение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 19 Jan 2022 19:32:34 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4614 at https://vse.la</guid>
+ <comments>https://vse.la/anna-german/eho-lyubvi#comments</comments>
+</item>
+<item>
+ <title>Estrellita ¿Dónde Estás?</title>
+ <link>https://vse.la/canciones-infantiles/estrellita-donde-estas</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Estrellita, ¿dónde estás?&lt;br /&gt;
+Me pregunto quién serás&lt;br /&gt;
+En el cielo o en el mar&lt;br /&gt;
+Un diamante de verdad&lt;br /&gt;
+Estrellita, ¿dónde estás?&lt;br /&gt;
+Me pregunto quién serás&lt;/p&gt;
+
+&lt;p&gt;Cuando el Sol se ha ido ya&lt;br /&gt;
+Cuando nada brilla más&lt;br /&gt;
+Tú nos muestras tu brillar&lt;br /&gt;
+Brillas, brillas sin parar&lt;br /&gt;
+Estrellita, ¿dónde estás?&lt;br /&gt;
+Me pregunto quién serás&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/canciones-infantiles&quot;&gt;Canciones infantiles&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/ispanskiy&quot;&gt;Испанский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/vokal&quot;&gt;Вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/kolybelnye&quot;&gt;Колыбельные&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/estrellita&quot;&gt;estrellita&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/zadumchivost&quot;&gt;Задумчивость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/pokoy&quot;&gt;Покой&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-istochnik field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.letras.mus.br/canciones-para-nios/estrellita-donde-estas/&quot;&gt;Letras.Mus.br&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/pullipsarecute/8707921550/in/photolist-egunGs-84mLCk-aZh8Wi-p2rdMU-5t6EP7-H8uGnW-U8GrNY-Pnwrkw-2d6dnMC-4boCrd-6v9RMW-9UkuHF-c3KCDb-25ozqAy-aopAaT-8FnPuW-dXKf1e-nPBH6s-5JrxUT-YPzQWr-SQPfJa-X36MeC-HS4snb-aDcnLJ-4j7yH3-piWcFM-aD8xWe-4f5R7d-7Pqw2H-mB7Qa-2kUWZo4-dWajjG-aD7mYa-HWRp6e-dMXbuw-7zJRuj-Fqgu4e-pPLUhR-e4a3eF-eck21J-64XJcV-6pcApb-kBV8vZ-78diMu-9sZ3ug-8RGHci-GRAz3V-7Dx9Z1-aD8A3X-6DMnbH&quot; target=&quot;_blank&quot;&gt;pullipsarecute Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 28 Dec 2021 06:51:10 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4560 at https://vse.la</guid>
+ <comments>https://vse.la/canciones-infantiles/estrellita-donde-estas#comments</comments>
+</item>
+<item>
+ <title>Пусть вечерняя звезда взойдёт над тобой</title>
+ <link>https://vse.la/helavisa-melnica/pust-vechernyaya-zvezda-vzoydyot-nad-toboy</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пусть вечерняя звезда&lt;br /&gt;
+Взойдет над тобой.&lt;br /&gt;
+Может быть, при свете дня&lt;br /&gt;
+Ты будешь другой.&lt;br /&gt;
+&lt;br /&gt;
+Но сейчас твой дом далёк,&lt;br /&gt;
+И твой путь так одинок.&lt;br /&gt;
+И опять приходит тьма,&lt;br /&gt;
+Но верь, и ты пройдешь свой путь.&lt;br /&gt;
+Но не вечно правит тьма,&lt;br /&gt;
+Надежда вновь жива&lt;br /&gt;
+С тобой.&lt;br /&gt;
+&lt;br /&gt;
+И быть может, эта тень&lt;br /&gt;
+Умчится в ночь.&lt;br /&gt;
+Быть походу в дальний край,&lt;br /&gt;
+Где правит ночь.&lt;/p&gt;
+
+&lt;p&gt;И когда отступит тьма,&lt;br /&gt;
+Солнца луч найдёт тебя.&lt;br /&gt;
+Mornie utulie (И опять приходит тьма)&lt;br /&gt;
+Но верь, и ты пройдешь свой путь&lt;br /&gt;
+Mornie alantie (Но не вечно правит тьма)&lt;br /&gt;
+Надежды свет ты несёшь с собой.&lt;br /&gt;
+Надежда вновь жива&lt;br /&gt;
+С тобой.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/helavisa-melnica&quot;&gt;Хелависа (Мельница)&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/vokal&quot;&gt;Вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/rodina&quot;&gt;Родина&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-i-mir&quot;&gt;Я и мир&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/zvezda&quot;&gt;звезда&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/elfy&quot;&gt;эльфы&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/pesni-elfov&quot;&gt;песни эльфов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/bessilie&quot;&gt;Бессилие&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/grust&quot;&gt;Грусть&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/dezhavyu&quot;&gt;Дежавю&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/otkrovenie&quot;&gt;Откровение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/otreshyonnost&quot;&gt;Отрешённость&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/doomkitty00/7050205039/&quot; target=&quot;_blank&quot;&gt;DoomKitty00 Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;4240&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 Jun 2018 04:13:03 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4410 at https://vse.la</guid>
+ <comments>https://vse.la/helavisa-melnica/pust-vechernyaya-zvezda-vzoydyot-nad-toboy#comments</comments>
+</item>
+<item>
+ <title>Чему учат в школе</title>
+ <link>https://vse.la/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D0%BE%D1%80-%D0%B2%D1%81%D0%B5%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D0%B8-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-0</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Буквы разные писать&lt;br /&gt;
+Тонким пёрышком в тетрадь&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;br /&gt;
+Вычитать и умножать,&lt;br /&gt;
+Малышей не обижать&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;/p&gt;
+
+&lt;p&gt;Вычитать и умножать,&lt;br /&gt;
+Малышей не обижать&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;/p&gt;
+
+&lt;p&gt;К четырём прибавить два,&lt;br /&gt;
+По слогам читать слова&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;br /&gt;
+Книжки добрые любить&lt;br /&gt;
+И воспитанными быть&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;/p&gt;
+
+&lt;p&gt;Книжки добрые любить&lt;br /&gt;
+И воспитанными быть&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;/p&gt;
+
+&lt;p&gt;Находить Восток и Юг,&lt;br /&gt;
+Рисовать квадрат и круг&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;br /&gt;
+И не путать никогда&lt;br /&gt;
+Острова и города&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;/p&gt;
+
+&lt;p&gt;И не путать никогда&lt;br /&gt;
+Острова и города&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;/p&gt;
+
+&lt;p&gt;Про глагол и про тире,&lt;br /&gt;
+И про дождик на дворе&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;br /&gt;
+Крепко-накрепко дружить,&lt;br /&gt;
+С детства дружбой дорожить&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;/p&gt;
+
+&lt;p&gt;Крепко-накрепко дружить,&lt;br /&gt;
+С детства дружбой дорожить&lt;br /&gt;
+Учат в школе, учат в школе,&lt;br /&gt;
+Учат в школе.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/bolshoy-detskiy-hor-vsesoyuznogo-radio-i-centralnogo&quot;&gt;Большой детский хор Всесоюзного радио и Центрального телевидения&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/vokal&quot;&gt;Вокал&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/narodnaya-pesnya&quot;&gt;Народная песня&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/saundtrek&quot;&gt;Саундтрек&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-info field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Информация о песне:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Автор слов: Михаил Спартакович Пляцковский.
+Автор музыки: Владимир Яковлевич Шаинский.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/shkola&quot;&gt;Школа&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/ambicii&quot;&gt;Амбиции&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/druzhba&quot;&gt;Дружба&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/interes&quot;&gt;Интерес&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/innerdolly/6916710532/&quot; target=&quot;_blank&quot;&gt;Inner Dolly Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 26 Feb 2017 15:21:17 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4188 at https://vse.la</guid>
+ <comments>https://vse.la/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D0%BE%D1%80-%D0%B2%D1%81%D0%B5%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D0%B8-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-0#comments</comments>
+</item>
+<item>
+ <title>Im Abendrot (Franz Schubert)</title>
+ <link>https://vse.la/fritz-wunderlich/im-abendrot-franz-schubert</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;O wie schön ist deine Welt,&lt;br /&gt;
+Vater, wenn sie golden strahlet!&lt;br /&gt;
+Wenn dein Glanz herniederfällt&lt;br /&gt;
+Und den Staub mit Schimmer malet,&lt;br /&gt;
+Wenn das Rot, das in der Wolke blinkt,&lt;br /&gt;
+In mein stilles Fenster sinkt!&lt;br /&gt;
+Könnt ich klagen, könnt ich zagen?&lt;br /&gt;
+Irre sein an dir und mir?&lt;br /&gt;
+Nein, ich will im Busen tragen&lt;br /&gt;
+Deinen Himmel schon allhier.&lt;br /&gt;
+Und dies Herz, eh&#039; es zusammenbricht,&lt;br /&gt;
+|: Trinkt noch Glut und schlürft noch Licht. :|&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/fritz-wunderlich&quot;&gt;Fritz Wunderlich&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/1822&quot;&gt;1822&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/nemeckiy&quot;&gt;Немецкий&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/vokal&quot;&gt;Вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/priroda&quot;&gt;Природа&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-i-mir&quot;&gt;Я и мир&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/abend&quot;&gt;abend&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vdohnovenie&quot;&gt;Вдохновение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/otreshyonnost&quot;&gt;Отрешённость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/pokoy&quot;&gt;Покой&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/svoboda&quot;&gt;Свобода&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-istochnik field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.musicanet.org/robokopp/Lieder/abendrot.html&quot;&gt;musicanet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://moussee.deviantart.com/art/evening-330949771&quot; target=&quot;_blank&quot;&gt;moussee Deviantart&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 18 Nov 2016 03:37:22 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">3974 at https://vse.la</guid>
+ <comments>https://vse.la/fritz-wunderlich/im-abendrot-franz-schubert#comments</comments>
+</item>
+<item>
+ <title>Dreaming Of The Days</title>
+ <link>https://vse.la/katherine-jenkins/dreaming-days</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Walking beside me, &lt;br /&gt;
+Heaven&#039;s own shadow falls.&lt;br /&gt;
+For they know not the answers&lt;br /&gt;
+No light to where they are told.&lt;/p&gt;
+
+&lt;p&gt;Did I hear a whisper?&lt;br /&gt;
+Did I hear your cry?&lt;br /&gt;
+For it pulled me onwards&lt;br /&gt;
+From the earth facing the skies.&lt;/p&gt;
+
+&lt;p&gt;And in my dreams, &lt;br /&gt;
+They&#039;ll hold me on towards tomorrow,&lt;br /&gt;
+Not knowing what,&lt;br /&gt;
+Not knowing where I&#039;ll go. &lt;/p&gt;
+
+&lt;p&gt;I put my trust,&lt;br /&gt;
+Into the hand that leads me,&lt;br /&gt;
+I follow him,&lt;br /&gt;
+Over the lands and sea.&lt;/p&gt;
+
+&lt;p&gt;Dreaming of the days, &lt;br /&gt;
+When I&#039;ll know what to call and, &lt;br /&gt;
+The days when I&#039;ll know a name. &lt;br /&gt;
+Dreaming of the days,&lt;br /&gt;
+When the lights that guided me,&lt;br /&gt;
+Become everlasting flames. &lt;/p&gt;
+
+&lt;p&gt;Dreaming of the days,&lt;br /&gt;
+Dreaming of the days. &lt;/p&gt;
+
+&lt;p&gt;And in my dreams,&lt;br /&gt;
+They&#039;ll hold me on towards tomorrow,&lt;br /&gt;
+Not know what,&lt;br /&gt;
+Not knowing where I&#039;ll go. &lt;/p&gt;
+
+&lt;p&gt;I put my trust,&lt;br /&gt;
+Into the hand that leads me. &lt;br /&gt;
+I follow him,&lt;br /&gt;
+Over the lands and sea. &lt;/p&gt;
+
+&lt;p&gt;Dreaming of the days, &lt;br /&gt;
+When I&#039;ll know what to call and, &lt;br /&gt;
+The days when I&#039;ll know a name. &lt;br /&gt;
+Dreaming of the days,&lt;br /&gt;
+When the lights that guided me,&lt;br /&gt;
+Become everlasting flames. &lt;/p&gt;
+
+&lt;p&gt;Dreaming of the days,&lt;br /&gt;
+Dreaming of the days.&lt;/p&gt;
+
+&lt;p&gt;Ahhhhhhhhhh&lt;br /&gt;
+Ahhhhhhhhhh&lt;br /&gt;
+Ahhhhhhhhhh&lt;br /&gt;
+Ahhhhhhhhhh&lt;/p&gt;
+
+&lt;p&gt;Dreaming of the days,&lt;br /&gt;
+Dreaming of the days,&lt;br /&gt;
+Dreaming of the days,&lt;br /&gt;
+Dreaming of the days&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/katherine-jenkins&quot;&gt;Katherine Jenkins&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/2014&quot;&gt;2014&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/angliyskiy&quot;&gt;Английский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/vokal&quot;&gt;Вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/fantazii&quot;&gt;Фантазии&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-i-mir&quot;&gt;Я и мир&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/dream&quot;&gt;dream&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vdohnovenie&quot;&gt;Вдохновение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/volya&quot;&gt;Воля&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-istochnik field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.azlyrics.com/lyrics/katherinejenkins/dreamingofthedays.html&quot;&gt;AZlyrics&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://rabbitonbooks.deviantart.com/art/BJD-morning-sun-155347930&quot; target=&quot;_blank&quot;&gt;RabbitonBooks Deviantart&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 18 Nov 2016 03:29:15 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">3973 at https://vse.la</guid>
+ <comments>https://vse.la/katherine-jenkins/dreaming-days#comments</comments>
+</item>
+<item>
+ <title>Tom&#039;s Dinner</title>
+ <link>https://vse.la/suzanne-vega/toms-dinner</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;I am sitting&lt;br /&gt;
+In the morning&lt;br /&gt;
+At the diner&lt;br /&gt;
+On the corner&lt;/p&gt;
+
+&lt;p&gt;I am waiting&lt;br /&gt;
+At the counter&lt;br /&gt;
+For the man&lt;br /&gt;
+To pour the coffee&lt;/p&gt;
+
+&lt;p&gt;And he fills it&lt;br /&gt;
+Only halfway&lt;br /&gt;
+And before&lt;br /&gt;
+I even argue&lt;/p&gt;
+
+&lt;p&gt;He is looking&lt;br /&gt;
+Out the window&lt;br /&gt;
+At somebody&lt;br /&gt;
+Coming in&lt;/p&gt;
+
+&lt;p&gt;&quot;It is always&lt;br /&gt;
+Nice to see you&quot;&lt;br /&gt;
+Says the man&lt;br /&gt;
+Behind the counter&lt;/p&gt;
+
+&lt;p&gt;To the woman&lt;br /&gt;
+Who has come in&lt;br /&gt;
+She is shaking&lt;br /&gt;
+Her umbrella&lt;/p&gt;
+
+&lt;p&gt;And I look&lt;br /&gt;
+The other way&lt;br /&gt;
+As they are kissing&lt;br /&gt;
+Their hellos&lt;/p&gt;
+
+&lt;p&gt;I&#039;m pretending&lt;br /&gt;
+Not to see them&lt;br /&gt;
+Instead&lt;br /&gt;
+I pour the milk&lt;/p&gt;
+
+&lt;p&gt;I open&lt;br /&gt;
+Up the paper&lt;br /&gt;
+There&#039;s a story&lt;br /&gt;
+Of an actor&lt;/p&gt;
+
+&lt;p&gt;Who had died&lt;br /&gt;
+While he was drinking&lt;br /&gt;
+It was no one&lt;br /&gt;
+I had heard of&lt;/p&gt;
+
+&lt;p&gt;And I&#039;m turning&lt;br /&gt;
+To the horoscope&lt;br /&gt;
+And looking&lt;br /&gt;
+For the funnies&lt;/p&gt;
+
+&lt;p&gt;When I&#039;m feeling&lt;br /&gt;
+Someone watching me&lt;br /&gt;
+And so&lt;br /&gt;
+I raise my head&lt;/p&gt;
+
+&lt;p&gt;There&#039;s a woman&lt;br /&gt;
+On the outside&lt;br /&gt;
+Looking inside&lt;br /&gt;
+Does she see me?&lt;/p&gt;
+
+&lt;p&gt;No she does not&lt;br /&gt;
+Really see me&lt;br /&gt;
+Cause she sees&lt;br /&gt;
+Her own reflection&lt;/p&gt;
+
+&lt;p&gt;And I&#039;m trying&lt;br /&gt;
+Not to notice&lt;br /&gt;
+That she&#039;s hitching&lt;br /&gt;
+Up her skirt&lt;/p&gt;
+
+&lt;p&gt;And while she&#039;s&lt;br /&gt;
+Straightening her stockings&lt;br /&gt;
+Her hair&lt;br /&gt;
+Has gotten wet&lt;/p&gt;
+
+&lt;p&gt;Oh, this rain&lt;br /&gt;
+It will continue&lt;br /&gt;
+Through the morning&lt;br /&gt;
+As I&#039;m listening&lt;/p&gt;
+
+&lt;p&gt;To the bells&lt;br /&gt;
+Of the cathedral&lt;br /&gt;
+I am thinking&lt;br /&gt;
+Of your voice...&lt;/p&gt;
+
+&lt;p&gt;And of the midnight picnic&lt;br /&gt;
+Once upon a time&lt;br /&gt;
+Before the rain began...&lt;/p&gt;
+
+&lt;p&gt;I finish up my coffee&lt;br /&gt;
+It&#039;s time to catch the train&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/suzanne-vega&quot;&gt;Suzanne Vega&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/1982&quot;&gt;1982&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/angliyskiy&quot;&gt;Английский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/vokal&quot;&gt;Вокал&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/ya-i-mir&quot;&gt;Я и мир&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/otreshyonnost&quot;&gt;Отрешённость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/svoboda&quot;&gt;Свобода&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-istochnik field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.azlyrics.com/lyrics/suzannevega/tomsdiner.html&quot;&gt;AZlyrics&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 26 Jul 2016 21:46:22 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">3581 at https://vse.la</guid>
+ <comments>https://vse.la/suzanne-vega/toms-dinner#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - смайл</title>
+ <link>https://vse.la/teg/smayl</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>;)</title>
+ <link>https://vse.la/node/639</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/node/639&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/snimok_ekrana_ot_2014-08-15_032009.png&quot; width=&quot;89&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Ваша милая улыбка — сколько в ней любви и ласки!&lt;/p&gt;
+
+&lt;p&gt;Сколько нежной, неподдельной и изящной красоты!&lt;/p&gt;
+
+&lt;p&gt;Ваша точка с запятою — волшебство, из доброй сказки!&lt;/p&gt;
+
+&lt;p&gt;Скобка правая — чудесней, чем весенние цветы!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/yumor&quot;&gt;Юмор&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 14 Aug 2014 23:22:06 +0000</pubDate>
+ <dc:creator>Анатолий Власов</dc:creator>
+ <guid isPermaLink="false">639 at https://vse.la</guid>
+ <comments>https://vse.la/node/639#comments</comments>
+</item>
+</channel>
+</rss>
