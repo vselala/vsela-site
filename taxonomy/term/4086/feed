@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - plus minus</title>
+ <link>https://vse.la/teg/plus-minus</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Mitternachtsformel (a-b-c-Formel) (Diskriminante)</title>
+ <link>https://vse.la/dorfuchs/mitternachtsformel-b-c-formel-diskriminante</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Es kann durchaus manchmal vorkommen im Leben&lt;br /&gt;
+da hat man eine quadratische Gleichung gegeben,&lt;br /&gt;
+die man umstellen will, doch die Schwierigkeit dabei&lt;br /&gt;
+ist, manchmal gibts gar keine Lösung, manchmal eine, manchmal zwei&lt;br /&gt;
+falls du das nicht sofort siehst, ist das vollkommen OK.&lt;br /&gt;
+Mach daraus 0 = ax²+bx+c&lt;br /&gt;
+und dann gibt es da eine Formel und, wenn man die kann,&lt;br /&gt;
+wendet man die an und das x ist dann:&lt;/p&gt;
+
+&lt;p&gt;( -b ± √( b²-4ac ) ) / 2a&lt;/p&gt;
+
+&lt;p&gt;durch das Plusminus kommen bis zu 2 Lösungen zustande,&lt;br /&gt;
+aber, wie viele es denn wirklich sind, zeigt dir die Diskriminante.&lt;br /&gt;
+Das ist hier der Radikand, also das, was unter der Wurzel steht,&lt;br /&gt;
+was ja, wenn das negativ ist, dann zumindest mit den reellen Zahlen nicht geht.&lt;/p&gt;
+
+&lt;p&gt;Und, wenn das 0 ist, gibts nur eine Lösung - das ist jetzt nicht schwer,&lt;br /&gt;
+doch wo kommt denn eigentlich die ganze Formel hier her?&lt;br /&gt;
+Tja: Man rechnet, wenn man so ne Gleichung ganz allgemein vor sich hat&lt;br /&gt;
+minus c, mal 4a und dann plus b Quadrat,&lt;/p&gt;
+
+&lt;p&gt;denn jetzt kann man auf der linken Seite einen Zaubertrick machen&lt;br /&gt;
+und diesen Term mit Hilfe der 1. Binomischen Formel vereinfachen.&lt;br /&gt;
+Überlegt man, was passiert, wenn man quadriert, wird man sehen:&lt;br /&gt;
+Egal ob Plus oder Minus - es bleibt danach das selbe stehen.&lt;/p&gt;
+
+&lt;p&gt;Da ich an dieser Stelle beide Fälle mit beachten muss,&lt;br /&gt;
+nehme ich mir vor die Wurzel einfach noch ein Plusminus.&lt;br /&gt;
+Rechne ich jetzt minus b, dann kann ich ziemlich einfach sehen:&lt;br /&gt;
+Teile ich noch durch 2a, bleibt für das x am Ende stehen:&lt;/p&gt;
+
+&lt;p&gt;( -b ± √( b²-4ac ) ) / 2a&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/dorfuchs&quot;&gt;DorFuchs&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/2013&quot;&gt;2013&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/nemeckiy&quot;&gt;Немецкий&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/rep&quot;&gt;Рэп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/stilno&quot;&gt;Стильно&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/plus-minus&quot;&gt;plus minus&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/otkrovenie&quot;&gt;Откровение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/79899045@N05/14390706142/in/photostream/&quot; target=&quot;_blank&quot;&gt;♥Akuma-Tenshi♥ Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 14 Apr 2023 08:37:52 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4756 at https://vse.la</guid>
+ <comments>https://vse.la/dorfuchs/mitternachtsformel-b-c-formel-diskriminante#comments</comments>
+</item>
+<item>
+ <title>Quadratic Formula Song (Discriminant)</title>
+ <link>https://vse.la/dorfuchs/quadratic-formula-song-discriminant</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;If you try to solve a quadratic equation,&lt;br /&gt;
+I promise you: It&#039;s possible without any frustration,&lt;br /&gt;
+if you take everything, move it to one side,&lt;br /&gt;
+sort by x squared, x and the rest. Alright.&lt;br /&gt;
+Take the coefficients, name them a, b and c&lt;br /&gt;
+and if you know the right formula, you will see&lt;br /&gt;
+that you get the solution in the very next step.&lt;br /&gt;
+Just sing this song in your head:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;[Chorus:]&lt;/strong&gt;&lt;br /&gt;
+Negative b plus or minus the square root of&lt;br /&gt;
+b squared minus 4ac over 2a&lt;/p&gt;
+
+&lt;p&gt;Okay. Let&#039;s start with our equation and our job is going to be&lt;br /&gt;
+solving this now for x, so let&#039;s take minus c,&lt;br /&gt;
+multiply by 4a and if you now add b squared&lt;br /&gt;
+it all looks way to complicated, but don&#039;t be scared.&lt;br /&gt;
+Just take a close look to the left side and you&#039;ll see:&lt;br /&gt;
+There&#039;s a binomial formula with 2ax and b,&lt;br /&gt;
+so altogether this is the square of 2ax+b&lt;br /&gt;
+and now we have only one x, so the next step will be&lt;br /&gt;
+to get rid of the square and if the right side is not negative,&lt;br /&gt;
+the square root must be one solution, but there&#039;s an alternative,&lt;br /&gt;
+&#039;cause minus the square root yields the same if you square it,&lt;br /&gt;
+so we write &quot;plus minus&quot; and now we are at the point, where it&lt;br /&gt;
+only takes two more steps to solve it for x&lt;br /&gt;
+and if you look to the left side, you know what will be next:&lt;br /&gt;
+Subtraction of b and division by 2a is giving us our formula for x.&lt;br /&gt;
+Okay. And it&#039;s&lt;/p&gt;
+
+&lt;p&gt;[Chorus]&lt;/p&gt;
+
+&lt;p&gt;[Chorus]&lt;/p&gt;
+
+&lt;p&gt;[Chorus]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chords:&lt;/strong&gt;&lt;br /&gt;
+Fm Db Ab Eb (and at the end: Gm Eb Bb F)&lt;/p&gt;
+
+&lt;p&gt;Guitar chords, a semitone down:&lt;br /&gt;
+Em C G D (and at the end: F#m​ D A E)&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/dorfuchs&quot;&gt;DorFuchs&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/2016&quot;&gt;2016&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/angliyskiy&quot;&gt;Английский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/rep&quot;&gt;Рэп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/obraz-zhizni&quot;&gt;Образ жизни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/stilno&quot;&gt;Стильно&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/discriminant&quot;&gt;discriminant&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/equations&quot;&gt;equations&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/plus-minus&quot;&gt;plus minus&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/mathematics&quot;&gt;mathematics&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/druzhba&quot;&gt;Дружба&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/interes&quot;&gt;Интерес&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/otkrovenie&quot;&gt;Откровение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/79899045@N05/14399346102/in/photostream/&quot; target=&quot;_blank&quot;&gt;♥Akuma-Tenshi♥ Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 14 Apr 2023 08:31:22 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4755 at https://vse.la</guid>
+ <comments>https://vse.la/dorfuchs/quadratic-formula-song-discriminant#comments</comments>
+</item>
+</channel>
+</rss>

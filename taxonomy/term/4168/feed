@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - Группа Цветы</title>
+ <link>https://vse.la/gruppa-cvety</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Звёздочка моя ясная</title>
+ <link>https://vse.la/gruppa-cvety/zvyozdochka-moya-yasnaya</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Песни у людей разные,&lt;br /&gt;
+А моя одна на века.&lt;br /&gt;
+Звездочка моя ясная,&lt;br /&gt;
+Как ты от меня далека!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Припев:&lt;/strong&gt;&lt;br /&gt;
+Поздно мы с тобой поняли,&lt;br /&gt;
+Что вдвоём вдвойне веселей&lt;br /&gt;
+Даже проплывать по небу,&lt;br /&gt;
+А не то, что жить на земле.&lt;/p&gt;
+
+&lt;p&gt;Облако тебя трогает,&lt;br /&gt;
+Хочет от меня закрыть.&lt;br /&gt;
+Чистая моя, строгая,&lt;br /&gt;
+Как же я хочу рядом быть.&lt;/p&gt;
+
+&lt;p&gt;(Припев)&lt;/p&gt;
+
+&lt;p&gt;Знаю, для тебя я не бог:&lt;br /&gt;
+Крылья, говорят, не те -&lt;br /&gt;
+Мне нельзя к тебе на небо&lt;br /&gt;
+А-а-а прилететь.&lt;/p&gt;
+
+&lt;p&gt;(Припев)&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/gruppa-cvety&quot;&gt;Группа Цветы&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-year field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Год:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/god/1970&quot;&gt;1970&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/pop&quot;&gt;Поп&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-info field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Информация о песне:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Автор слов: Ольга Фокина&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/lyubov&quot;&gt;Любовь&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/priznanie-v-lyubvi&quot;&gt;Признание в любви&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/romanticheskiy-vecher&quot;&gt;Романтический вечер&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/retro&quot;&gt;Ретро&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/vlechenie&quot;&gt;Влечение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/dezhavyu&quot;&gt;Дежавю&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/otreshyonnost&quot;&gt;Отрешённость&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/sozercanie&quot;&gt;Созерцание&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/133855332@N03/36880659920/in/photostream/&quot; target=&quot;_blank&quot;&gt;Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 16 Nov 2023 17:25:58 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4806 at https://vse.la</guid>
+ <comments>https://vse.la/gruppa-cvety/zvyozdochka-moya-yasnaya#comments</comments>
+</item>
+</channel>
+</rss>

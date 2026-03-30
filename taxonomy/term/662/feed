@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - из мультфильмов</title>
+ <link>https://vse.la/teg/iz-multfilmov</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Вальс (Из мультфильма Анастасия)</title>
+ <link>https://vse.la/pesni-na-detskiy-prazdnik/vals-iz-multfilma-anastasiya</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Как узор на окне&lt;br /&gt;
+Снова прошлое рядом.&lt;br /&gt;
+Кто-то пел песню мне&lt;br /&gt;
+В зимний вечер когда-то.&lt;/p&gt;
+
+&lt;p&gt;Словно в прошлом ожило&lt;br /&gt;
+Чьих-то бережных рук тепло,&lt;br /&gt;
+Вальс изысканных гостей&lt;br /&gt;
+И бег лихих коней.&lt;/p&gt;
+
+&lt;p&gt;Вальс кружил и нёс меня,&lt;br /&gt;
+Словно в сказку свою маня,&lt;br /&gt;
+Первый бал и первый вальс&lt;br /&gt;
+звучат во мне сейчас.&lt;/p&gt;
+
+&lt;p&gt;Зеркала в янтаре&lt;br /&gt;
+Мой восторг отражают.&lt;br /&gt;
+Кто-то пел на заре,&lt;br /&gt;
+Дом родной покидая:&lt;br /&gt;
+Будешь ты в декабре,&lt;br /&gt;
+Вновь со мной, дорогая.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/pesni-na-detskiy-prazdnik&quot;&gt;Песни на детский праздник&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/pesni-iz-multfilmov&quot;&gt;Песни из мультфильмов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/saundtrek&quot;&gt;Саундтрек&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-info field-type-text-long field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Информация о песне:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Из мультфильма Анастасия&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tema-pesni/iz-multfilmov&quot;&gt;Из мультфильмов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/iz-multfilmov&quot;&gt;из мультфильмов&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/voodushevlenie&quot;&gt;Воодушевление&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/dezhavyu&quot;&gt;Дежавю&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/chuvstvo/umirotvorenie&quot;&gt;Умиротворение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-istochnik field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://teksty-pesenok.ru/rus-anastasiya/tekst-pesni-kak-uzor-na-okne/1736067/&quot;&gt;Texty-pesenok.ru&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/150172755@N03/34305615393/in/photostream/&quot; target=&quot;_blank&quot;&gt;Gil Helori Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-vozrast field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Возраст:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/vozrast/5&quot;&gt;5&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/vozrast/8&quot;&gt;8&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/vozrast/10&quot;&gt;10&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/vozrast/15&quot;&gt;15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;7101&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 25 May 2022 17:13:57 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4677 at https://vse.la</guid>
+ <comments>https://vse.la/pesni-na-detskiy-prazdnik/vals-iz-multfilma-anastasiya#comments</comments>
+</item>
+<item>
+ <title>Белые кораблики. Текст песни</title>
+ <link>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B5%D0%BA%D1%81%D1%82-%D0%BF%D0%B5%D1%81%D0%BD%D0%B8</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B5%D0%BA%D1%81%D1%82-%D0%BF%D0%B5%D1%81%D0%BD%D0%B8&quot;&gt;&lt;img src=&quot;https://vse.la/images/styles/thumb180/public/stihi_images/bely_korablik.jpg&quot; width=&quot;180&quot; height=&quot;119&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;1.&lt;br /&gt;
+ Белые кораблики, белые кораблики&lt;br /&gt;
+ По небу плывут.&lt;br /&gt;
+ Белые кораблики, белые кораблики &lt;br /&gt;
+ Дождики везут.&lt;/p&gt;
+
+&lt;p&gt;2.&lt;br /&gt;
+ Пристани корабликам, пристани корабликам,&lt;br /&gt;
+ В небе не нужны.&lt;br /&gt;
+ Пристани корабликам, пристани корабликам,&lt;br /&gt;
+ К маковке сосны.&lt;/p&gt;
+
+&lt;p&gt;3.&lt;br /&gt;
+ Всё плывут кораблики, всё плывут кораблики,&lt;br /&gt;
+ К нам издалека.&lt;br /&gt;
+ Белые кораблики, белые кораблики -&lt;br /&gt;
+ Это облака.&lt;/p&gt;
+
+&lt;p&gt;Слова Л.Яхнина&lt;br /&gt;
+Музыка В.Шаинского&lt;/p&gt;
+
+&lt;p&gt;Из мультфильма Площадь картонных часов&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tematika field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тематика:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye&quot;&gt;Музыкальные&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tematika/muzykalnye/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 01 Aug 2014 09:16:14 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">545 at https://vse.la</guid>
+ <comments>https://vse.la/%D1%81%D1%82%D0%B8%D1%85/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8-%D1%82%D0%B5%D0%BA%D1%81%D1%82-%D0%BF%D0%B5%D1%81%D0%BD%D0%B8#comments</comments>
+</item>
+</channel>
+</rss>

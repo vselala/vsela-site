@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://vse.la"  xmlns:dc="https://purl.org/dc/elements/1.1/">
+<channel>
+ <title>vse.la - игры для детей</title>
+ <link>https://vse.la/teg/igry-dlya-detey</link>
+ <description></description>
+ <language>ru</language>
+<item>
+ <title>Математика наш друг</title>
+ <link>https://vse.la/detskie-pesni/matematika-nash-drug</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Вступление:&lt;br /&gt;
+- Почему всё цифры, цифры,&lt;br /&gt;
+Говорим о них, поём? -&lt;br /&gt;
+Просто этот остров&lt;br /&gt;
+Точно с математикой знаком. &lt;br /&gt;
+Что ж, давайте поиграем!&lt;br /&gt;
+Цифры хорошо ли знаем?&lt;br /&gt;
+- Да!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Песня:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Математика - наш друг, &lt;br /&gt;
+Видим цифры мы вокруг. &lt;br /&gt;
+Любим быстро мы считать. &lt;br /&gt;
+Можем это доказать. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Обращаясь к в&lt;strong&gt;о&lt;/strong&gt;де:)&lt;/em&gt;&lt;br /&gt;
+Ты, дружочек, не зевай-ка, &lt;br /&gt;
+Свою цифру называй-ка. &lt;br /&gt;
+Раз, два, три, четыре, пять!&lt;br /&gt;
+Будем мы с тобой играть. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Вода загадывает цифру от 1 до 5:)&lt;/em&gt;&lt;br /&gt;
+- Это цифра, это цифра...&lt;br /&gt;
+- Пять.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Дети собираются в хороводы по 5 человек,&lt;br /&gt;
+повторяют куплет и считают себя)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Математика - наш друг, &lt;br /&gt;
+Видим цифры мы вокруг. &lt;br /&gt;
+Любим быстро мы считать. &lt;br /&gt;
+Можем это доказать. &lt;/p&gt;
+
+&lt;p&gt;Раз, два, три, четыре, пять!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Действие продолжается,&lt;br /&gt;
+повторяется куплет для другого воды,&lt;br /&gt;
+каждый вода выбирает любую цифру,&lt;br /&gt;
+и все собираются в хороводы&lt;br /&gt;
+по столько человек)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-name-field-singer field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Исполнитель:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/igry&quot;&gt;Игры&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-yazik field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Язык:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/yazyk/russkiy&quot;&gt;Русский&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-genre field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Жанр:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/muzykalnyy-zhanr/avtorskaya-pesnya&quot;&gt;Авторская песня&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-song-theme field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Тема песни:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tema-pesni/detskie-pesni&quot;&gt;Детские песни&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Теги:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/matematika&quot;&gt;математика&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/igry-dlya-detey&quot;&gt;игры для детей&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/igry-detskogo-sada&quot;&gt;игры детского сада&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/teg/pesni-detskogo-sada&quot;&gt;песни детского сада&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/teg/detskiy-sad&quot;&gt;детский сад&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-chuvstva field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Чувства:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/chuvstvo/nablyudenie&quot;&gt;Наблюдение&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fotosource field-type-link-field field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Источник фото:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://flickr.com/photos/busymum909/6877828530/in/photostream&quot; target=&quot;_blank&quot;&gt;Valérie &quot;BusyMum&quot; Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-vozrast field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Возраст:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/vozrast/3&quot;&gt;3&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/vozrast/5&quot;&gt;5&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/vozrast/8&quot;&gt;8&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-pop field-type-number-integer field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Популярность:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;2110&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 15 Apr 2023 11:36:16 +0000</pubDate>
+ <dc:creator>Кіт 1</dc:creator>
+ <guid isPermaLink="false">4757 at https://vse.la</guid>
+ <comments>https://vse.la/detskie-pesni/matematika-nash-drug#comments</comments>
+</item>
+</channel>
+</rss>
